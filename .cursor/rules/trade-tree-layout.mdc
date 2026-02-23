@@ -1,0 +1,28 @@
+---
+description: Trade tree layout preferences for Roster Routes
+globs: app/page.tsx
+alwaysApply: false
+---
+
+# Trade Tree Layout Rules
+
+When modifying the trade tree visualization in `page.tsx`:
+
+## Spacing
+- **Tighten for readability.** Nodes must be close enough to read without zooming. Avoid excessive gaps.
+- **No overlap.** Nodes must never be on top of each other. Minimum gap = CARD_WIDTH (148) + small buffer between node centers.
+- Target values: `siblingGap` ~70, `topRowGap` ~56, `RANK_GAP` ~80, `leafWidth` ~260. CARD_WIDTH=148, CARD_H=168.
+- Do NOT increase spacing — the user finds excessive spacing frustrating.
+- **Bottom cutoff:** Ensure fitView padding leaves room for footer + trade pager so content isn't clipped.
+
+## Lines
+- **Orthogonal only.** All edges must be strictly vertical or horizontal (90-degree turns).
+- Use StepEdge for paths that need bends; use DirectEdge only for straight vertical/horizontal segments.
+- Bottom assets: date → middle asset (vertical), then horizontal rail connecting all assets. No diagonal date→asset lines.
+
+## Structure
+- No repeat nodes: use `skipRootAsDuplicate` when recursing — if parent asset equals child focal, connect parent to date, skip duplicate root.
+- **Progressive disclosure (TODO):** Expand branches on click instead of showing everything — e.g. "+3 more" or chevron to reveal. Reduces clutter; no overlap.
+- **Child placement:** Prefer parent X, but nudge right to avoid overlap. Sort by parent X left-to-right, then place each child at max(prevRight + siblingGap + width/2, parentX). Keeps lines short when possible, avoids overlap.
+- **Date nodes:** Center above bottom row using (min + max) of bottomCenterXs. Connect date to the asset directly beneath it (closest X) so the line stays vertical.
+- **Date node teams display:** Show full teams involved in the trade (e.g. "OKC ↔ DEN" or "4-team: NOP, MIL, OKC, DEN").

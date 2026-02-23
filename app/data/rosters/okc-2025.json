@@ -1,0 +1,23 @@
+{
+  "id": "okc-2025",
+  "team": "OKC",
+  "season": "2024-25",
+  "label": "2025 Thunder",
+  "players": [
+    { "nbaId": "1628983", "name": "Shai Gilgeous-Alexander" },
+    { "nbaId": "1631093", "name": "Chet Holmgren" },
+    { "nbaId": "1631114", "name": "Jalen Williams" },
+    { "nbaId": "1629652", "name": "Luguentz Dort" },
+    { "nbaId": "1627936", "name": "Alex Caruso" },
+    { "nbaId": "1630527", "name": "Cason Wallace" },
+    { "nbaId": "1631217", "name": "Isaiah Hartenstein" },
+    { "nbaId": "1630198", "name": "Isaiah Joe" },
+    { "nbaId": "1630598", "name": "Aaron Wiggins" },
+    { "nbaId": "1631119", "name": "Jaylin Williams" },
+    { "nbaId": "1629026", "name": "Kenrich Williams" },
+    { "nbaId": "1631172", "name": "Ousmane Dieng" },
+    { "nbaId": "1641768", "name": "Dillon Jones" },
+    { "nbaId": "1641741", "name": "Branden Carlson" },
+    { "nbaId": "1631216", "name": "Ajay Mitchell" }
+  ]
+}

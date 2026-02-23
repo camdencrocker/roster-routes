@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "name-jacob-evans",
+    "fullName": "Jacob Evans",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-omari-spellman",
+    "fullName": "Omari Spellman",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-andrew-wiggins",
+    "fullName": "Andrew Wiggins",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-nikola-vucevic",
+    "fullName": "Nikola Vucevic",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-al-farouq-aminu",
+    "fullName": "Al-Farouq Aminu",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-wendell-carter-jr",
+    "fullName": "Wendell Carter Jr.",
+    "teamAbbreviation": "ORL"
+  },
+  {
+    "id": "name-otto-porter-jr",
+    "fullName": "Otto Porter Jr.",
+    "teamAbbreviation": "ORL"
+  },
+  {
+    "id": "name-al-horford",
+    "fullName": "Al Horford",
+    "teamAbbreviation": "BOS"
+  },
+  {
+    "id": "name-moses-brown",
+    "fullName": "Moses Brown",
+    "teamAbbreviation": "BOS"
+  },
+  {
+    "id": "name-kemba-walker",
+    "fullName": "Kemba Walker",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-rights",
+    "fullName": "rights",
+    "teamAbbreviation": "MIK"
+  },
+  {
+    "id": "name-tobias-harris",
+    "fullName": "Tobias Harris",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-boban-marjanovic",
+    "fullName": "Boban Marjanovic",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-mike-scott",
+    "fullName": "Mike Scott",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-landry-shamet",
+    "fullName": "Landry Shamet",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-wilson-chandler",
+    "fullName": "Wilson Chandler",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-mike-muscala",
+    "fullName": "Mike Muscala",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-thunder-option",
+    "fullName": "Thunder option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-danilo-gallinari",
+    "fullName": "Danilo Gallinari",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-tim-hardaway-jr",
+    "fullName": "Tim Hardaway Jr.",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-courtney-lee",
+    "fullName": "Courtney Lee",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-trey-burke",
+    "fullName": "Trey Burke",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-dennis-smith-jr",
+    "fullName": "Dennis Smith Jr.",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-deandre-jordan",
+    "fullName": "DeAndre Jordan",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-wesley-matthews",
+    "fullName": "Wesley Matthews",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-robert-covington",
+    "fullName": "Robert Covington",
+    "teamAbbreviation": "POR"
+  },
+  {
+    "id": "name-trevor-ariza",
+    "fullName": "Trevor Ariza",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-pj-tucker",
+    "fullName": "P.J. Tucker",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-rodions-kurucs",
+    "fullName": "Rodions Kurucs",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-rockets-option",
+    "fullName": "Rockets option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-dj-augustin",
+    "fullName": "D.J. Augustin",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-dj-wilson",
+    "fullName": "D.J. Wilson",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-marcus-morris",
+    "fullName": "Marcus Morris",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-knicks-option",
+    "fullName": "Knicks option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-maurice-quotmoequot-harkless",
+    "fullName": "Maurice &quot;Moe&quot; Harkless",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-kyle-korver",
+    "fullName": "Kyle Korver",
+    "teamAbbreviation": "CLE"
+  },
+  {
+    "id": "name-mike-dunleavy-jr",
+    "fullName": "Mike Dunleavy Jr.",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-mo-williams",
+    "fullName": "Mo Williams",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-kelly-oubre-jr",
+    "fullName": "Kelly Oubre Jr.",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-greg-monroe",
+    "fullName": "Greg Monroe",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-nikola-mirotic",
+    "fullName": "Nikola Mirotic",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-bulls-option",
+    "fullName": "Bulls option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-omer-asik",
+    "fullName": "Omer Asik",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-tony-allen",
+    "fullName": "Tony Allen",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-jameer-nelson",
+    "fullName": "Jameer Nelson",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-guillermo-quotwillyquot-hernangomez",
+    "fullName": "Guillermo &quot;Willy&quot; Hernangomez",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-johnny-obryant-iii",
+    "fullName": "Johnny O'Bryant III",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-derrick-rose",
+    "fullName": "Derrick Rose",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-alec-burks",
+    "fullName": "Alec Burks",
+    "teamAbbreviation": "CLE"
+  },
+  {
+    "id": "name-matthew-dellavedova",
+    "fullName": "Matthew Dellavedova",
+    "teamAbbreviation": "SUN"
+  },
+  {
+    "id": "name-john-henson",
+    "fullName": "John Henson",
+    "teamAbbreviation": "SUN"
+  },
+  {
+    "id": "name-george-hill",
+    "fullName": "George Hill",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-jason-smith",
+    "fullName": "Jason Smith",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-thaddeus-young",
+    "fullName": "Thaddeus Young",
+    "teamAbbreviation": "IND"
+  },
+  {
+    "id": "name-garrett-temple",
+    "fullName": "Garrett Temple",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-ben-mclemore",
+    "fullName": "Ben McLemore",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-deyonta-davis",
+    "fullName": "Deyonta Davis",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-matt-thomas",
+    "fullName": "Matt Thomas",
+    "teamAbbreviation": "UTA"
+  },
+  {
+    "id": "name-brian-roberts",
+    "fullName": "Brian Roberts",
+    "teamAbbreviation": "POR"
+  },
+  {
+    "id": "name-jabari-parker",
+    "fullName": "Jabari Parker",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-alex-len",
+    "fullName": "Alex Len",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-dewayne-dedmon",
+    "fullName": "Dewayne Dedmon",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-allen-crabbe",
+    "fullName": "Allen Crabbe",
+    "teamAbbreviation": "NIC"
+  },
+  {
+    "id": "name-taurean-prince",
+    "fullName": "Taurean Prince",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-rodney-hood",
+    "fullName": "Rodney Hood",
+    "teamAbbreviation": "POR"
+  },
+  {
+    "id": "name-nik-stauskas",
+    "fullName": "Nik Stauskas",
+    "teamAbbreviation": "CLE"
+  },
+  {
+    "id": "name-wade-baldwin-iv",
+    "fullName": "Wade Baldwin IV",
+    "teamAbbreviation": "CLE"
+  },
+  {
+    "id": "name-delon-wright",
+    "fullName": "Delon Wright",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-reggie-bullock",
+    "fullName": "Reggie Bullock",
+    "teamAbbreviation": "LAL"
+  },
+  {
+    "id": "name-sviatoslav-mykhailiuk",
+    "fullName": "Sviatoslav Mykhailiuk",
+    "teamAbbreviation": "DET"
+  },
+  {
+    "id": "name-christian-wood",
+    "fullName": "Christian Wood",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-76ers-option",
+    "fullName": "76ers option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-glenn-robinson-iii",
+    "fullName": "Glenn Robinson III",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-dwight-howard",
+    "fullName": "Dwight Howard",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-timofey-mozgov",
+    "fullName": "Timofey Mozgov",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-darrell-arthur",
+    "fullName": "Darrell Arthur",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-jared-dudley",
+    "fullName": "Jared Dudley",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-stephon-marbury",
+    "fullName": "Stephon Marbury",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-anfernee-penny-hardaway",
+    "fullName": "Anfernee \"Penny\" Hardaway",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-cezary-trybanski",
+    "fullName": "Cezary Trybanski",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-antonio-mcdyess",
+    "fullName": "Antonio McDyess",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-maciej-lampe",
+    "fullName": "Maciej Lampe",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-howard-eisley",
+    "fullName": "Howard Eisley",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-charlie-ward",
+    "fullName": "Charlie Ward",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-keon-clark",
+    "fullName": "Keon Clark",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-ben-handlogten",
+    "fullName": "Ben Handlogten",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-tom-gugliotta",
+    "fullName": "Tom Gugliotta",
+    "teamAbbreviation": "UTA"
+  },
+  {
+    "id": "name-hakim-warrick",
+    "fullName": "Hakim Warrick",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-joe-alexander",
+    "fullName": "Joe Alexander",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-john-salmons",
+    "fullName": "John Salmons",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-daequan-cook",
+    "fullName": "Daequan Cook",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-gordan-giricek",
+    "fullName": "Gordan Giricek",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-rodney-carney",
+    "fullName": "Rodney Carney",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-calvin-booth",
+    "fullName": "Calvin Booth",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-steven-hunter",
+    "fullName": "Steven Hunter",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-jason-kidd",
+    "fullName": "Jason Kidd",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-malik-allen",
+    "fullName": "Malik Allen",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-antoine-wright",
+    "fullName": "Antoine Wright",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-devin-harris",
+    "fullName": "Devin Harris",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-desagana-diop",
+    "fullName": "DeSagana Diop",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-trenton-hassell",
+    "fullName": "Trenton Hassell",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-maurice-ager",
+    "fullName": "Maurice Ager",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-keith-van-horn",
+    "fullName": "Keith Van Horn",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-pau-gasol",
+    "fullName": "Pau Gasol",
+    "teamAbbreviation": "LAL"
+  },
+  {
+    "id": "name-kwame-brown",
+    "fullName": "Kwame Brown",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-javaris-crittenton",
+    "fullName": "Javaris Crittenton",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-aaron-mckie",
+    "fullName": "Aaron McKie",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-chucky-atkins",
+    "fullName": "Chucky Atkins",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-damien-wilkins",
+    "fullName": "Damien Wilkins",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-etan-thomas",
+    "fullName": "Etan Thomas",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-francisco-elson",
+    "fullName": "Francisco Elson",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-jodie-meeks",
+    "fullName": "Jodie Meeks",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-primoz-brezec",
+    "fullName": "Primoz Brezec",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-royal-ivey",
+    "fullName": "Royal Ivey",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-marcus-camby",
+    "fullName": "Marcus Camby",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-renaldo-balkman",
+    "fullName": "Renaldo Balkman",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-taurean-green",
+    "fullName": "Taurean Green",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-bobby-jones",
+    "fullName": "Bobby Jones",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-shawn-marion",
+    "fullName": "Shawn Marion",
+    "teamAbbreviation": "TOR"
+  },
+  {
+    "id": "name-marcus-banks",
+    "fullName": "Marcus Banks",
+    "teamAbbreviation": "TOR"
+  },
+  {
+    "id": "name-jermaine-oneal",
+    "fullName": "Jermaine O'Neal",
+    "teamAbbreviation": "MIA"
+  },
+  {
+    "id": "name-jamario-moon",
+    "fullName": "Jamario Moon",
+    "teamAbbreviation": "MIA"
+  },
+  {
+    "id": "name-charlie-bell",
+    "fullName": "Charlie Bell",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-dan-gadzuric",
+    "fullName": "Dan Gadzuric",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-corey-maggette",
+    "fullName": "Corey Maggette",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-gerald-green",
+    "fullName": "Gerald Green",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-kirk-snyder",
+    "fullName": "Kirk Snyder",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-boris-diaw",
+    "fullName": "Boris Diaw",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-raja-bell",
+    "fullName": "Raja Bell",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-sean-singletary",
+    "fullName": "Sean Singletary",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-jason-richardson",
+    "fullName": "Jason Richardson",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-jason-hart",
+    "fullName": "Jason Hart",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-alando-tucker",
+    "fullName": "Alando Tucker",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-shawne-williams",
+    "fullName": "Shawne Williams",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-eddie-jones",
+    "fullName": "Eddie Jones",
+    "teamAbbreviation": "IND"
+  },
+  {
+    "id": "name-shaquille-oneal",
+    "fullName": "Shaquille O'Neal",
+    "teamAbbreviation": "CLE"
+  },
+  {
+    "id": "name-ben-wallace",
+    "fullName": "Ben Wallace",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-aleksandar-sasha-pavlovic",
+    "fullName": "Aleksandar \"Sasha\" Pavlovic",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-deron-williams",
+    "fullName": "Deron Williams",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-derrick-favors",
+    "fullName": "Derrick Favors",
+    "teamAbbreviation": "UTA"
+  },
+  {
+    "id": "name-jerryd-bayless",
+    "fullName": "Jerryd Bayless",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-gerald-wallace",
+    "fullName": "Gerald Wallace",
+    "teamAbbreviation": "POR"
+  },
+  {
+    "id": "name-dante-cunningham",
+    "fullName": "Dante Cunningham",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-joel-przybilla",
+    "fullName": "Joel Przybilla",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-sean-marks",
+    "fullName": "Sean Marks",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-ronnie-brewer",
+    "fullName": "Ronnie Brewer",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-aaron-brooks",
+    "fullName": "Aaron Brooks",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-goran-dragic",
+    "fullName": "Goran Dragic",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-carlos-delfino",
+    "fullName": "Carlos Delfino",
+    "teamAbbreviation": "TOR"
+  },
+  {
+    "id": "name-alex-acker",
+    "fullName": "Alex Acker",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-steve-novak",
+    "fullName": "Steve Novak",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-marcus-williams",
+    "fullName": "Marcus Williams",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-marcus-williams-to-warriors-for",
+    "fullName": "Marcus Williams to Warriors for",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-craig-brackins",
+    "fullName": "Craig Brackins",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-darius-songaila",
+    "fullName": "Darius Songaila",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-willie-green",
+    "fullName": "Willie Green",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-arron-afflalo",
+    "fullName": "Arron Afflalo",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-walter-sharpe",
+    "fullName": "Walter Sharpe",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-jon-brockman",
+    "fullName": "Jon Brockman",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-darnell-jackson",
+    "fullName": "Darnell Jackson",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-mehmet-okur",
+    "fullName": "Mehmet Okur",
+    "teamAbbreviation": "POR"
+  },
+  {
+    "id": "name-marko-jaric",
+    "fullName": "Marko Jaric",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-lionel-chalmers",
+    "fullName": "Lionel Chalmers",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-sam-cassell",
+    "fullName": "Sam Cassell",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-chris-paul",
+    "fullName": "Chris Paul",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-eric-gordon",
+    "fullName": "Eric Gordon",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-chris-kaman",
+    "fullName": "Chris Kaman",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-tracy-mcgrady",
+    "fullName": "Tracy McGrady",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-carl-landry",
+    "fullName": "Carl Landry",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-joey-dorsey",
+    "fullName": "Joey Dorsey",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-kevin-martin",
+    "fullName": "Kevin Martin",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-hilton-armstrong",
+    "fullName": "Hilton Armstrong",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-jordan-hill",
+    "fullName": "Jordan Hill",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-jared-jeffries",
+    "fullName": "Jared Jeffries",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-brandan-wright",
+    "fullName": "Brandan Wright",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-troy-murphy",
+    "fullName": "Troy Murphy",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-carmelo-anthony",
+    "fullName": "Carmelo Anthony",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-chauncey-billups",
+    "fullName": "Chauncey Billups",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-anthony-carter",
+    "fullName": "Anthony Carter",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-shelden-williams",
+    "fullName": "Shelden Williams",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-nuggets-option",
+    "fullName": "Nuggets option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-raymond-felton",
+    "fullName": "Raymond Felton",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-kosta-koufos",
+    "fullName": "Kosta Koufos",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-josh-childress",
+    "fullName": "Josh Childress",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-emeka-okafor",
+    "fullName": "Emeka Okafor",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-rashard-lewis",
+    "fullName": "Rashard Lewis",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-chris-quinn",
+    "fullName": "Chris Quinn",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-chris-douglas-roberts",
+    "fullName": "Chris Douglas-Roberts",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-joe-johnson",
+    "fullName": "Joe Johnson",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-anthony-morrow",
+    "fullName": "Anthony Morrow",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-jordan-farmar",
+    "fullName": "Jordan Farmar",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-jordan-williams",
+    "fullName": "Jordan Williams",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-deshawn-stevenson",
+    "fullName": "DeShawn Stevenson",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-johan-petro",
+    "fullName": "Johan Petro",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-steve-nash",
+    "fullName": "Steve Nash",
+    "teamAbbreviation": "LAL"
+  },
+  {
+    "id": "name-byron-mullens",
+    "fullName": "Byron Mullens",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-brad-miller",
+    "fullName": "Brad Miller",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-tyrus-thomas",
+    "fullName": "Tyrus Thomas",
+    "teamAbbreviation": "BOB"
+  },
+  {
+    "id": "name-ronald-flip-murray",
+    "fullName": "Ronald \"Flip\" Murray",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-acie-law",
+    "fullName": "Acie Law",
+    "teamAbbreviation": "CHI"
+  },
+  {
+    "id": "name-paul-pierce",
+    "fullName": "Paul Pierce",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-kevin-garnett",
+    "fullName": "Kevin Garnett",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-jason-terry",
+    "fullName": "Jason Terry",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-dj-white",
+    "fullName": "D.J. White",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-kris-humphries",
+    "fullName": "Kris Humphries",
+    "teamAbbreviation": "BOS"
+  },
+  {
+    "id": "name-marshon-brooks",
+    "fullName": "MarShon Brooks",
+    "teamAbbreviation": "BOS"
+  },
+  {
+    "id": "name-kris-joseph",
+    "fullName": "Kris Joseph",
+    "teamAbbreviation": "BOS"
+  },
+  {
+    "id": "name-keith-bogans",
+    "fullName": "Keith Bogans",
+    "teamAbbreviation": "BOS"
+  },
+  {
+    "id": "name-marcin-gortat",
+    "fullName": "Marcin Gortat",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-kendall-marshall",
+    "fullName": "Kendall Marshall",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-shannon-brown",
+    "fullName": "Shannon Brown",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-malcolm-lee",
+    "fullName": "Malcolm Lee",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-luis-scola",
+    "fullName": "Luis Scola",
+    "teamAbbreviation": "IND"
+  },
+  {
+    "id": "name-miles-plumlee",
+    "fullName": "Miles Plumlee",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-luke-ridnour",
+    "fullName": "Luke Ridnour",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-bobby-brown",
+    "fullName": "Bobby Brown",
+    "teamAbbreviation": "HOR"
+  },
+  {
+    "id": "name-antonio-daniels",
+    "fullName": "Antonio Daniels",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-sebastian-telfair",
+    "fullName": "Sebastian Telfair",
+    "teamAbbreviation": "TOR"
+  },
+  {
+    "id": "name-hamed-haddadi",
+    "fullName": "Hamed Haddadi",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-curtis-jerrells",
+    "fullName": "Curtis Jerrells",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-jeremy-lin",
+    "fullName": "Jeremy Lin",
+    "teamAbbreviation": "LAL"
+  },
+  {
+    "id": "name-lou-williams",
+    "fullName": "Lou Williams",
+    "teamAbbreviation": "TOR"
+  },
+  {
+    "id": "name-cheikh-samb",
+    "fullName": "Cheikh Samb",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-brandon-rush",
+    "fullName": "Brandon Rush",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-lou-amundson",
+    "fullName": "Lou Amundson",
+    "teamAbbreviation": "IND"
+  },
+  {
+    "id": "name-eddy-curry",
+    "fullName": "Eddy Curry",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-corey-brewer",
+    "fullName": "Corey Brewer",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-dejuan-blair",
+    "fullName": "DeJuan Blair",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-isaiah-thomas",
+    "fullName": "Isaiah Thomas",
+    "teamAbbreviation": "BOS"
+  },
+  {
+    "id": "name-marcus-thornton",
+    "fullName": "Marcus Thornton",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-reggie-evans",
+    "fullName": "Reggie Evans",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-tyreke-evans",
+    "fullName": "Tyreke Evans",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-kings-option",
+    "fullName": "Kings option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-greivis-vasquez",
+    "fullName": "Greivis Vasquez",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-kurt-thomas",
+    "fullName": "Kurt Thomas",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-robin-lopez",
+    "fullName": "Robin Lopez",
+    "teamAbbreviation": "PEL"
+  },
+  {
+    "id": "name-terrel-harris",
+    "fullName": "Terrel Harris",
+    "teamAbbreviation": "PEL"
+  },
+  {
+    "id": "name-rudy-fernandez",
+    "fullName": "Rudy Fernandez",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-jeremy-lamb",
+    "fullName": "Jeremy Lamb",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-randy-foye",
+    "fullName": "Randy Foye",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-dj-augustine",
+    "fullName": "D.J. Augustine",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-demarcus-cousins",
+    "fullName": "DeMarcus Cousins",
+    "teamAbbreviation": "NOP"
+  },
+  {
+    "id": "name-omri-casspi",
+    "fullName": "Omri Casspi",
+    "teamAbbreviation": "NOP"
+  },
+  {
+    "id": "name-buddy-hield",
+    "fullName": "Buddy Hield",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-langston-galloway",
+    "fullName": "Langston Galloway",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-mason-plumlee",
+    "fullName": "Mason Plumlee",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-bojan-bogdanovic",
+    "fullName": "Bojan Bogdanovic",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-chris-mccullough",
+    "fullName": "Chris McCullough",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-andrew-nicholson",
+    "fullName": "Andrew Nicholson",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-marco-belinelli",
+    "fullName": "Marco Belinelli",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-jared-sullinger",
+    "fullName": "Jared Sullinger",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-jae-crowder",
+    "fullName": "Jae Crowder",
+    "teamAbbreviation": "CLE"
+  },
+  {
+    "id": "name-ante-zizic",
+    "fullName": "Ante Zizic",
+    "teamAbbreviation": "CLE"
+  },
+  {
+    "id": "name-justin-hamilton",
+    "fullName": "Justin Hamilton",
+    "teamAbbreviation": "TOR"
+  },
+  {
+    "id": "name-demarre-carroll",
+    "fullName": "DeMarre Carroll",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-brandon-davies",
+    "fullName": "Brandon Davies",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-andrei-kirilenko",
+    "fullName": "Andrei Kirilenko",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-jorge-gutierrez",
+    "fullName": "Jorge Gutierrez",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-troy-daniels",
+    "fullName": "Troy Daniels",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-elfrid-payton",
+    "fullName": "Elfrid Payton",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-tyler-zeller",
+    "fullName": "Tyler Zeller",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-rashad-vaughn",
+    "fullName": "Rashad Vaughn",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-isaiah-whitehead",
+    "fullName": "Isaiah Whitehead",
+    "teamAbbreviation": "DEN"
+  },
+  {
+    "id": "name-kenneth-faried",
+    "fullName": "Kenneth Faried",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-trevor-booker",
+    "fullName": "Trevor Booker",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-jahlil-okafor",
+    "fullName": "Jahlil Okafor",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-casper-ware",
+    "fullName": "Casper Ware",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-marquis-teague",
+    "fullName": "Marquis Teague",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-gary-neal",
+    "fullName": "Gary Neal",
+    "teamAbbreviation": "MIN"
+  },
+  {
+    "id": "name-reggie-jackson",
+    "fullName": "Reggie Jackson",
+    "teamAbbreviation": "76E"
+  },
+  {
+    "id": "name-kendrick-perkins",
+    "fullName": "Kendrick Perkins",
+    "teamAbbreviation": "76E"
+  },
+  {
+    "id": "name-grant-jerrett",
+    "fullName": "Grant Jerrett",
+    "teamAbbreviation": "76E"
+  },
+  {
+    "id": "name-enes-kanter",
+    "fullName": "Enes Kanter",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-kyle-singler",
+    "fullName": "Kyle Singler",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-maurice-moe-harkless",
+    "fullName": "Maurice \"Moe\" Harkless",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-danny-granger",
+    "fullName": "Danny Granger",
+    "teamAbbreviation": "DET"
+  },
+  {
+    "id": "name-jevon-carter",
+    "fullName": "Jevon Carter",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-josh-jackson",
+    "fullName": "Josh Jackson",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-deanthony-melton",
+    "fullName": "De'Anthony Melton",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-terry-rozier",
+    "fullName": "Terry Rozier",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-iman-shumpert",
+    "fullName": "Iman Shumpert",
+    "teamAbbreviation": "SAC"
+  },
+  {
+    "id": "name-pelicans-option",
+    "fullName": "Pelicans option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-josh-hart",
+    "fullName": "Josh Hart",
+    "teamAbbreviation": "NOP"
+  },
+  {
+    "id": "name-dante-exum",
+    "fullName": "Dante Exum",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-abdel-nader",
+    "fullName": "Abdel Nader",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-ricky-rubio",
+    "fullName": "Ricky Rubio",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-ty-jerome",
+    "fullName": "Ty Jerome",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-jalen-lecque",
+    "fullName": "Jalen Lecque",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-chandler-hutchison",
+    "fullName": "Chandler Hutchison",
+    "teamAbbreviation": "SAS"
+  },
+  {
+    "id": "name-sekou-doumbouya",
+    "fullName": "Sekou Doumbouya",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-steven-adams",
+    "fullName": "Steven Adams",
+    "teamAbbreviation": "MEM"
+  },
+  {
+    "id": "name-torrey-craig",
+    "fullName": "Torrey Craig",
+    "teamAbbreviation": "PHX"
+  },
+  {
+    "id": "name-jalen-smith",
+    "fullName": "Jalen Smith",
+    "teamAbbreviation": "IND"
+  },
+  {
+    "id": "name-john-wall",
+    "fullName": "John Wall",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-danny-green",
+    "fullName": "Danny Green",
+    "teamAbbreviation": "HOU"
+  },
+  {
+    "id": "name-tj-warren",
+    "fullName": "T.J. Warren",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-nets-option",
+    "fullName": "Nets option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-matisse-thybulle",
+    "fullName": "Matisse Thybulle",
+    "teamAbbreviation": "POR"
+  },
+  {
+    "id": "name-ryan-arcidiacono",
+    "fullName": "Ryan Arcidiacono",
+    "teamAbbreviation": "POR"
+  },
+  {
+    "id": "name-royce-oneale",
+    "fullName": "Royce O'Neale",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-luke-kennard",
+    "fullName": "Luke Kennard",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-grizzlies-option",
+    "fullName": "Grizzlies option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-rodney-mcgruder",
+    "fullName": "Rodney McGruder",
+    "teamAbbreviation": "REG"
+  },
+  {
+    "id": "name-justin-patton",
+    "fullName": "Justin Patton",
+    "teamAbbreviation": "LAC"
+  },
+  {
+    "id": "name-ed-davis",
+    "fullName": "Ed Davis",
+    "teamAbbreviation": "NYK"
+  },
+  {
+    "id": "name-kentavious-caldwell-pope",
+    "fullName": "Kentavious Caldwell-Pope",
+    "teamAbbreviation": "ISA"
+  },
+  {
+    "id": "name-kyle-kuzma",
+    "fullName": "Kyle Kuzma",
+    "teamAbbreviation": "ISA"
+  },
+  {
+    "id": "name-montrezl-harrell",
+    "fullName": "Montrezl Harrell",
+    "teamAbbreviation": "ISA"
+  },
+  {
+    "id": "name-jordan-nwora",
+    "fullName": "Jordan Nwora",
+    "teamAbbreviation": "IND"
+  },
+  {
+    "id": "name-serge-ibaka",
+    "fullName": "Serge Ibaka",
+    "teamAbbreviation": "IND"
+  },
+  {
+    "id": "name-vernon-carey-jr",
+    "fullName": "Vernon Carey Jr.",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-ish-smith",
+    "fullName": "Ish Smith",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-marcus-smart",
+    "fullName": "Marcus Smart",
+    "teamAbbreviation": "JUL"
+  },
+  {
+    "id": "name-zylan-cheatham",
+    "fullName": "Zylan Cheatham",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-josh-gray",
+    "fullName": "Josh Gray",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-darius-miller",
+    "fullName": "Darius Miller",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-kenrich-williams",
+    "fullName": "Kenrich Williams",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-filip-petrusev",
+    "fullName": "Filip Petrusev",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-nicolas-batum",
+    "fullName": "Nicolas Batum",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-kenyon-martin-jr",
+    "fullName": "Kenyon Martin Jr.",
+    "teamAbbreviation": "PHI"
+  },
+  {
+    "id": "name-gordon-hayward",
+    "fullName": "Gordon Hayward",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-vasilije-micic",
+    "fullName": "Vasilije Micic",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-tre-mann",
+    "fullName": "Tre Mann",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-davis-bertans",
+    "fullName": "Davis Bertans",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-jordan-goodwin",
+    "fullName": "Jordan Goodwin",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-isaiah-todd",
+    "fullName": "Isaiah Todd",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-wizards-option",
+    "fullName": "Wizards option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-james-johnson",
+    "fullName": "James Johnson",
+    "teamAbbreviation": "OKC"
+  },
+  {
+    "id": "name-grant-williams",
+    "fullName": "Grant Williams",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-seth-curry",
+    "fullName": "Seth Curry",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-pj-washington",
+    "fullName": "P.J. Washington",
+    "teamAbbreviation": "DAL"
+  },
+  {
+    "id": "name-jarrett-allen",
+    "fullName": "Jarrett Allen",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-caris-levert",
+    "fullName": "Caris LeVert",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-cameron-payne",
+    "fullName": "Cameron Payne",
+    "teamAbbreviation": "SAS"
+  },
+  {
+    "id": "name-spurs-option",
+    "fullName": "Spurs option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-edmond-sumner",
+    "fullName": "Edmond Sumner",
+    "teamAbbreviation": "BKN"
+  },
+  {
+    "id": "name-khris-middleton",
+    "fullName": "Khris Middleton",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-aj-johnson",
+    "fullName": "A.J. Johnson",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-jericho-sims",
+    "fullName": "Jericho Sims",
+    "teamAbbreviation": "MIL"
+  },
+  {
+    "id": "name-shabazz-napier",
+    "fullName": "Shabazz Napier",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-treveon-graham",
+    "fullName": "Treveon Graham",
+    "teamAbbreviation": "GSW"
+  },
+  {
+    "id": "name-aaron-holiday",
+    "fullName": "Aaron Holiday",
+    "teamAbbreviation": "WAS"
+  },
+  {
+    "id": "name-usman-garuba",
+    "fullName": "Usman Garuba",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-tyty-washington-jr",
+    "fullName": "TyTy Washington Jr.",
+    "teamAbbreviation": "ATL"
+  },
+  {
+    "id": "name-timberwolves-option",
+    "fullName": "Timberwolves option",
+    "teamAbbreviation": "SWA"
+  },
+  {
+    "id": "name-charlie-brown-jr",
+    "fullName": "Charlie Brown Jr.",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-daquan-jeffries",
+    "fullName": "DaQuan Jeffries",
+    "teamAbbreviation": "CHA"
+  },
+  {
+    "id": "name-duane-washington-jr",
+    "fullName": "Duane Washington Jr.",
+    "teamAbbreviation": "CHA"
+  }
+]

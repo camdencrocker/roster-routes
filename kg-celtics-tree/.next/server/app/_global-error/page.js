@@ -1,0 +1,10 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/5ee43_8da61077._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__34808149._.js")
+R.c("server/chunks/ssr/5ee43_next_dist_185a73d6._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__fdc33cbf._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__b336db93._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__d3e6a273._.js")
+R.c("server/chunks/ssr/kg-celtics-tree__next-internal_server_app__global-error_page_actions_b73435d4.js")
+R.m(89366)
+module.exports=R.m(89366).exports

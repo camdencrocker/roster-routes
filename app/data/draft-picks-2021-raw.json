@@ -1,0 +1,791 @@
+{
+  "source": "file:/Users/camdencrocker/roster-routes/app/data/2021 NBA Draft Pick Transactions.html",
+  "fetchedAt": "2026-02-11T19:20:37.508Z",
+  "note": "Double-check against trades.json before merging; some trades may already exist.",
+  "picks": [
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 1,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Cade Cunningham",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 2,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Jalen Green",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 3,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Evan Mobley",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 4,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Scottie Barnes",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 5,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Jalen Suggs",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 6,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Josh Giddey",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 7,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Jonathan Kuminga",
+      "tradeSummary": "Warriors &nbsp; Traded • D'Angelo Russell • Jacob Evans • Omari Spellman to Timberwolves for • Andrew Wiggins • first round pick (protected top 3 in 2021, unprotected in 2022) (2021 #7-Jonathan Kuminga) • 2021 second round pick (#36-Miles McBride) on 2020-02-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2020-02-06",
+          "summary": "Warriors &nbsp; Traded • D'Angelo Russell • Jacob Evans • Omari Spellman to Timberwolves for • Andrew Wiggins • first round pick (protected top 3 in 2021, unprotected in 2022) (2021 #7-Jonathan Kuminga) • 2021 second round pick (#36-Miles McBride)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 8,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Franz Wagner",
+      "tradeSummary": "Magic &nbsp; Traded • Nikola Vucevic • Al-Farouq Aminu to Bulls for • Wendell Carter Jr. • Otto Porter Jr. • 2021 first round pick (protected top 4 in 2021) (#8-Franz Wagner) • draft pick(s) (first round pick protected top 4 in 2023, top 3 in 2024, else 2026 second round pick, 2027 second round pick) (2023 #11-Jett Howard) on 2021-03-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2021-03-25",
+          "summary": "Magic &nbsp; Traded • Nikola Vucevic • Al-Farouq Aminu to Bulls for • Wendell Carter Jr. • Otto Porter Jr. • 2021 first round pick (protected top 4 in 2021) (#8-Franz Wagner) • draft pick(s) (first round pick protected top 4 in 2023, top 3 in 2024, else 2026 second round pick, 2027 second round pick) (2023 #11-Jett Howard)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 9,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Davion Mitchell",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 10,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Ziaire Williams",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 11,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "James Bouknight",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 12,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Joshua Primo",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 13,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Chris Duarte",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 14,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Moses Moody",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 15,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Corey Kispert",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 16,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Alperen Sengun",
+      "tradeSummary": "Thunder &nbsp; Traded • Al Horford • Moses Brown • 2023 second round pick (least favorable of (a) Thunder, (b) Wizards, (c) more favorable of Heat, Mavericks) (#41-Amari Bailey) to Celtics for • Kemba Walker • 2021 first round pick (#16-Alperen Sengun) • 2025 second round pick (more favorable of Celtics, Grizzlies) (?-?) on 2021-06-18 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2021-06-18",
+          "summary": "Thunder &nbsp; Traded • Al Horford • Moses Brown • 2023 second round pick (least favorable of (a) Thunder, (b) Wizards, (c) more favorable of Heat, Mavericks) (#41-Amari Bailey) to Celtics for • Kemba Walker • 2021 first round pick (#16-Alperen Sengun) • 2025 second round pick (more favorable of Celtics, Grizzlies) (?-?)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 17,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Trey Murphy III",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 18,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Tre Mann",
+      "tradeSummary": "Suns &nbsp; Traded • Goran Dragic • Zoran Dragic in a 3-team trade with Heat, Pelicans for • Danny Granger • John Salmons • first round pick (from Heat) (in first draft 2 years after Heat convey first round pick to Cavaliers from ealier trade, protected top 7 in 2017-18, unprotected in 2019) (2018 #16-Zhaire Smith) • 2021 first round pick (from Heat) (#18-Tre Mann) on 2015-02-19 | 76ers &nbsp; Traded • rights to Mikal Bridges to Suns for • rights to Zhaire Smith • 2021 first round pick (#18-Tre Mann) on 2018-06-21 | Clippers &nbsp; Traded • Tobias Harris • Boban Marjanovic • Mike Scott to 76ers for • Landry Shamet • Wilson Chandler • Mike Muscala • draft pick(s) (first round pick protected top 14 in 2020-22, else 2023 second round pick, 2024 second round pick (2020 #19-Saddiq Bey) • 2021 first round pick (#18-Tre Mann) • 2021 second round pick (#32-Jeremiah Robinson-Earl) • 2023 second round pick (#31-James Nnaji) on 2019-02-06 | Thunder &nbsp; Traded • Paul George • Thunder option to swap 2023 first round picks with Clippers (not exercised) • Thunder option to swap 2025 first round picks with Clippers (?-?) to Clippers for • Danilo Gallinari • Shai Gilgeous-Alexander • 2021 first round pick (#18-Tre Mann) • 2022 first round pick (#12-Jalen Williams) • first round pick (protected top 14 in 2023-25, unprotected in 2026) (2023 #18-Jaime Jaquez Jr.) • Thunder option to swap 2023 first round picks with Clippers (not exercised) • 2024 first round pick (?-?) • Thunder option to swap 2025 first round pick with Clippers (?-?) • 2026 first round pick (?-?) on 2019-07-10",
+      "tradeChain": [
+        {
+          "date": "2015-02-19",
+          "summary": "Suns &nbsp; Traded • Goran Dragic • Zoran Dragic in a 3-team trade with Heat, Pelicans for • Danny Granger • John Salmons • first round pick (from Heat) (in first draft 2 years after Heat convey first round pick to Cavaliers from ealier trade, protected top 7 in 2017-18, unprotected in 2019) (2018 #16-Zhaire Smith) • 2021 first round pick (from Heat) (#18-Tre Mann)"
+        },
+        {
+          "date": "2018-06-21",
+          "summary": "76ers &nbsp; Traded • rights to Mikal Bridges to Suns for • rights to Zhaire Smith • 2021 first round pick (#18-Tre Mann)"
+        },
+        {
+          "date": "2019-02-06",
+          "summary": "Clippers &nbsp; Traded • Tobias Harris • Boban Marjanovic • Mike Scott to 76ers for • Landry Shamet • Wilson Chandler • Mike Muscala • draft pick(s) (first round pick protected top 14 in 2020-22, else 2023 second round pick, 2024 second round pick (2020 #19-Saddiq Bey) • 2021 first round pick (#18-Tre Mann) • 2021 second round pick (#32-Jeremiah Robinson-Earl) • 2023 second round pick (#31-James Nnaji)"
+        },
+        {
+          "date": "2019-07-10",
+          "summary": "Thunder &nbsp; Traded • Paul George • Thunder option to swap 2023 first round picks with Clippers (not exercised) • Thunder option to swap 2025 first round picks with Clippers (?-?) to Clippers for • Danilo Gallinari • Shai Gilgeous-Alexander • 2021 first round pick (#18-Tre Mann) • 2022 first round pick (#12-Jalen Williams) • first round pick (protected top 14 in 2023-25, unprotected in 2026) (2023 #18-Jaime Jaquez Jr.) • Thunder option to swap 2023 first round picks with Clippers (not exercised) • 2024 first round pick (?-?) • Thunder option to swap 2025 first round pick with Clippers (?-?) • 2026 first round pick (?-?)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 19,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Kai Jones",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 20,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Jalen Johnson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 21,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Keon Johnson",
+      "tradeSummary": "Knicks &nbsp; Traded • Kristaps Porzingis • Tim Hardaway Jr. • Courtney Lee • Trey Burke to Mavericks for • Dennis Smith Jr. • DeAndre Jordan • Wesley Matthews • first round pick (two years after Mavericks send first round pick to Hawks) (2021 #21-Keon Johnson) • first round pick (protected top 10 in 2023-25, else 2025 second round pick) (?-?) on 2019-01-31 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2019-01-31",
+          "summary": "Knicks &nbsp; Traded • Kristaps Porzingis • Tim Hardaway Jr. • Courtney Lee • Trey Burke to Mavericks for • Dennis Smith Jr. • DeAndre Jordan • Wesley Matthews • first round pick (two years after Mavericks send first round pick to Hawks) (2021 #21-Keon Johnson) • first round pick (protected top 10 in 2023-25, else 2025 second round pick) (?-?)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 22,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Isaiah Jackson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 23,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Usman Garuba",
+      "tradeSummary": "Rockets &nbsp; Traded • Robert Covington to Blazers for • Trevor Ariza • rights to Isaiah Stewart • draft pick (first round pick protected top 14 in 2021-27, else 2027 second round pick) (2021 #23-Usman Garuba) on 2020-11-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2020-11-22",
+          "summary": "Rockets &nbsp; Traded • Robert Covington to Blazers for • Trevor Ariza • rights to Isaiah Stewart • draft pick (first round pick protected top 14 in 2021-27, else 2027 second round pick) (2021 #23-Usman Garuba)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 24,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Josh Christopher",
+      "tradeSummary": "Rockets &nbsp; Traded • P.J. Tucker • Rodions Kurucs • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#31-Isaiah Todd) • 2022 first round pick (#24-MarJon Beauchamp) to Bucks for • D.J. Augustin • D.J. Wilson • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#24-Josh Christopher) • 2023 first round pick (#30-Kobe Brown) on 2021-03-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2021-03-19",
+          "summary": "Rockets &nbsp; Traded • P.J. Tucker • Rodions Kurucs • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#31-Isaiah Todd) • 2022 first round pick (#24-MarJon Beauchamp) to Bucks for • D.J. Augustin • D.J. Wilson • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#24-Josh Christopher) • 2023 first round pick (#30-Kobe Brown)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 25,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Quentin Grimes",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 26,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Nah'Shon Hyland",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 27,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Cameron Thomas",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 28,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Jaden Springer",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 29,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Day'Ron Sharpe",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "pickNumber": 30,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Santi Aldama",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 1,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Isaiah Todd",
+      "tradeSummary": "Bucks &nbsp; Traded • D.J. Augustin • D.J. Wilson • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#24-Josh Christopher) • 2023 first round pick (#30-Kobe Brown) to Rockets for • P.J. Tucker • Rodions Kurucs • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#31-Isaiah Todd) • 2022 first round pick (#24-MarJon Beauchamp) on 2021-03-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2021-03-19",
+          "summary": "Bucks &nbsp; Traded • D.J. Augustin • D.J. Wilson • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#24-Josh Christopher) • 2023 first round pick (#30-Kobe Brown) to Rockets for • P.J. Tucker • Rodions Kurucs • Rockets option to swap 2021 second round pick (more favorable of 76ers, Rockets picks) with Bucks 2021 first round pick (#31-Isaiah Todd) • 2022 first round pick (#24-MarJon Beauchamp)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 2,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Jeremiah Robinson-Earl",
+      "tradeSummary": "76ers &nbsp; Traded • rights to Khyri Thomas to Pistons for • 2021 second round pick (#32-Jeremiah Robinson-Earl) • 2023 second round pick (#31-James Nnaji) on 2018-06-21 | Clippers &nbsp; Traded • Tobias Harris • Boban Marjanovic • Mike Scott to 76ers for • Landry Shamet • Wilson Chandler • Mike Muscala • draft pick(s) (first round pick protected top 14 in 2020-22, else 2023 second round pick, 2024 second round pick (2020 #19-Saddiq Bey) • 2021 first round pick (#18-Tre Mann) • 2021 second round pick (#32-Jeremiah Robinson-Earl) • 2023 second round pick (#31-James Nnaji) on 2019-02-06 | Knicks &nbsp; Traded • Marcus Morris • Knicks option to swap 2021 first round picks with Clippers (protected top 4) (not exercised) in a 3-team trade with Clippers, Wizards for • Maurice &quot;Moe&quot; Harkless • rights to Issuf Sanon • 2020 first round pick (from Clippers) (#27-Udoka Azubuike) • Knicks option to swap 2021 first round picks with Clippers (protected top 4) (from Clippers) (not exercised) • 2021 second round pick (from Clippers) (#32-Jeremiah Robinson-Earl) on 2020-02-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-06-21",
+          "summary": "76ers &nbsp; Traded • rights to Khyri Thomas to Pistons for • 2021 second round pick (#32-Jeremiah Robinson-Earl) • 2023 second round pick (#31-James Nnaji)"
+        },
+        {
+          "date": "2019-02-06",
+          "summary": "Clippers &nbsp; Traded • Tobias Harris • Boban Marjanovic • Mike Scott to 76ers for • Landry Shamet • Wilson Chandler • Mike Muscala • draft pick(s) (first round pick protected top 14 in 2020-22, else 2023 second round pick, 2024 second round pick (2020 #19-Saddiq Bey) • 2021 first round pick (#18-Tre Mann) • 2021 second round pick (#32-Jeremiah Robinson-Earl) • 2023 second round pick (#31-James Nnaji)"
+        },
+        {
+          "date": "2020-02-06",
+          "summary": "Knicks &nbsp; Traded • Marcus Morris • Knicks option to swap 2021 first round picks with Clippers (protected top 4) (not exercised) in a 3-team trade with Clippers, Wizards for • Maurice &quot;Moe&quot; Harkless • rights to Issuf Sanon • 2020 first round pick (from Clippers) (#27-Udoka Azubuike) • Knicks option to swap 2021 first round picks with Clippers (protected top 4) (from Clippers) (not exercised) • 2021 second round pick (from Clippers) (#32-Jeremiah Robinson-Earl)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 3,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Jason Preston",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 4,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Rokas Jokubaitis",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 5,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Herbert Jones",
+      "tradeSummary": "Hawks &nbsp; Traded • Kyle Korver to Cavaliers for • Mike Dunleavy Jr. • Mo Williams • draft pick(s) (first round protected top 10 in 2019-20, else 2021 second round pick (#35-Herbert Jones), 2022 second round pick) (#47-Vince Williams Jr.) • cash considerations on 2017-01-07 | Pelicans &nbsp; Traded • Solomon Hill • rights to De'Andre Hunter • rights to Jordan Bone • 2023 second round pick (protected top 45) (#46-Seth Lundy) to Hawks for • rights to Jaxson Hayes • rights to Nickeil Alexander-Walker • rights to Didi Louzada • draft pick(s) (2020 first round pick (protected top 10 in 2020), else 2021 second round pick, 2022 second round pick) (2021 #35-Herbert Jones) (2022 #47-Vince Williams Jr.) on 2019-07-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-01-07",
+          "summary": "Hawks &nbsp; Traded • Kyle Korver to Cavaliers for • Mike Dunleavy Jr. • Mo Williams • draft pick(s) (first round protected top 10 in 2019-20, else 2021 second round pick (#35-Herbert Jones), 2022 second round pick) (#47-Vince Williams Jr.) • cash considerations"
+        },
+        {
+          "date": "2019-07-06",
+          "summary": "Pelicans &nbsp; Traded • Solomon Hill • rights to De'Andre Hunter • rights to Jordan Bone • 2023 second round pick (protected top 45) (#46-Seth Lundy) to Hawks for • rights to Jaxson Hayes • rights to Nickeil Alexander-Walker • rights to Didi Louzada • draft pick(s) (2020 first round pick (protected top 10 in 2020), else 2021 second round pick, 2022 second round pick) (2021 #35-Herbert Jones) (2022 #47-Vince Williams Jr.)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 6,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Miles McBride",
+      "tradeSummary": "Warriors &nbsp; Traded • D'Angelo Russell • Jacob Evans • Omari Spellman to Timberwolves for • Andrew Wiggins • first round pick (protected top 3 in 2021, unprotected in 2022) (2021 #7-Jonathan Kuminga) • 2021 second round pick (#36-Miles McBride) on 2020-02-06 | Thunder &nbsp; Traded • Kelly Oubre Jr. to Warriors for • 2021 draft pick (first round protected top 20, else second round pick) (#36-Miles McBride) • 2021 second round pick (#55-Aaron Wiggins) on 2020-11-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2020-02-06",
+          "summary": "Warriors &nbsp; Traded • D'Angelo Russell • Jacob Evans • Omari Spellman to Timberwolves for • Andrew Wiggins • first round pick (protected top 3 in 2021, unprotected in 2022) (2021 #7-Jonathan Kuminga) • 2021 second round pick (#36-Miles McBride)"
+        },
+        {
+          "date": "2020-11-22",
+          "summary": "Thunder &nbsp; Traded • Kelly Oubre Jr. to Warriors for • 2021 draft pick (first round protected top 20, else second round pick) (#36-Miles McBride) • 2021 second round pick (#55-Aaron Wiggins)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 7,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "J.T. Thor",
+      "tradeSummary": "Nets &nbsp; Traded • cash considerations to Raptors for • Greg Monroe • 2021 second round pick (#37-J.T. Thor) on 2019-02-07 | Pistons &nbsp; Traded • Bruce Brown • Luke Kennard • Justin Patton • 2023 second round pick (#35-Julian Phillips) • 2024 second round pick (?-?) • 2025 second round pick (?-?) • 2026 second round pick (?-?) in a 3-team trade with Clippers, Nets for • Rodney McGruder • Dzanan Musa • rights to Saddiq Bey • rights to Jaylen Hands • 2021 second round pick (from Nets) (#37-J.T. Thor) • cash (from Clippers) on 2020-11-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2019-02-07",
+          "summary": "Nets &nbsp; Traded • cash considerations to Raptors for • Greg Monroe • 2021 second round pick (#37-J.T. Thor)"
+        },
+        {
+          "date": "2020-11-19",
+          "summary": "Pistons &nbsp; Traded • Bruce Brown • Luke Kennard • Justin Patton • 2023 second round pick (#35-Julian Phillips) • 2024 second round pick (?-?) • 2025 second round pick (?-?) • 2026 second round pick (?-?) in a 3-team trade with Clippers, Nets for • Rodney McGruder • Dzanan Musa • rights to Saddiq Bey • rights to Jaylen Hands • 2021 second round pick (from Nets) (#37-J.T. Thor) • cash (from Clippers)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 8,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Ayo Dosunmu",
+      "tradeSummary": "Bulls &nbsp; Traded • Nikola Mirotic • 2018 second round pick (#51-Tony Carr) • Bulls option to swap 2021 second round picks with Pelicans (#40-Jared Butler) to Pelicans for • Omer Asik • Tony Allen • Jameer Nelson • first round pick (protected top 5 in 2018, top 8 in 2019, top 10 in 2020, top 9 in 2021, top 6 in 2022, else 2022 second round pick, 2023 second round pick) (2018 #22-Chandler Hutchison) • Bulls option to swap 2021 second round picks with Pelicans (#38-Ayo Dosunmu) on 2018-02-01 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-02-01",
+          "summary": "Bulls &nbsp; Traded • Nikola Mirotic • 2018 second round pick (#51-Tony Carr) • Bulls option to swap 2021 second round picks with Pelicans (#40-Jared Butler) to Pelicans for • Omer Asik • Tony Allen • Jameer Nelson • first round pick (protected top 5 in 2018, top 8 in 2019, top 10 in 2020, top 9 in 2021, top 6 in 2022, else 2022 second round pick, 2023 second round pick) (2018 #22-Chandler Hutchison) • Bulls option to swap 2021 second round picks with Pelicans (#38-Ayo Dosunmu)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 9,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Neemias Queta",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 10,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Jared Butler",
+      "tradeSummary": "Pelicans &nbsp; Traded • Omer Asik • Tony Allen • Jameer Nelson • first round pick (protected top 5 in 2018, top 8 in 2019, top 10 in 2020, top 9 in 2021, top 6 in 2022, else 2022 second round pick, 2023 second round pick) (2018 #22-Chandler Hutchison) • Bulls option to swap 2021 second round picks with Pelicans (#38-Ayo Dosunmu) to Bulls for • Nikola Mirotic • 2018 second round pick (#51-Tony Carr) • Bulls option to swap 2021 second round picks with Pelicans (#40-Jared Butler) on 2018-02-01 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-02-01",
+          "summary": "Pelicans &nbsp; Traded • Omer Asik • Tony Allen • Jameer Nelson • first round pick (protected top 5 in 2018, top 8 in 2019, top 10 in 2020, top 9 in 2021, top 6 in 2022, else 2022 second round pick, 2023 second round pick) (2018 #22-Chandler Hutchison) • Bulls option to swap 2021 second round picks with Pelicans (#38-Ayo Dosunmu) to Bulls for • Nikola Mirotic • 2018 second round pick (#51-Tony Carr) • Bulls option to swap 2021 second round picks with Pelicans (#40-Jared Butler)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 11,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Joe Wieskamp",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 12,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "Isaiah Livers",
+      "tradeSummary": "Knicks &nbsp; Traded • Guillermo &quot;Willy&quot; Hernangomez to Hornets for • Johnny O'Bryant III • 2020 second round pick (#38-Saben Lee) • 2021 second round pick (#42-Isaiah Livers) on 2018-02-07 | Pistons &nbsp; Traded • Derrick Rose to Knicks for • Dennis Smith Jr. • 2021 second round pick (#42-Isaiah Livers) • traded player exception on 2021-02-08 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-02-07",
+          "summary": "Knicks &nbsp; Traded • Guillermo &quot;Willy&quot; Hernangomez to Hornets for • Johnny O'Bryant III • 2020 second round pick (#38-Saben Lee) • 2021 second round pick (#42-Isaiah Livers)"
+        },
+        {
+          "date": "2021-02-08",
+          "summary": "Pistons &nbsp; Traded • Derrick Rose to Knicks for • Dennis Smith Jr. • 2021 second round pick (#42-Isaiah Livers) • traded player exception"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 13,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Greg Brown III",
+      "tradeSummary": "Jazz &nbsp; Traded • Trey Burke to Wizards for • 2021 second round pick (#43-Greg Brown III) on 2016-07-07 | Cavaliers &nbsp; Traded • Kyle Korver to Jazz for • Alec Burks • 2020 second round pick (#51-Justinian Jessup) • 2021 second round pick (#43-Greg Brown III) on 2018-11-29 | Bucks &nbsp; Traded • Matthew Dellavedova • John Henson • draft pick(s) (first round originally protected top 14 in 2021 if Bucks send first round pick to Suns in 2019, top 10 in 2022 if Bucks send first round pick to Suns in 2020, top 10 in 2023, top 8 in 2024, else 2024 second round pick, 2025 second round pick; protections removed in subsequent trade) (?-?) • 2021 second round pick (#54-Sandro Mamukelashvili) in a 3-team trade with Cavaliers, Wizards for • George Hill • Jason Smith • modification of protection on 2020 second round pick previously acquired from Wizards (pick now unprotected) • 2021 second round pick (from Cavaliers) (#43-Greg Brown III) • cash (from Wizards) on 2018-12-07 | Pelicans &nbsp; Traded • Nikola Mirotic in a 3-team trade with Bucks, Pistons for • Jason Smith • Stanley Johnson • 2019 second round pick (from Bucks) (protected top 55) (#57-Jordan Bone) • 2020 second round pick (from Bucks) (#39-Elijah Hughes) • 2020 second round pick (from Bucks) (#60-Sam Merrill) • 2021 second round pick (#43-Greg Brown III) on 2019-02-07",
+      "tradeChain": [
+        {
+          "date": "2016-07-07",
+          "summary": "Jazz &nbsp; Traded • Trey Burke to Wizards for • 2021 second round pick (#43-Greg Brown III)"
+        },
+        {
+          "date": "2018-11-29",
+          "summary": "Cavaliers &nbsp; Traded • Kyle Korver to Jazz for • Alec Burks • 2020 second round pick (#51-Justinian Jessup) • 2021 second round pick (#43-Greg Brown III)"
+        },
+        {
+          "date": "2018-12-07",
+          "summary": "Bucks &nbsp; Traded • Matthew Dellavedova • John Henson • draft pick(s) (first round originally protected top 14 in 2021 if Bucks send first round pick to Suns in 2019, top 10 in 2022 if Bucks send first round pick to Suns in 2020, top 10 in 2023, top 8 in 2024, else 2024 second round pick, 2025 second round pick; protections removed in subsequent trade) (?-?) • 2021 second round pick (#54-Sandro Mamukelashvili) in a 3-team trade with Cavaliers, Wizards for • George Hill • Jason Smith • modification of protection on 2020 second round pick previously acquired from Wizards (pick now unprotected) • 2021 second round pick (from Cavaliers) (#43-Greg Brown III) • cash (from Wizards)"
+        },
+        {
+          "date": "2019-02-07",
+          "summary": "Pelicans &nbsp; Traded • Nikola Mirotic in a 3-team trade with Bucks, Pistons for • Jason Smith • Stanley Johnson • 2019 second round pick (from Bucks) (protected top 55) (#57-Jordan Bone) • 2020 second round pick (from Bucks) (#39-Elijah Hughes) • 2020 second round pick (from Bucks) (#60-Sam Merrill) • 2021 second round pick (#43-Greg Brown III)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 14,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Kessler Edwards",
+      "tradeSummary": "Nets &nbsp; Traded • Thaddeus Young to Pacers for • rights to Caris LeVert • second round pick (protected #45-60 in 2017-22, unprotected in 2023) (2021 #44-Kessler Edwards) on 2016-07-07 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2016-07-07",
+          "summary": "Nets &nbsp; Traded • Thaddeus Young to Pacers for • rights to Caris LeVert • second round pick (protected #45-60 in 2017-22, unprotected in 2023) (2021 #44-Kessler Edwards)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 15,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Juhann Begarin",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 16,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Dalano Banton",
+      "tradeSummary": "Kings &nbsp; Traded • Garrett Temple to Grizzlies for • Ben McLemore • Deyonta Davis • 2021 second round pick (#46-Dalano Banton) • $1.5M cash on 2018-07-17 | Raptors &nbsp; Traded • Terence Davis to Kings for • 2021 second round pick (#46-Dalano Banton) on 2021-03-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-07-17",
+          "summary": "Kings &nbsp; Traded • Garrett Temple to Grizzlies for • Ben McLemore • Deyonta Davis • 2021 second round pick (#46-Dalano Banton) • $1.5M cash"
+        },
+        {
+          "date": "2021-03-25",
+          "summary": "Raptors &nbsp; Traded • Terence Davis to Kings for • 2021 second round pick (#46-Dalano Banton)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 17,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "David Johnson",
+      "tradeSummary": "Pelicans &nbsp; Traded • rights to Alen Smailagic to Warriors for • 2021 second round pick (#47-David Johnson) • 2023 second round pick (#49-Emoni Bates) • cash considerations on 2019-06-20 | Jazz &nbsp; Traded • Derrick Favors to Pelicans for • 2021 second round pick (#47-David Johnson) • 2023 second round pick (#49-Emoni Bates) on 2019-07-07 | Raptors &nbsp; Traded • Matt Thomas to Jazz for • 2021 second round pick (#47-David Johnson) on 2021-03-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2019-06-20",
+          "summary": "Pelicans &nbsp; Traded • rights to Alen Smailagic to Warriors for • 2021 second round pick (#47-David Johnson) • 2023 second round pick (#49-Emoni Bates) • cash considerations"
+        },
+        {
+          "date": "2019-07-07",
+          "summary": "Jazz &nbsp; Traded • Derrick Favors to Pelicans for • 2021 second round pick (#47-David Johnson) • 2023 second round pick (#49-Emoni Bates)"
+        },
+        {
+          "date": "2021-03-25",
+          "summary": "Raptors &nbsp; Traded • Matt Thomas to Jazz for • 2021 second round pick (#47-David Johnson)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 18,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Sharife Cooper",
+      "tradeSummary": "Blazers &nbsp; Traded • cash considerations to Heat for • Brian Roberts • 2021 second round pick (#48-Sharife Cooper) on 2016-02-18 | Kings &nbsp; Traded • rights to Gary Trent Jr. to Blazers for • 2019 second round pick (more favorable of Lakers, Timberwolves picks) (#40-Justin James) • 2021 second round pick (#48-Sharife Cooper) • cash on 2018-06-21 | Hawks &nbsp; Traded • Jabari Parker • Alex Len to Kings for • Dewayne Dedmon • 2020 second round pick (more favorable of Heat pick, less favorable of Rockets, Warriors picks) (#50-Skylar Mays) • 2021 second round pick (#48-Sharife Cooper) on 2020-02-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2016-02-18",
+          "summary": "Blazers &nbsp; Traded • cash considerations to Heat for • Brian Roberts • 2021 second round pick (#48-Sharife Cooper)"
+        },
+        {
+          "date": "2018-06-21",
+          "summary": "Kings &nbsp; Traded • rights to Gary Trent Jr. to Blazers for • 2019 second round pick (more favorable of Lakers, Timberwolves picks) (#40-Justin James) • 2021 second round pick (#48-Sharife Cooper) • cash"
+        },
+        {
+          "date": "2020-02-06",
+          "summary": "Hawks &nbsp; Traded • Jabari Parker • Alex Len to Kings for • Dewayne Dedmon • 2020 second round pick (more favorable of Heat pick, less favorable of Rockets, Warriors picks) (#50-Skylar Mays) • 2021 second round pick (#48-Sharife Cooper)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 19,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Marcus Zegarowski",
+      "tradeSummary": "Nets &nbsp; Traded • Allen Crabbe • rights to Nickeil Alexander-Walker • draft pick(s) (first round pick protected top 14 in 2020-22, else 2022 second round pick, 2024 second round pick) (2020 #17-Aleksej Pokusevski) to Hawks for • Taurean Prince • 2021 second round pick (#49-Marcus Zegarowski) on 2019-07-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2019-07-06",
+          "summary": "Nets &nbsp; Traded • Allen Crabbe • rights to Nickeil Alexander-Walker • draft pick(s) (first round pick protected top 14 in 2020-22, else 2022 second round pick, 2024 second round pick) (2020 #17-Aleksej Pokusevski) to Hawks for • Taurean Prince • 2021 second round pick (#49-Marcus Zegarowski)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 20,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Filip Petrusev",
+      "tradeSummary": "76ers &nbsp; Traded • rights to Guillermo &quot;Willy&quot; Hernangomez to Knicks for • 2020 second round pick (#36-Tyler Bey) • 2021 second round pick (#50-Filip Petrusev) • cash on 2015-06-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-06-25",
+          "summary": "76ers &nbsp; Traded • rights to Guillermo &quot;Willy&quot; Hernangomez to Knicks for • 2020 second round pick (#36-Tyler Bey) • 2021 second round pick (#50-Filip Petrusev) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 21,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Brandon Boston Jr.",
+      "tradeSummary": "Cavaliers &nbsp; Traded • Rodney Hood to Blazers for • Nik Stauskas • Wade Baldwin IV • 2021 second round pick (#51-Brandon Boston Jr.) • 2023 second round pick (#35-Julian Phillips) on 2019-02-04 | Pistons &nbsp; Traded • rights to Kevin Porter Jr. to Cavaliers for • 2020 second round pick (#51-Justinian Jessup) • 2021 second round pick (#51-Brandon Boston Jr.) • 2023 second round pick (#35-Julian Phillips) • 2024 second round pick (protected top 55) (?-?) • cash on 2019-06-26 | Mavericks &nbsp; Traded • rights to Deividas Sirvydis to Pistons for • rights to Isaiah Roby • 2020 second round pick (#51-Justinian Jessup) • 2021 second round pick (#51-Brandon Boston Jr.) on 2019-06-26 | Grizzlies &nbsp; Traded • Delon Wright to Mavericks for • rights to Satnam Singh • 2021 second round pick (#51-Brandon Boston Jr.) • 2023 second round pick (less favorable of Heat, Mavericks picks) (#50-Keyontae Johnson) • traded player exception on 2019-07-08",
+      "tradeChain": [
+        {
+          "date": "2019-02-04",
+          "summary": "Cavaliers &nbsp; Traded • Rodney Hood to Blazers for • Nik Stauskas • Wade Baldwin IV • 2021 second round pick (#51-Brandon Boston Jr.) • 2023 second round pick (#35-Julian Phillips)"
+        },
+        {
+          "date": "2019-06-26",
+          "summary": "Pistons &nbsp; Traded • rights to Kevin Porter Jr. to Cavaliers for • 2020 second round pick (#51-Justinian Jessup) • 2021 second round pick (#51-Brandon Boston Jr.) • 2023 second round pick (#35-Julian Phillips) • 2024 second round pick (protected top 55) (?-?) • cash"
+        },
+        {
+          "date": "2019-06-26",
+          "summary": "Mavericks &nbsp; Traded • rights to Deividas Sirvydis to Pistons for • rights to Isaiah Roby • 2020 second round pick (#51-Justinian Jessup) • 2021 second round pick (#51-Brandon Boston Jr.)"
+        },
+        {
+          "date": "2019-07-08",
+          "summary": "Grizzlies &nbsp; Traded • Delon Wright to Mavericks for • rights to Satnam Singh • 2021 second round pick (#51-Brandon Boston Jr.) • 2023 second round pick (less favorable of Heat, Mavericks picks) (#50-Keyontae Johnson) • traded player exception"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 22,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Luka Garza",
+      "tradeSummary": "Pistons &nbsp; Traded • Reggie Bullock to Lakers for • Sviatoslav Mykhailiuk • 2021 second round pick (#52-Luka Garza) on 2019-02-06 | Rockets &nbsp; Traded • Trevor Ariza • rights to Isaiah Stewart • 2027 second round pick (?-?) • cash considerations to Pistons for • Christian Wood • draft pick (first round pick protected top 16 in 2021-22, top 18 in 2023-24, top 13 in 2025, top 11 in 2026, top 9 in 2027, else 2027 second round pick) (?-?) • 2021 second round pick (#52-Luka Garza) on 2020-11-24 | Kings &nbsp; Traded • rights to Kenyon Martin Jr. to Rockets for • 2021 second round pick (#52-Luka Garza) • cash on 2020-11-25 | Pistons &nbsp; Traded • Delon Wright to Kings for • Cory Joseph • 2021 second round pick (#52-Luka Garza) on 2021-03-25",
+      "tradeChain": [
+        {
+          "date": "2019-02-06",
+          "summary": "Pistons &nbsp; Traded • Reggie Bullock to Lakers for • Sviatoslav Mykhailiuk • 2021 second round pick (#52-Luka Garza)"
+        },
+        {
+          "date": "2020-11-24",
+          "summary": "Rockets &nbsp; Traded • Trevor Ariza • rights to Isaiah Stewart • 2027 second round pick (?-?) • cash considerations to Pistons for • Christian Wood • draft pick (first round pick protected top 16 in 2021-22, top 18 in 2023-24, top 13 in 2025, top 11 in 2026, top 9 in 2027, else 2027 second round pick) (?-?) • 2021 second round pick (#52-Luka Garza)"
+        },
+        {
+          "date": "2020-11-25",
+          "summary": "Kings &nbsp; Traded • rights to Kenyon Martin Jr. to Rockets for • 2021 second round pick (#52-Luka Garza) • cash"
+        },
+        {
+          "date": "2021-03-25",
+          "summary": "Pistons &nbsp; Traded • Delon Wright to Kings for • Cory Joseph • 2021 second round pick (#52-Luka Garza)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 23,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Charles Bassey",
+      "tradeSummary": "Pelicans &nbsp; Traded • J.J. Redick • Nicolo Melli to Mavericks for • James Johnson • Wes Iwundu • 2021 second round pick (#53-Charles Bassey) • cash on 2021-03-25 | 76ers &nbsp; Traded • cash considerations to Pelicans for • 2021 second round pick (#53-Charles Bassey) on 2021-07-29 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2021-03-25",
+          "summary": "Pelicans &nbsp; Traded • J.J. Redick • Nicolo Melli to Mavericks for • James Johnson • Wes Iwundu • 2021 second round pick (#53-Charles Bassey) • cash"
+        },
+        {
+          "date": "2021-07-29",
+          "summary": "76ers &nbsp; Traded • cash considerations to Pelicans for • 2021 second round pick (#53-Charles Bassey)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 24,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Sandro Mamukelashvili",
+      "tradeSummary": "Cavaliers &nbsp; Traded • George Hill • Sam Dekker • 2021 second round pick (#43-Greg Brown III) in a 3-team trade with Bucks, Wizards for • Matthew Dellavedova • John Henson • draft pick(s) (from Bucks) (first round originally protected top 14 in 2021 if Bucks send first round pick to Suns in 2019, top 10 in 2022 if Bucks send first round pick to Suns in 2020, top 10 in 2023, top 8 in 2024, else 2024 second round pick, 2025 second round pick; protections removed in subsequent trade)) (2022 #24-MarJon Beauchamp) • 2021 second round pick (from Bucks) (#54-Sandro Mamukelashvili) • 2022 second round pick (from Wizards) (#40-Bryce McGowens) on 2018-12-07 | Rockets &nbsp; Traded • Brandon Knight • Marquese Chriss • 2019 first round pick (#26-Dylan Windler) • 2020 second round pick (#52-Kenyon Martin Jr.) • 2022 second round pick (#31-Andrew Nembhard) in a 3-team trade with Cavaliers, Kings for • Iman Shumpert • Nik Stauskas • Wade Baldwin IV • 2021 second round pick (from Cavaliers) (#54-Sandro Mamukelashvili) on 2019-02-07 | Pacers &nbsp; Traded • cash to Rockets for • Nik Stauskas • Wade Baldwin IV • rights to Maarty Leunen • 2021 second round pick (#54-Sandro Mamukelashvili) on 2019-02-07 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-12-07",
+          "summary": "Cavaliers &nbsp; Traded • George Hill • Sam Dekker • 2021 second round pick (#43-Greg Brown III) in a 3-team trade with Bucks, Wizards for • Matthew Dellavedova • John Henson • draft pick(s) (from Bucks) (first round originally protected top 14 in 2021 if Bucks send first round pick to Suns in 2019, top 10 in 2022 if Bucks send first round pick to Suns in 2020, top 10 in 2023, top 8 in 2024, else 2024 second round pick, 2025 second round pick; protections removed in subsequent trade)) (2022 #24-MarJon Beauchamp) • 2021 second round pick (from Bucks) (#54-Sandro Mamukelashvili) • 2022 second round pick (from Wizards) (#40-Bryce McGowens)"
+        },
+        {
+          "date": "2019-02-07",
+          "summary": "Rockets &nbsp; Traded • Brandon Knight • Marquese Chriss • 2019 first round pick (#26-Dylan Windler) • 2020 second round pick (#52-Kenyon Martin Jr.) • 2022 second round pick (#31-Andrew Nembhard) in a 3-team trade with Cavaliers, Kings for • Iman Shumpert • Nik Stauskas • Wade Baldwin IV • 2021 second round pick (from Cavaliers) (#54-Sandro Mamukelashvili)"
+        },
+        {
+          "date": "2019-02-07",
+          "summary": "Pacers &nbsp; Traded • cash to Rockets for • Nik Stauskas • Wade Baldwin IV • rights to Maarty Leunen • 2021 second round pick (#54-Sandro Mamukelashvili)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 25,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Aaron Wiggins",
+      "tradeSummary": "76ers &nbsp; Traded • 76ers option to swap 2022 second round picks with Nuggets (pick forfeited) • cash to Nuggets for • Wilson Chandler • 2021 second round pick (#55-Aaron Wiggins) • 76ers option to swap 2022 second round picks with Nuggets (#50-Matteo Spagnolo) on 2018-07-06 | Warriors &nbsp; Traded • Alec Burks • Glenn Robinson III to 76ers for • 2020 second round pick (#48-Nico Mannion) • 2021 second round pick (#55-Aaron Wiggins) • 2022 second round pick (#51-Tyrese Martin) on 2020-02-06 | Thunder &nbsp; Traded • Kelly Oubre Jr. to Warriors for • 2021 draft pick (first round protected top 20, else second round pick) (#36-Miles McBride) • 2021 second round pick (#55-Aaron Wiggins) on 2020-11-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-07-06",
+          "summary": "76ers &nbsp; Traded • 76ers option to swap 2022 second round picks with Nuggets (pick forfeited) • cash to Nuggets for • Wilson Chandler • 2021 second round pick (#55-Aaron Wiggins) • 76ers option to swap 2022 second round picks with Nuggets (#50-Matteo Spagnolo)"
+        },
+        {
+          "date": "2020-02-06",
+          "summary": "Warriors &nbsp; Traded • Alec Burks • Glenn Robinson III to 76ers for • 2020 second round pick (#48-Nico Mannion) • 2021 second round pick (#55-Aaron Wiggins) • 2022 second round pick (#51-Tyrese Martin)"
+        },
+        {
+          "date": "2020-11-22",
+          "summary": "Thunder &nbsp; Traded • Kelly Oubre Jr. to Warriors for • 2021 draft pick (first round protected top 20, else second round pick) (#36-Miles McBride) • 2021 second round pick (#55-Aaron Wiggins)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 26,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Scottie Lewis",
+      "tradeSummary": "Hornets &nbsp; Traded • rights to Shai Gilgeous-Alexander to Clippers for • rights to Miles Bridges • 2020 second round pick (#32-Vernon Carey Jr.) • 2021 second round pick (#56-Scottie Lewis) on 2018-06-21 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-06-21",
+          "summary": "Hornets &nbsp; Traded • rights to Shai Gilgeous-Alexander to Clippers for • rights to Miles Bridges • 2020 second round pick (#32-Vernon Carey Jr.) • 2021 second round pick (#56-Scottie Lewis)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 27,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Balsa Koprivica",
+      "tradeSummary": "Hornets &nbsp; Traded • Dwight Howard to Nets for • Timofey Mozgov • rights to Hamidou Diallo • 2021 second round pick (#57-Balsa Koprivica) • cash on 2018-07-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-07-06",
+          "summary": "Hornets &nbsp; Traded • Dwight Howard to Nets for • Timofey Mozgov • rights to Hamidou Diallo • 2021 second round pick (#57-Balsa Koprivica) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 28,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Jericho Sims",
+      "tradeSummary": "Knicks &nbsp; Traded • Austin Rivers • Ignas Brazdeikis in a 3-team trade with 76ers, Thunder for • Terrance Ferguson • Vincent Poirier • rights to Emir Preldzic • 2021 second round pick (from 76ers) (less favorable of 76ers, Rockets picks) (#58-Jericho Sims) • 2024 second round pick (protected top 55) (from 76ers) (?-?) on 2021-03-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2021-03-25",
+          "summary": "Knicks &nbsp; Traded • Austin Rivers • Ignas Brazdeikis in a 3-team trade with 76ers, Thunder for • Terrance Ferguson • Vincent Poirier • rights to Emir Preldzic • 2021 second round pick (from 76ers) (less favorable of 76ers, Rockets picks) (#58-Jericho Sims) • 2024 second round pick (protected top 55) (from 76ers) (?-?)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 29,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "RaiQuan Gray",
+      "tradeSummary": "Nets &nbsp; Traded • Darrell Arthur to Suns for • Jared Dudley • 2021 second round pick (protected #31-35) (#59-RaiQuan Gray) on 2018-07-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2018-07-20",
+          "summary": "Nets &nbsp; Traded • Darrell Arthur to Suns for • Jared Dudley • 2021 second round pick (protected #31-35) (#59-RaiQuan Gray)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "pickNumber": 30,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Georgios Kalaitzakis",
+      "tradeSummary": "Pacers &nbsp; Traded • rights to Jarrell Brantley in a 3-team trade with Jazz, Warriors for • 2021 second round pick (from Jazz) (#60-Georgios Kalaitzakis) • $1M cash considerations (from Jazz) on 2019-06-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2019-06-20",
+          "summary": "Pacers &nbsp; Traded • rights to Jarrell Brantley in a 3-team trade with Jazz, Warriors for • 2021 second round pick (from Jazz) (#60-Georgios Kalaitzakis) • $1M cash considerations (from Jazz)"
+        }
+      ]
+    }
+  ]
+}

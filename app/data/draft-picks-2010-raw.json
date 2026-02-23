@@ -1,0 +1,699 @@
+{
+  "source": "file:/Users/camdencrocker/roster-routes/app/data/2010 NBA Draft Pick Transactions.html",
+  "fetchedAt": "2026-02-05T21:01:38.341Z",
+  "note": "Double-check against trades.json before merging; some trades may already exist.",
+  "picks": [
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 1,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "John Wall",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 2,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Evan Turner",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 3,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Derrick Favors",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 4,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Wesley Johnson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 5,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "DeMarcus Cousins",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 6,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Ekpe Udoh",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 7,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Greg Monroe",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 8,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Al-Farouq Aminu",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 9,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Gordon Hayward",
+      "tradeSummary": "Suns &nbsp; Traded • Stephon Marbury • Anfernee &quot;Penny&quot; Hardaway • Cezary Trybanski to Knicks for • Antonio McDyess • Maciej Lampe • Howard Eisley • Charlie Ward • rights to Milos Vujanic • 2004 first round pick (#16-Kirk Snyder) • first round pick (protected top 25 in 2006, top 24 in 2007, top 23 in 2008, top 22 in 2009, unprotected in 2010) (2010 #9-Gordon Hayward) • $3M cash on 2004-01-05 | Jazz &nbsp; Traded • Keon Clark • Ben Handlogten to Suns for • Tom Gugliotta • 2004 first round pick (less favorable of Suns, Knicks) (#16-Kirk Synder) • first round pick (protected top 25 in 2006, top 24 in 2007, top 23 in 2008, top 22 in 2009, unprotected in 2010) (2010 #9-Gordon Hayward) • 2005 second round pick (#60-Alex Acker) • cash on 2004-02-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2004-01-05",
+          "summary": "Suns &nbsp; Traded • Stephon Marbury • Anfernee &quot;Penny&quot; Hardaway • Cezary Trybanski to Knicks for • Antonio McDyess • Maciej Lampe • Howard Eisley • Charlie Ward • rights to Milos Vujanic • 2004 first round pick (#16-Kirk Snyder) • first round pick (protected top 25 in 2006, top 24 in 2007, top 23 in 2008, top 22 in 2009, unprotected in 2010) (2010 #9-Gordon Hayward) • $3M cash"
+        },
+        {
+          "date": "2004-02-19",
+          "summary": "Jazz &nbsp; Traded • Keon Clark • Ben Handlogten to Suns for • Tom Gugliotta • 2004 first round pick (less favorable of Suns, Knicks) (#16-Kirk Synder) • first round pick (protected top 25 in 2006, top 24 in 2007, top 23 in 2008, top 22 in 2009, unprotected in 2010) (2010 #9-Gordon Hayward) • 2005 second round pick (#60-Alex Acker) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 10,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Paul George",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 11,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "Cole Aldrich",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 12,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Xavier Henry",
+      "tradeSummary": "Wizards &nbsp; Traded • rights to Juan Carlos Navarro to Grizzlies for • first round pick (protected top 19 in 2008, top 16 in 2009, top 14 in 2010-12, top 12 in 2013, else 2014 second round pick, $1M cash) (2010 #12-Xavier Henry) on 2007-08-16 | Grizzlies &nbsp; Traded • Javaris Crittenton • 2015 conditional second round pick or $350K cash (Grizzlies option) (cash) in a 3-team trade with Hornets, Wizards for • first round pick (from Wizards) (protected top 19 in 2008, top 16 in 2009, top 14 in 2010-12, top 12 in 2013, else 2014 second round pick) (2010 #12-Xavier Henry) on 2008-12-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2007-08-16",
+          "summary": "Wizards &nbsp; Traded • rights to Juan Carlos Navarro to Grizzlies for • first round pick (protected top 19 in 2008, top 16 in 2009, top 14 in 2010-12, top 12 in 2013, else 2014 second round pick, $1M cash) (2010 #12-Xavier Henry)"
+        },
+        {
+          "date": "2008-12-10",
+          "summary": "Grizzlies &nbsp; Traded • Javaris Crittenton • 2015 conditional second round pick or $350K cash (Grizzlies option) (cash) in a 3-team trade with Hornets, Wizards for • first round pick (from Wizards) (protected top 19 in 2008, top 16 in 2009, top 14 in 2010-12, top 12 in 2013, else 2014 second round pick) (2010 #12-Xavier Henry)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 13,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Ed Davis",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 14,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Patrick Patterson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 15,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Larry Sanders",
+      "tradeSummary": "Bucks &nbsp; Traded • Hakim Warrick • Joe Alexander • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#17-Kevin Seraphin) to Bulls for • John Salmons • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#15-Larry Sanders) • 2011 second round pick (#60-Isaiah Thomas) • 2012 second round pick (#60-Robert Sacre) on 2010-02-18 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-02-18",
+          "summary": "Bucks &nbsp; Traded • Hakim Warrick • Joe Alexander • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#17-Kevin Seraphin) to Bulls for • John Salmons • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#15-Larry Sanders) • 2011 second round pick (#60-Isaiah Thomas) • 2012 second round pick (#60-Robert Sacre)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 16,
+      "teamAtDraft": "Bobcats",
+      "draftedPlayerName": "Luke Babbitt",
+      "tradeSummary": "Nuggets &nbsp; Traded • 2008 first round pick (#20-Alexis Ajinca) to Bobcats for • first round pick (protected lottery in 2009, top 12 in 2010, top 10 in 2011, top 8 in 2012, top 3 in 2013, unprotected in 2014) (2010 #16-Luke Babbitt) on 2008-06-25 | Timberwolves &nbsp; Traded • rights to Ty Lawson to Nuggets for • first round pick (protected top 12 in 2010, top 10 in 2011, top 8 in 2012, top 3 in 2013, unprotected in 2014) (2010 #16-Luke Babbitt) on 2009-06-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-06-25",
+          "summary": "Nuggets &nbsp; Traded • 2008 first round pick (#20-Alexis Ajinca) to Bobcats for • first round pick (protected lottery in 2009, top 12 in 2010, top 10 in 2011, top 8 in 2012, top 3 in 2013, unprotected in 2014) (2010 #16-Luke Babbitt)"
+        },
+        {
+          "date": "2009-06-25",
+          "summary": "Timberwolves &nbsp; Traded • rights to Ty Lawson to Nuggets for • first round pick (protected top 12 in 2010, top 10 in 2011, top 8 in 2012, top 3 in 2013, unprotected in 2014) (2010 #16-Luke Babbitt)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 17,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Kevin Seraphin",
+      "tradeSummary": "Bulls &nbsp; Traded • John Salmons • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#15-Larry Sanders) • 2011 second round pick (#60-Isaiah Thomas) • 2012 second round pick (#60-Robert Sacre) to Bucks for • Hakim Warrick • Joe Alexander • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#17-Kevin Seraphin) on 2010-02-18 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-02-18",
+          "summary": "Bulls &nbsp; Traded • John Salmons • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#15-Larry Sanders) • 2011 second round pick (#60-Isaiah Thomas) • 2012 second round pick (#60-Robert Sacre) to Bucks for • Hakim Warrick • Joe Alexander • Bucks option to swap 2010 first round picks (Bulls pick protected top 10) (#17-Kevin Seraphin)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 18,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Eric Bledsoe",
+      "tradeSummary": "Thunder &nbsp; Traded • 2010 second round pick (#32-Dexter Pittman) to Heat for • Daequan Cook • 2010 first round pick (#18-Eric Bledsoe) on 2010-06-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-06-23",
+          "summary": "Thunder &nbsp; Traded • 2010 second round pick (#32-Dexter Pittman) to Heat for • Daequan Cook • 2010 first round pick (#18-Eric Bledsoe)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 19,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Avery Bradley",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 20,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "James Anderson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 21,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Craig Brackins",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 22,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Elliot Williams",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 23,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Trevor Booker",
+      "tradeSummary": "76ers &nbsp; Traded • Kyle Korver to Jazz for • Gordan Giricek • 2009 first round pick (less favorable of Jazz, Knicks picks) (protected top 22 in 2009, top 15 in 2010, top 17 in 2011, top 16 in 2012, top 16 in 2013, else 2014 second round pick, $1.15M cash) (2010 #23-Trevor Booker) on 2007-12-29 | Timberwolves &nbsp; Traded • 2010 second round pick (protected top 55 in 2010, extinguished thereafter) (not exercised) to 76ers for • Rodney Carney • Calvin Booth • first round pick (protected top 22 in 2009, top 17 in 2010, top 15 in 2011, top 16 in 2012, top 16 in 2013) (2010 #23-Trevor Booker) • cash considerations on 2008-07-09 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2007-12-29",
+          "summary": "76ers &nbsp; Traded • Kyle Korver to Jazz for • Gordan Giricek • 2009 first round pick (less favorable of Jazz, Knicks picks) (protected top 22 in 2009, top 15 in 2010, top 17 in 2011, top 16 in 2012, top 16 in 2013, else 2014 second round pick, $1.15M cash) (2010 #23-Trevor Booker)"
+        },
+        {
+          "date": "2008-07-09",
+          "summary": "Timberwolves &nbsp; Traded • 2010 second round pick (protected top 55 in 2010, extinguished thereafter) (not exercised) to 76ers for • Rodney Carney • Calvin Booth • first round pick (protected top 22 in 2009, top 17 in 2010, top 15 in 2011, top 16 in 2012, top 16 in 2013) (2010 #23-Trevor Booker) • cash considerations"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 24,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Damion James",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 25,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Dominique Jones",
+      "tradeSummary": "Grizzlies &nbsp; Traded • 2016 second round pick (originally protected top 55 in 2016, but protection later removed in subsequent trade with Mavericks) (#45-Demetrius Jackson) • $3.796M trade exception to Nuggets for • Steven Hunter • first round pick (protected top 14 in 2010-11, top 10 in 2012-15, unprotected in 2016) (2010 #25-Dominique Jones) • cash on 2009-08-07 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-08-07",
+          "summary": "Grizzlies &nbsp; Traded • 2016 second round pick (originally protected top 55 in 2016, but protection later removed in subsequent trade with Mavericks) (#45-Demetrius Jackson) • $3.796M trade exception to Nuggets for • Steven Hunter • first round pick (protected top 14 in 2010-11, top 10 in 2012-15, unprotected in 2016) (2010 #25-Dominique Jones) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 26,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Quincy Pondexter",
+      "tradeSummary": "Sonics &nbsp; Traded 2009 second round pick (protected top 55 in 2009, extinguished thereafter) (#57-Emir Preldžic), $9M trade exception to Suns for Kurt Thomas, 2008 first round pick (#24-Serge Ibaka), 2010 first round pick (#26-Quincy Pondexter) on 2007-07-20 | Thunder &nbsp; Sonics renamed Thunder on 2008-09-03 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2007-07-20",
+          "summary": "Sonics &nbsp; Traded 2009 second round pick (protected top 55 in 2009, extinguished thereafter) (#57-Emir Preldžic), $9M trade exception to Suns for Kurt Thomas, 2008 first round pick (#24-Serge Ibaka), 2010 first round pick (#26-Quincy Pondexter)"
+        },
+        {
+          "date": "2008-09-03",
+          "summary": "Thunder &nbsp; Sonics renamed Thunder"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 27,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Jordan Crawford",
+      "tradeSummary": "Nets &nbsp; Traded • Jason Kidd • Malik Allen • Antoine Wright to Mavericks for • Devin Harris • DeSagana Diop • Trenton Hassell • Maurice Ager • Keith Van Horn • 2008 first round pick (lottery protected) (#21-Ryan Anderson) • 2010 first round pick (#27-Jordan Crawford) • $3M cash considerations on 2008-02-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-02-19",
+          "summary": "Nets &nbsp; Traded • Jason Kidd • Malik Allen • Antoine Wright to Mavericks for • Devin Harris • DeSagana Diop • Trenton Hassell • Maurice Ager • Keith Van Horn • 2008 first round pick (lottery protected) (#21-Ryan Anderson) • 2010 first round pick (#27-Jordan Crawford) • $3M cash considerations"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 28,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Greivis Vasquez",
+      "tradeSummary": "Grizzlies &nbsp; Traded • Pau Gasol • 2010 second round pick (#43-Devin Ebanks) to Lakers for • Kwame Brown • Javaris Crittenton • Aaron McKie • rights to Marc Gasol • first round pick (protected top 3 2008-11, unprotected in 2012) (2008 #28-Donte Greene) • 2010 first round pick (protected top 6) (#28-Greivis Vasquez) • cash on 2008-02-01 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-02-01",
+          "summary": "Grizzlies &nbsp; Traded • Pau Gasol • 2010 second round pick (#43-Devin Ebanks) to Lakers for • Kwame Brown • Javaris Crittenton • Aaron McKie • rights to Marc Gasol • first round pick (protected top 3 2008-11, unprotected in 2012) (2008 #28-Donte Greene) • 2010 first round pick (protected top 6) (#28-Greivis Vasquez) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 29,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Daniel Orton",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "pickNumber": 30,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Lazar Hayward",
+      "tradeSummary": "Wizards &nbsp; Traded • Antawn Jamison • Drew Gooden in a 3-team trade with Cavaliers, Clippers for • Zydrunas Ilgauskas • Al Thornton • rights to Emir Preldžic • 2010 first round pick (from Cavaliers) (#30-Lazar Hayward) on 2010-02-17 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-02-17",
+          "summary": "Wizards &nbsp; Traded • Antawn Jamison • Drew Gooden in a 3-team trade with Cavaliers, Clippers for • Zydrunas Ilgauskas • Al Thornton • rights to Emir Preldžic • 2010 first round pick (from Cavaliers) (#30-Lazar Hayward)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 1,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Tibor Pleiss",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 2,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Dexter Pittman",
+      "tradeSummary": "Thunder &nbsp; Traded • Chucky Atkins • Damien Wilkins to Timberwolves for • Etan Thomas • 2010 second round pick (#32-Dexter Pittman) • 2010 second round pick (least favorable of Blazers, Bulls, Rockets picks) (#51-Magnum Rolle) on 2009-07-27 | Heat &nbsp; Traded • Daequan Cook • 2010 first round pick (#18-Eric Bledsoe) to Thunder for • 2010 second round pick (#32-Dexter Pittman) on 2010-06-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-07-27",
+          "summary": "Thunder &nbsp; Traded • Chucky Atkins • Damien Wilkins to Timberwolves for • Etan Thomas • 2010 second round pick (#32-Dexter Pittman) • 2010 second round pick (least favorable of Blazers, Bulls, Rockets picks) (#51-Magnum Rolle)"
+        },
+        {
+          "date": "2010-06-23",
+          "summary": "Heat &nbsp; Traded • Daequan Cook • 2010 first round pick (#18-Eric Bledsoe) to Thunder for • 2010 second round pick (#32-Dexter Pittman)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 3,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Hassan Whiteside",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 4,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Armon Johnson",
+      "tradeSummary": "Blazers &nbsp; Traded • 2010 second round pick (#44-Jerome Jordan) • cash considerations to Warriors for • 2010 second round pick (#34-Armon Johnson) on 2010-06-21 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-06-21",
+          "summary": "Blazers &nbsp; Traded • 2010 second round pick (#44-Jerome Jordan) • cash considerations to Warriors for • 2010 second round pick (#34-Armon Johnson)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 5,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Nemanja Bjelica",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 6,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Terrico White",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 7,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Darington Hobson",
+      "tradeSummary": "Bucks &nbsp; Traded • Francisco Elson • Jodie Meeks to 76ers for • Primoz Brezec • Royal Ivey • 2010 second round pick (#37-Darington Hobson) on 2010-02-18 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-02-18",
+          "summary": "Bucks &nbsp; Traded • Francisco Elson • Jodie Meeks to 76ers for • Primoz Brezec • Royal Ivey • 2010 second round pick (#37-Darington Hobson)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 8,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Andy Rautins",
+      "tradeSummary": "Nuggets &nbsp; Traded • Marcus Camby • Nuggets option to swap 2010 second round picks with Clippers (#54-Willie Warren) to Clippers for • Nuggets option to swap 2010 second round picks with Clippers (#38-Andy Rautins) on 2008-07-15 | Knicks &nbsp; Traded • Renaldo Balkman • cash considerations to Nuggets for • Taurean Green • Bobby Jones • 2010 second round pick (#38-Andy Rautins) on 2008-07-28 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-07-15",
+          "summary": "Nuggets &nbsp; Traded • Marcus Camby • Nuggets option to swap 2010 second round picks with Clippers (#54-Willie Warren) to Clippers for • Nuggets option to swap 2010 second round picks with Clippers (#38-Andy Rautins)"
+        },
+        {
+          "date": "2008-07-28",
+          "summary": "Knicks &nbsp; Traded • Renaldo Balkman • cash considerations to Nuggets for • Taurean Green • Bobby Jones • 2010 second round pick (#38-Andy Rautins)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 9,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Landry Fields",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 10,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Lance Stephenson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 11,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "Jarvis Varnado",
+      "tradeSummary": "Heat &nbsp; Traded • rights to Marcus Thornton to Hornets for • 2010 second round pick (#41-Jarvis Varnado) • 2012 second round pick (#34-Jae Crowder) on 2009-06-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-06-25",
+          "summary": "Heat &nbsp; Traded • rights to Marcus Thornton to Hornets for • 2010 second round pick (#41-Jarvis Varnado) • 2012 second round pick (#34-Jae Crowder)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 12,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Da'Sean Butler",
+      "tradeSummary": "Heat &nbsp; Traded • Shawn Marion • Marcus Banks • $3M cash considerations to Raptors for • Jermaine O'Neal • Jamario Moon • 2010 conditional second round pick (if first round pick does not transfer in 2010) (#42-Da'Sean Butler) • first round pick (originally lottery protected 2010-15, protection effectively removed when pick traded back to Raptors) (2011 #5-Jonas Valanciunas) • $4.2M trade exception on 2009-02-13 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-02-13",
+          "summary": "Heat &nbsp; Traded • Shawn Marion • Marcus Banks • $3M cash considerations to Raptors for • Jermaine O'Neal • Jamario Moon • 2010 conditional second round pick (if first round pick does not transfer in 2010) (#42-Da'Sean Butler) • first round pick (originally lottery protected 2010-15, protection effectively removed when pick traded back to Raptors) (2011 #5-Jonas Valanciunas) • $4.2M trade exception"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 13,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Devin Ebanks",
+      "tradeSummary": "Lakers &nbsp; Traded • Kwame Brown • Javaris Crittenton • Aaron McKie • rights to Marc Gasol • first round pick (protected top 3 2008-11, unprotected in 2012) (2008 #28-Donte Greene) • 2010 first round pick (protected top 6) (#28-Greivis Vasquez) • cash to Grizzlies for • Pau Gasol • 2010 second round pick (#43-Devin Ebanks) on 2008-02-01 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-02-01",
+          "summary": "Lakers &nbsp; Traded • Kwame Brown • Javaris Crittenton • Aaron McKie • rights to Marc Gasol • first round pick (protected top 3 2008-11, unprotected in 2012) (2008 #28-Donte Greene) • 2010 first round pick (protected top 6) (#28-Greivis Vasquez) • cash to Grizzlies for • Pau Gasol • 2010 second round pick (#43-Devin Ebanks)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 14,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Jerome Jordan",
+      "tradeSummary": "Blazers &nbsp; Traded • rights to Omer Asik in a 3-team trade with Bulls, Nuggets for • 2009 second round pick (from Nuggets) (#55-Patrick &quot;Patty&quot; Mills) • 2009 second round pick (from Bulls) (#38-Jon Brockman) • 2010 second round pick (from Bulls) (#44-Jerome Jordan) on 2008-06-26 | Warriors &nbsp; Traded • 2010 second round pick (#34-Armon Johnson) to Blazers for • 2010 second round pick (#44-Jerome Jordan) • cash considerations on 2010-06-21 | Bucks &nbsp; Traded • Charlie Bell • Dan Gadzuric to Warriors for • Corey Maggette • 2010 second round pick (#44-Jerome Jordan) on 2010-06-22",
+      "tradeChain": [
+        {
+          "date": "2008-06-26",
+          "summary": "Blazers &nbsp; Traded • rights to Omer Asik in a 3-team trade with Bulls, Nuggets for • 2009 second round pick (from Nuggets) (#55-Patrick &quot;Patty&quot; Mills) • 2009 second round pick (from Bulls) (#38-Jon Brockman) • 2010 second round pick (from Bulls) (#44-Jerome Jordan)"
+        },
+        {
+          "date": "2010-06-21",
+          "summary": "Warriors &nbsp; Traded • 2010 second round pick (#34-Armon Johnson) to Blazers for • 2010 second round pick (#44-Jerome Jordan) • cash considerations"
+        },
+        {
+          "date": "2010-06-22",
+          "summary": "Bucks &nbsp; Traded • Charlie Bell • Dan Gadzuric to Warriors for • Corey Maggette • 2010 second round pick (#44-Jerome Jordan)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 15,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Paulo Prestes",
+      "tradeSummary": "Timberwolves &nbsp; Traded • Gerald Green to Rockets for • Kirk Snyder • 2010 second round pick (#45-Paulo Prestes) • cash on 2008-02-21 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-02-21",
+          "summary": "Timberwolves &nbsp; Traded • Gerald Green to Rockets for • Kirk Snyder • 2010 second round pick (#45-Paulo Prestes) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 16,
+      "teamAtDraft": "Bobcats",
+      "draftedPlayerName": "Gani Lawal",
+      "tradeSummary": "Suns &nbsp; Traded • Boris Diaw • Raja Bell • Sean Singletary to Bobcats for • Jason Richardson • Jared Dudley • 2010 second round pick (#46-Gani Lawal) on 2008-12-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-12-10",
+          "summary": "Suns &nbsp; Traded • Boris Diaw • Raja Bell • Sean Singletary to Bobcats for • Jason Richardson • Jared Dudley • 2010 second round pick (#46-Gani Lawal)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 17,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Keith &quot;Tiny&quot; Gallon",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 18,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Latavious Williams",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 19,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Ryan Richards",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 20,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Solomon Alabi",
+      "tradeSummary": "Mavericks &nbsp; Traded • rights to B.J. Mullens to Thunder for • rights to Rodrigue Beaubois • 2010 second round pick (#50-Solomon Alabi) on 2009-06-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-06-25",
+          "summary": "Mavericks &nbsp; Traded • rights to B.J. Mullens to Thunder for • rights to Rodrigue Beaubois • 2010 second round pick (#50-Solomon Alabi)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 21,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Magnum Rolle",
+      "tradeSummary": "Mavericks &nbsp; Traded • 2009 first round pick (#22-Victor Claver) to Blazers for • 2009 first round pick (#24-B.J. Mullens) • 2009 second round pick (#56-Ahmad Nivins) • 2010 second round pick (less favorable of Blazers, Bulls picks) (#51-Magnum Rolle) on 2009-06-24 | Timberwolves &nbsp; Traded • rights to Nick Calathes to Mavericks for • 2010 second round pick (less favorable of Blazers, Bulls picks) (#51-Magnum Rolle) • cash on 2009-06-25 | Thunder &nbsp; Traded • Chucky Atkins • Damien Wilkins to Timberwolves for • Etan Thomas • 2010 second round pick (#32-Dexter Pittman) • 2010 second round pick (least favorable of Blazers, Bulls, Rockets picks) (#51-Magnum Rolle) on 2009-07-27",
+      "tradeChain": [
+        {
+          "date": "2009-06-24",
+          "summary": "Mavericks &nbsp; Traded • 2009 first round pick (#22-Victor Claver) to Blazers for • 2009 first round pick (#24-B.J. Mullens) • 2009 second round pick (#56-Ahmad Nivins) • 2010 second round pick (less favorable of Blazers, Bulls picks) (#51-Magnum Rolle)"
+        },
+        {
+          "date": "2009-06-25",
+          "summary": "Timberwolves &nbsp; Traded • rights to Nick Calathes to Mavericks for • 2010 second round pick (less favorable of Blazers, Bulls picks) (#51-Magnum Rolle) • cash"
+        },
+        {
+          "date": "2009-07-27",
+          "summary": "Thunder &nbsp; Traded • Chucky Atkins • Damien Wilkins to Timberwolves for • Etan Thomas • 2010 second round pick (#32-Dexter Pittman) • 2010 second round pick (least favorable of Blazers, Bulls, Rockets picks) (#51-Magnum Rolle)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 22,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Luke Harangody",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 23,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Pape Sy",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 24,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Willie Warren",
+      "tradeSummary": "Clippers &nbsp; Traded • Nuggets option to swap 2010 second round picks with Clippers (#38-Andy Rautins) to Nuggets for • Marcus Camby • Nuggets option to swap 2010 second round picks with Clippers (#54-Willie Warren) on 2008-07-15 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-07-15",
+          "summary": "Clippers &nbsp; Traded • Nuggets option to swap 2010 second round picks with Clippers (#38-Andy Rautins) to Nuggets for • Marcus Camby • Nuggets option to swap 2010 second round picks with Clippers (#54-Willie Warren)"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 25,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Jeremy Evans",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 26,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Hamady N'Diaye",
+      "tradeSummary": "Timberwolves &nbsp; Traded • Jason Hart to Suns for • Alando Tucker • 2010 second round pick (Suns pick protected top 40, else Cavaliers pick) (#56-Hamady N'Diaye) • cash on 2009-12-29 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-12-29",
+          "summary": "Timberwolves &nbsp; Traded • Jason Hart to Suns for • Alando Tucker • 2010 second round pick (Suns pick protected top 40, else Cavaliers pick) (#56-Hamady N'Diaye) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 27,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Ryan Reid",
+      "tradeSummary": "Pacers &nbsp; Traded • Shawne Williams to Mavericks for • Eddie Jones • 2009 second round pick (#52-A.J. Price) • 2010 or 2011 second round pick (Mavericks option) (2010 #57-Ryan Reid) • ~$1.8M cash on 2008-10-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-10-10",
+          "summary": "Pacers &nbsp; Traded • Shawne Williams to Mavericks for • Eddie Jones • 2009 second round pick (#52-A.J. Price) • 2010 or 2011 second round pick (Mavericks option) (2010 #57-Ryan Reid) • ~$1.8M cash"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 28,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Derrick Caracter",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 29,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Stanley Robinson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "pickNumber": 30,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Dwayne Collins",
+      "tradeSummary": "Suns &nbsp; Traded • Shaquille O'Neal to Cavaliers for • Ben Wallace • Aleksandar &quot;Sasha&quot; Pavlovic • 2010 second round pick (protected top 40) (#60-Dwayne Collins) • $500K cash on 2009-06-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-06-25",
+          "summary": "Suns &nbsp; Traded • Shaquille O'Neal to Cavaliers for • Ben Wallace • Aleksandar &quot;Sasha&quot; Pavlovic • 2010 second round pick (protected top 40) (#60-Dwayne Collins) • $500K cash"
+        }
+      ]
+    }
+  ]
+}

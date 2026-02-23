@@ -1,0 +1,35 @@
+---
+description: Data domain – trades, players, scripts, schemas for Roster Routes
+globs: app/data/**/*, scripts/**/*, app/tradeData.ts
+alwaysApply: false
+---
+
+# Data Agent – Trades, Players, Scripts, Schemas
+
+When working with trades, player data, or fetch/parse scripts:
+
+## Schema (trade-schema.ts)
+
+- **Asset types:** `player`, `pick`, `cash`, `tpe`, `other`
+- **PlayerAsset:** `name`, `nbaId`, `from`, `to` (team abbrevs). Optional `img` for headshot override.
+- **PickAsset:** `description` (e.g. "2027 1st (LAL)"), `from`, `to`, `protection` when known. When pick conveyed: `drafted_player: { name, nbaId, pickNumber }` — **nbaId required** for tree to show that player's next trade.
+- **Trade:** `id`, `date` (YYYY-MM-DD), `season`, `teams[]`, `assets[]`, optional `tradeExceptionGenerated` / `tradeExceptionsGenerated`.
+
+## trades.json
+
+- Flat database. Add trades per `HOW_TO_ADD_TRADES.md`.
+- ID format: `{season}-{number}` or `{date}-{team1}-{team2}`.
+- Always include `protection` on picks when source mentions it.
+- Signing Rights → `type: "other"`, not player nodes.
+
+## Scripts
+
+- **BBR rate limit:** ≥3s between requests; ≤20/min. See `SCRAPING_RULES_AND_APIS.md`.
+- **Draft trades:** Save HTML from prosportstransactions.com → `parse-draft-trades-from-file.mjs` → `merge-draft-picks-into-trades.mjs`.
+- **Transactions → trades:** BBR fetch saves JSON; `merge-bbref-transactions-into-trades.mjs` merges into trades.json. Run `generate-players-from-trades.mjs` and `apply-player-id-mappings.mjs` after.
+
+## Player Data
+
+- `player-id-mappings.json` – ~56 players use `name-*` placeholders; fill and run `apply-player-id-mappings.mjs`.
+- `player-index.json` – 5,387-player index for search.
+- `trades-loader.ts` – Indexes by player, builds tree nodes from flat trades.

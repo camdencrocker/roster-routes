@@ -1,0 +1,685 @@
+{
+  "source": "file:/Users/camdencrocker/roster-routes/app/data/2013 NBA Draft Pick Transactions.html",
+  "fetchedAt": "2026-02-05T21:01:39.907Z",
+  "note": "Double-check against trades.json before merging; some trades may already exist.",
+  "picks": [
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 1,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Anthony Bennett",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 2,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Victor Oladipo",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 3,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Otto Porter",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 4,
+      "teamAtDraft": "Bobcats",
+      "draftedPlayerName": "Cody Zeller",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 5,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Alex Len",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 6,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Nerlens Noel",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 7,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Ben McLemore",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 8,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Kentavious Caldwell-Pope",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 9,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Trey Burke",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 10,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "C.J. McCollum",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 11,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Michael Carter-Williams",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 12,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Steven Adams",
+      "tradeSummary": "Rockets &nbsp; Traded • Kyle Lowry to Raptors for • Gary Forbes • first round pick (protected top 3 and #15-30 in 2013, top 2 and #15-30 in 2014-15, top 1 and #15-30 in 2016-17, unprotected in 2018) (2013 #12-Steven Adams) on 2012-07-11 | Thunder &nbsp; Traded • James Harden • Cole Aldrich • Lazar Hayward • Daequan Cook to Rockets for • Kevin Martin • Jeremy Lamb • first round pick (protected top 3 and 15-30 in 2013, top 2 and 15-30 in 2014-15, top 1 and 15-30 in 2016-17, unprotected in 2018) (2013 #12-Steven Adams) • 2013 second round pick (#32-Alex Abrines) • first round pick (protected top 20 in 2012-17, unprotected in 2018) (2014 #21-Mitch McGary) on 2012-10-27 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-07-11",
+          "summary": "Rockets &nbsp; Traded • Kyle Lowry to Raptors for • Gary Forbes • first round pick (protected top 3 and #15-30 in 2013, top 2 and #15-30 in 2014-15, top 1 and #15-30 in 2016-17, unprotected in 2018) (2013 #12-Steven Adams)"
+        },
+        {
+          "date": "2012-10-27",
+          "summary": "Thunder &nbsp; Traded • James Harden • Cole Aldrich • Lazar Hayward • Daequan Cook to Rockets for • Kevin Martin • Jeremy Lamb • first round pick (protected top 3 and 15-30 in 2013, top 2 and 15-30 in 2014-15, top 1 and 15-30 in 2016-17, unprotected in 2018) (2013 #12-Steven Adams) • 2013 second round pick (#32-Alex Abrines) • first round pick (protected top 20 in 2012-17, unprotected in 2018) (2014 #21-Mitch McGary)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 13,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Kelly Olynyk",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 14,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Shabazz Muhammad",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 15,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Giannis Antetokounmpo",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 16,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Lucas Nogueira",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 17,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Dennis Schroder",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 18,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Shane Larkin",
+      "tradeSummary": "Nets &nbsp; Traded • Joe Smith • Terrence Williams • 2011 second round pick (#41-Darius Morris) • 2012 second round pick or cash (Lakers option) (#60-Robert Sacre) in a 3-team trade with Lakers, Rockets for • Sasha Vujacic • first round pick (from Lakers, protected top 18 in 2011-16, unprotected in 2017) (2011 #27-JaJuan Johnson) • first round pick (from Rockets, protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) on 2010-12-15 | Hawks &nbsp; Traded • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough) to Nets for • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson) on 2012-07-11 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-12-15",
+          "summary": "Nets &nbsp; Traded • Joe Smith • Terrence Williams • 2011 second round pick (#41-Darius Morris) • 2012 second round pick or cash (Lakers option) (#60-Robert Sacre) in a 3-team trade with Lakers, Rockets for • Sasha Vujacic • first round pick (from Lakers, protected top 18 in 2011-16, unprotected in 2017) (2011 #27-JaJuan Johnson) • first round pick (from Rockets, protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin)"
+        },
+        {
+          "date": "2012-07-11",
+          "summary": "Hawks &nbsp; Traded • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough) to Nets for • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 19,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Sergey Karasev",
+      "tradeSummary": "Cavaliers &nbsp; Traded • Ramon Sessions • Christian Eyenga • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #30-Nemanja Nedovic) to Lakers for • Luke Walton • Jason Kapono • conditional first round pick (protected top 14 in 2012, else 2014) (2012 #24-Jared Cunningham) • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #19-Sergey Karasev) • cash on 2012-03-15 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-03-15",
+          "summary": "Cavaliers &nbsp; Traded • Ramon Sessions • Christian Eyenga • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #30-Nemanja Nedovic) to Lakers for • Luke Walton • Jason Kapono • conditional first round pick (protected top 14 in 2012, else 2014) (2012 #24-Jared Cunningham) • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #19-Sergey Karasev) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 20,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Tony Snell",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 21,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Gorgui Dieng",
+      "tradeSummary": "Nets &nbsp; Traded • Marcus Williams to Warriors for • 2011 second round pick (#41-Darius Morris) • 2012 first round pick (protected top 7 in 2012-13, top 6 in 2014, else 2014 second round pick and 2016 second round pick) (2013 #21-Gorgui Dieng) on 2009-09-29 &nbsp; Note: Trade was originally as described below, but was later modified to above on or around 2009-09-29. &nbsp; Nets traded • Marcus Williams to Warriors for • 2011 first round pick (protected top 14 in 2011, top 11 in 2012, top 10 in 2013, else 2013 second round pick and 2015 second round pick) on 2008-07-22 | Jazz &nbsp; Traded • Deron Williams to Nets for • Devin Harris • Derrick Favors • 2011 first round pick (#3-Enes Kanter) • first round pick (protected top 7 in 2012-13, top 6 in 2014, else 2014 second round pick, 2016 second round pick) (2013 #21-Gorgui Dieng) • cash considerations on 2011-02-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2008-07-22",
+          "summary": "Nets &nbsp; Traded • Marcus Williams to Warriors for • 2011 second round pick (#41-Darius Morris) • 2012 first round pick (protected top 7 in 2012-13, top 6 in 2014, else 2014 second round pick and 2016 second round pick) (2013 #21-Gorgui Dieng) on 2009-09-29 &nbsp; Note: Trade was originally as described below, but was later modified to above on or around 2009-09-29. &nbsp; Nets traded • Marcus Williams to Warriors for • 2011 first round pick (protected top 14 in 2011, top 11 in 2012, top 10 in 2013, else 2013 second round pick and 2015 second round pick)"
+        },
+        {
+          "date": "2011-02-23",
+          "summary": "Jazz &nbsp; Traded • Deron Williams to Nets for • Devin Harris • Derrick Favors • 2011 first round pick (#3-Enes Kanter) • first round pick (protected top 7 in 2012-13, top 6 in 2014, else 2014 second round pick, 2016 second round pick) (2013 #21-Gorgui Dieng) • cash considerations"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 22,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Mason Plumlee",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 23,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Solomon Hill",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 24,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Tim Hardaway Jr.",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 25,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Reggie Bullock",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 26,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Andre Roberson",
+      "tradeSummary": "Rockets &nbsp; Traded • Shane Battier • Ish Smith to Grizzlies for • Hasheem Thabeet • DeMarre Carroll • 2013 first round pick (if Grizzlies send 2011 first round pick to Timberwolves as per earlier trade, else later year) (lottery protected in 2013-16, else 2016 second round pick, $3M cash) (2013 #26-Andre Roberson) on 2011-02-24 | Timberwolves &nbsp; Traded • Jonny Flynn • rights to Donatas Motiejunas • 2012 second round pick (if pick is #31-#55) (#40-Will Barton) to Rockets for • Brad Miller • rights to Nikola Mirotic • rights to Chandler Parsons • 2013 first round pick (lottery protected in 2013-16, else 2016 second round pick) (2013 #26-Andre Roberson) on 2011-06-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-02-24",
+          "summary": "Rockets &nbsp; Traded • Shane Battier • Ish Smith to Grizzlies for • Hasheem Thabeet • DeMarre Carroll • 2013 first round pick (if Grizzlies send 2011 first round pick to Timberwolves as per earlier trade, else later year) (lottery protected in 2013-16, else 2016 second round pick, $3M cash) (2013 #26-Andre Roberson)"
+        },
+        {
+          "date": "2011-06-23",
+          "summary": "Timberwolves &nbsp; Traded • Jonny Flynn • rights to Donatas Motiejunas • 2012 second round pick (if pick is #31-#55) (#40-Will Barton) to Rockets for • Brad Miller • rights to Nikola Mirotic • rights to Chandler Parsons • 2013 first round pick (lottery protected in 2013-16, else 2016 second round pick) (2013 #26-Andre Roberson)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 27,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Rudy Gobert",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 28,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Livio Jean-Charles",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 29,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Archie Goodwin",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "pickNumber": 30,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Nemanja Nedovic",
+      "tradeSummary": "Cavaliers &nbsp; Traded • LeBron James • Cavaliers option to swap 2012 first round picks (not exercised) to Heat for • second round pick (protected top 40 in 2011-12, unprotected in 2013) (2011 #54-Milan Macvan) • Cavaliers option to swap 2012 first round picks (not exercised) • 2012 second round pick (#34-Jae Crowder) • first round pick (protected top 10 in 2013-14, unprotected in 2015) (2013 #30-Nemanja Nedovic) • first round pick (2 years following the year in which Heat satisfies its obligation to convey a future first round draft pick to Cavaliers, protected top 10 in 2015-16, unprotected in 2017) (2016 #24-Timothe Luwawu-Cabarrot) • $14.5M trade exception on 2010-07-09 | Lakers &nbsp; Traded • Luke Walton • Jason Kapono • conditional first round pick (protected top 14 in 2012, else 2014) (2012 #24-Jared Cunningham) • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #19-Sergey Karasev) • cash to Cavaliers for • Ramon Sessions • Christian Eyenga • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #30-Nemanja Nedovic) on 2012-03-15 | Suns &nbsp; Traded • Steve Nash to Lakers for • 2013 first round pick (least favorable of Cavaliers, Heat, Kings (protected top 13), Lakers (protected top 14) picks) (#30-Nemanja Nedovic) • 2013 second round pick (protected top 40 in 2013, unprotected in 2014) (#57-Alex Oriakhi) • 2014 second round pick (#36-Johnny O'Bryant III) • first round pick (protected top 5 in 2015, top 3 in 2016-17, unprotected in 2018) (2018 #10-Mikal Bridges) • $3M cash on 2012-07-11 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-07-09",
+          "summary": "Cavaliers &nbsp; Traded • LeBron James • Cavaliers option to swap 2012 first round picks (not exercised) to Heat for • second round pick (protected top 40 in 2011-12, unprotected in 2013) (2011 #54-Milan Macvan) • Cavaliers option to swap 2012 first round picks (not exercised) • 2012 second round pick (#34-Jae Crowder) • first round pick (protected top 10 in 2013-14, unprotected in 2015) (2013 #30-Nemanja Nedovic) • first round pick (2 years following the year in which Heat satisfies its obligation to convey a future first round draft pick to Cavaliers, protected top 10 in 2015-16, unprotected in 2017) (2016 #24-Timothe Luwawu-Cabarrot) • $14.5M trade exception"
+        },
+        {
+          "date": "2012-03-15",
+          "summary": "Lakers &nbsp; Traded • Luke Walton • Jason Kapono • conditional first round pick (protected top 14 in 2012, else 2014) (2012 #24-Jared Cunningham) • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #19-Sergey Karasev) • cash to Cavaliers for • Ramon Sessions • Christian Eyenga • Cavaliers option to swap least favorable Cavaliers 2013 first round pick • Heat 2013 first round pick (protected top 10) • and Kings 2013 first round pick (protected top 13) with Lakers 2013 first round pick (protected top 14 in 2013, else extinguished) (2013 #30-Nemanja Nedovic)"
+        },
+        {
+          "date": "2012-07-11",
+          "summary": "Suns &nbsp; Traded • Steve Nash to Lakers for • 2013 first round pick (least favorable of Cavaliers, Heat, Kings (protected top 13), Lakers (protected top 14) picks) (#30-Nemanja Nedovic) • 2013 second round pick (protected top 40 in 2013, unprotected in 2014) (#57-Alex Oriakhi) • 2014 second round pick (#36-Johnny O'Bryant III) • first round pick (protected top 5 in 2015, top 3 in 2016-17, unprotected in 2018) (2018 #10-Mikal Bridges) • $3M cash"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 1,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Allen Crabbe",
+      "tradeSummary": "Cavaliers &nbsp; Traded • rights to Justin Harper to Magic for • 2013 second round pick (#31-Allen Crabbe) • 2014 second round pick (#33-Joe Harris) on 2011-06-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-06-23",
+          "summary": "Cavaliers &nbsp; Traded • rights to Justin Harper to Magic for • 2013 second round pick (#31-Allen Crabbe) • 2014 second round pick (#33-Joe Harris)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 2,
+      "teamAtDraft": "Bobcats",
+      "draftedPlayerName": "Alex Abrines",
+      "tradeSummary": "Thunder &nbsp; Traded • Byron Mullens to Bobcats for • 2013 second round pick (#32-Alex Abrines) on 2011-12-19 | Celtics &nbsp; Received • 2013 second round pick (#32-Alex Abrines) from Thunder on 2012-06-26 as compensation for a dispute over Jeff Green's medical condition | Rockets &nbsp; Traded • Courtney Lee in a 3-team trade with Blazers, Celtics for • Sean Williams • E'Twaun Moore • JaJuan Johnson • rights to Jon Diebler • 2013 second round pick (from Celtics) (#32-Alex Abrines) on 2012-07-20 | Thunder &nbsp; Traded • James Harden • Cole Aldrich • Lazar Hayward • Daequan Cook to Rockets for • Kevin Martin • Jeremy Lamb • first round pick (protected top 3 and 15-30 in 2013, top 2 and 15-30 in 2014-15, top 1 and 15-30 in 2016-17, unprotected in 2018) (2013 #12-Steven Adams) • 2013 second round pick (#32-Alex Abrines) • first round pick (protected top 20 in 2012-17, unprotected in 2018) (2014 #21-Mitch McGary) on 2012-10-27",
+      "tradeChain": [
+        {
+          "date": "2011-12-19",
+          "summary": "Thunder &nbsp; Traded • Byron Mullens to Bobcats for • 2013 second round pick (#32-Alex Abrines)"
+        },
+        {
+          "date": null,
+          "summary": "Celtics &nbsp; Received • 2013 second round pick (#32-Alex Abrines) from Thunder on 2012-06-26 as compensation for a dispute over Jeff Green's medical condition"
+        },
+        {
+          "date": "2012-07-20",
+          "summary": "Rockets &nbsp; Traded • Courtney Lee in a 3-team trade with Blazers, Celtics for • Sean Williams • E'Twaun Moore • JaJuan Johnson • rights to Jon Diebler • 2013 second round pick (from Celtics) (#32-Alex Abrines)"
+        },
+        {
+          "date": "2012-10-27",
+          "summary": "Thunder &nbsp; Traded • James Harden • Cole Aldrich • Lazar Hayward • Daequan Cook to Rockets for • Kevin Martin • Jeremy Lamb • first round pick (protected top 3 and 15-30 in 2013, top 2 and 15-30 in 2014-15, top 1 and 15-30 in 2016-17, unprotected in 2018) (2013 #12-Steven Adams) • 2013 second round pick (#32-Alex Abrines) • first round pick (protected top 20 in 2012-17, unprotected in 2018) (2014 #21-Mitch McGary)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 3,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Carrick Felix",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 4,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Isaiah Canaan",
+      "tradeSummary": "Rockets &nbsp; Traded • Marcus Morris to Suns for • 2013 second round pick (#34-Isaiah Canaan) on 2013-02-21 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-02-21",
+          "summary": "Rockets &nbsp; Traded • Marcus Morris to Suns for • 2013 second round pick (#34-Isaiah Canaan)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 5,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Glen Rice Jr.",
+      "tradeSummary": "76ers &nbsp; Traded • Marreese Speights in a 3-team trade with Grizzlies, Hornets (who became Pelicans) for • 2012 conditional second round pick (from Grizzlies) (if pick is between #31-#55) (#54-Tornike Shengelia) • 2013 second round pick (from Hornets/Pelicans) (#35-Glen Rice Jr.) on 2012-01-04 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-01-04",
+          "summary": "76ers &nbsp; Traded • Marreese Speights in a 3-team trade with Grizzlies, Hornets (who became Pelicans) for • 2012 conditional second round pick (from Grizzlies) (if pick is between #31-#55) (#54-Tornike Shengelia) • 2013 second round pick (from Hornets/Pelicans) (#35-Glen Rice Jr.)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 6,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Ray McCallum",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 7,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Tony Mitchell",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 8,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Nate Wolters",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 9,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Jeff Withey",
+      "tradeSummary": "Cavaliers &nbsp; Traded • Delonte West • Sebastian Telfair to Timberwolves for • Ramon Sessions • Ryan Hollins • 2013 second round pick (#39-Jeff Withey) on 2010-07-26 | Celtics &nbsp; Traded • Luke Harangody • Semih Erden to Cavaliers for • 2013 second round pick (#39-Jeff Withey) on 2011-02-24 | Blazers &nbsp; Traded • rights to Jon Diebler in a 3-team trade with Celtics, Rockets for • Aleksandar &quot;Sasha&quot; Pavlovic • 2013 second round pick (from Celtics) (#39-Jeff Withey) • 2013 second round pick (from Celtics) (#45-Marko Todorovic) • cash on 2012-07-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-07-26",
+          "summary": "Cavaliers &nbsp; Traded • Delonte West • Sebastian Telfair to Timberwolves for • Ramon Sessions • Ryan Hollins • 2013 second round pick (#39-Jeff Withey)"
+        },
+        {
+          "date": "2011-02-24",
+          "summary": "Celtics &nbsp; Traded • Luke Harangody • Semih Erden to Cavaliers for • 2013 second round pick (#39-Jeff Withey)"
+        },
+        {
+          "date": "2012-07-20",
+          "summary": "Blazers &nbsp; Traded • rights to Jon Diebler in a 3-team trade with Celtics, Rockets for • Aleksandar &quot;Sasha&quot; Pavlovic • 2013 second round pick (from Celtics) (#39-Jeff Withey) • 2013 second round pick (from Celtics) (#45-Marko Todorovic) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 10,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Grant Jerrett",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 11,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Jamaal Franklin",
+      "tradeSummary": "Mavericks &nbsp; Traded • rights to Solomon Alabi to Raptors for • 2013 second round pick (protected top 40 in 2013) (#41-Jamaal Franklin) • cash considerations on 2010-06-24 &nbsp; Pick was originally protected top 40 in 2013, but was effectively removed when the pick was traded back to Raptors | Raptors &nbsp; Traded • rights to Giorgos Printezis to Mavericks for • Alex Ajinca • 2013 second round pick (#41-Jamaal Franklin) • cash on 2011-01-24 | Grizzlies &nbsp; Traded • Rudy Gay • Hamed Haddadi in a 3-team trade with Pistons, Raptors for • Ed Davis • Tayshaun Prince • Austin Daye • 2013 second round pick (from Raptors) (#41-Jamaal Franklin) • cash on 2013-01-30 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": null,
+          "summary": "Mavericks &nbsp; Traded • rights to Solomon Alabi to Raptors for • 2013 second round pick (protected top 40 in 2013) (#41-Jamaal Franklin) • cash considerations on 2010-06-24 &nbsp; Pick was originally protected top 40 in 2013, but was effectively removed when the pick was traded back to Raptors"
+        },
+        {
+          "date": "2011-01-24",
+          "summary": "Raptors &nbsp; Traded • rights to Giorgos Printezis to Mavericks for • Alex Ajinca • 2013 second round pick (#41-Jamaal Franklin) • cash"
+        },
+        {
+          "date": "2013-01-30",
+          "summary": "Grizzlies &nbsp; Traded • Rudy Gay • Hamed Haddadi in a 3-team trade with Pistons, Raptors for • Ed Davis • Tayshaun Prince • Austin Daye • 2013 second round pick (from Raptors) (#41-Jamaal Franklin) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 12,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Pierre Jackson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 13,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Ricky Ledo",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 14,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Mike Muscala",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 15,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Marko Todorovic",
+      "tradeSummary": "Blazers &nbsp; Traded • rights to Jon Diebler in a 3-team trade with Celtics, Rockets for • Aleksandar &quot;Sasha&quot; Pavlovic • 2013 second round pick (from Celtics) (#39-Jeff Withey) • 2013 second round pick (from Celtics) (#45-Marko Todorovic) • cash on 2012-07-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-07-20",
+          "summary": "Blazers &nbsp; Traded • rights to Jon Diebler in a 3-team trade with Celtics, Rockets for • Aleksandar &quot;Sasha&quot; Pavlovic • 2013 second round pick (from Celtics) (#39-Jeff Withey) • 2013 second round pick (from Celtics) (#45-Marko Todorovic) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 16,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Erick Green",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 17,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Raul Neto",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 18,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Ryan Kelly",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 19,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Erik Murphy",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 20,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "James Ennis III",
+      "tradeSummary": "Hawks &nbsp; Traded • rights to David Andersen to Rockets for • second round pick (protected top 40 through 2015, unprotected in 2016 (2013 #50-James Ennis III)) • future considerations (?) • cash (reportedly ~$2M) on 2009-07-14 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-07-14",
+          "summary": "Hawks &nbsp; Traded • rights to David Andersen to Rockets for • second round pick (protected top 40 through 2015, unprotected in 2016 (2013 #50-James Ennis III)) • future considerations (?) • cash (reportedly ~$2M)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 21,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Romero Osby",
+      "tradeSummary": "Knicks &nbsp; Traded • David Lee to Warriors for • Kelenna Azubuike • Anthony Randolph • Ronny Turiaf • 2012 second round pick (#38-Quincy Miller) • 2013 second round pick (#51-Romero Osby) on 2010-07-09 | Nuggets &nbsp; Traded • Carmelo Anthony • Chauncey Billups • Anthony Carter • Renaldo Balkman • Shelden Williams • 2015 second round pick (#37-Richaun Holmes) • Nuggets option to swap 2016 first round picks with Knicks (#9-Jakob Poeltl) in a 3-team trade with Knicks, Timberwolves for • Wilson Chandler • Raymond Felton • Danilo Gallinari • Kosta Koufos • Timofey Mozgov • 2012 second round pick (from Knicks) (#38-Quincy Miller) • 2013 second round pick (from Knicks) (#51-Romero Osby) • 2014 first round pick (from Knicks) (#12-Dario Saric) • Nuggets option to swap 2016 first round picks with Knicks (#7-Jamal Murray) • $3M cash on 2011-02-22 | Magic &nbsp; Traded • Dwight Howard • Jason Richardson • Chris Duhon • Earl Clark in a 4-team trade with 76ers, Lakers, Nuggets for • Arron Afflalo • Al Harrington • Maurice &quot;Moe&quot; Harkless • Christian Eyenga • Josh McRoberts • Nikola Vucevic • 2013 second round pick (from Nuggets) (#51-Romero Osby) • 2014 first round pick (from Nuggets, less favorable of Knicks, Nuggets picks) (#12-Dario Saric) • 2015 second round pick (from Lakers, protected top 40 in 2015, extinguished thereafter) (not exercised) • first round pick (from 76ers, two years after 76ers convey first round pick to Heat from earlier trade, protected top 14 in 2015-16, top 11 in 2017, top 8 in 2018, else 2018 and 2019 second round picks) (2017 #5-De'Aaron Fox) • draft pick(s) (from Lakers) (first round pick at least 2 years after Lakers send first round pick to Suns from earlier trade, protected top 5 in 2017-18; if first round pick is not sent to Suns by 2017, then 2017 and 2018 second round picks) (2017 #33-Wesley Iwundu) (2018 #40-Rodions Kurucs) on 2012-08-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2010-07-09",
+          "summary": "Knicks &nbsp; Traded • David Lee to Warriors for • Kelenna Azubuike • Anthony Randolph • Ronny Turiaf • 2012 second round pick (#38-Quincy Miller) • 2013 second round pick (#51-Romero Osby)"
+        },
+        {
+          "date": "2011-02-22",
+          "summary": "Nuggets &nbsp; Traded • Carmelo Anthony • Chauncey Billups • Anthony Carter • Renaldo Balkman • Shelden Williams • 2015 second round pick (#37-Richaun Holmes) • Nuggets option to swap 2016 first round picks with Knicks (#9-Jakob Poeltl) in a 3-team trade with Knicks, Timberwolves for • Wilson Chandler • Raymond Felton • Danilo Gallinari • Kosta Koufos • Timofey Mozgov • 2012 second round pick (from Knicks) (#38-Quincy Miller) • 2013 second round pick (from Knicks) (#51-Romero Osby) • 2014 first round pick (from Knicks) (#12-Dario Saric) • Nuggets option to swap 2016 first round picks with Knicks (#7-Jamal Murray) • $3M cash"
+        },
+        {
+          "date": "2012-08-10",
+          "summary": "Magic &nbsp; Traded • Dwight Howard • Jason Richardson • Chris Duhon • Earl Clark in a 4-team trade with 76ers, Lakers, Nuggets for • Arron Afflalo • Al Harrington • Maurice &quot;Moe&quot; Harkless • Christian Eyenga • Josh McRoberts • Nikola Vucevic • 2013 second round pick (from Nuggets) (#51-Romero Osby) • 2014 first round pick (from Nuggets, less favorable of Knicks, Nuggets picks) (#12-Dario Saric) • 2015 second round pick (from Lakers, protected top 40 in 2015, extinguished thereafter) (not exercised) • first round pick (from 76ers, two years after 76ers convey first round pick to Heat from earlier trade, protected top 14 in 2015-16, top 11 in 2017, top 8 in 2018, else 2018 and 2019 second round picks) (2017 #5-De'Aaron Fox) • draft pick(s) (from Lakers) (first round pick at least 2 years after Lakers send first round pick to Suns from earlier trade, protected top 5 in 2017-18; if first round pick is not sent to Suns by 2017, then 2017 and 2018 second round picks) (2017 #33-Wesley Iwundu) (2018 #40-Rodions Kurucs)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 22,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Lorenzo Brown",
+      "tradeSummary": "Timberwolves &nbsp; Traded • rights to Bojan Bogdanovic to Nets for • 2013 second round pick (#52-Lorenzo Brown) • cash on 2011-06-24 | Hornets &nbsp; Traded • 2017 second round pick (protected top 55, else extinguished) (not exercised) to Timberwolves for • Brad Miller • 2013 second round pick (#52-Lorenzo Brown) • 2016 second round pick (#35-Rade Zagorac) on 2012-07-13 | Timberwolves &nbsp; Traded • Wesley Johnson • draft pick(s) (first round pick (protected top 13 in 2014, top 12 in 2015-16, else 2016 and 2017 second round picks)) (2016 #35-Rade Zagorac) (2017 #37-Semi Ojeleye) • cash in a 3-team trade with Hornets, Suns for • 2013 second round pick (from Hornets) (#52-Lorenzo Brown) • 2014 second round pick (from Suns) (#36-Johnny O'Bryant III) • 2016 second round pick (from Hornets) (#35-Rade Zagorac) on 2012-07-27 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-06-24",
+          "summary": "Timberwolves &nbsp; Traded • rights to Bojan Bogdanovic to Nets for • 2013 second round pick (#52-Lorenzo Brown) • cash"
+        },
+        {
+          "date": "2012-07-13",
+          "summary": "Hornets &nbsp; Traded • 2017 second round pick (protected top 55, else extinguished) (not exercised) to Timberwolves for • Brad Miller • 2013 second round pick (#52-Lorenzo Brown) • 2016 second round pick (#35-Rade Zagorac)"
+        },
+        {
+          "date": "2012-07-27",
+          "summary": "Timberwolves &nbsp; Traded • Wesley Johnson • draft pick(s) (first round pick (protected top 13 in 2014, top 12 in 2015-16, else 2016 and 2017 second round picks)) (2016 #35-Rade Zagorac) (2017 #37-Semi Ojeleye) • cash in a 3-team trade with Hornets, Suns for • 2013 second round pick (from Hornets) (#52-Lorenzo Brown) • 2014 second round pick (from Suns) (#36-Johnny O'Bryant III) • 2016 second round pick (from Hornets) (#35-Rade Zagorac)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 23,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Colton Iverson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 24,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Arsalan Kazemi",
+      "tradeSummary": "Wizards &nbsp; Traded • 2012 second round pick (protected top 55 in 2012) (not exercised) in a 3-team trade with Knicks, Mavericks for • Ronny Turiaf • 2012 second round pick (from Mavericks) (#46-Darius Miller) • 2013 second round pick (from Knicks) (#54-Arsalan Kazemi) • cash on 2011-12-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-12-10",
+          "summary": "Wizards &nbsp; Traded • 2012 second round pick (protected top 55 in 2012) (not exercised) in a 3-team trade with Knicks, Mavericks for • Ronny Turiaf • 2012 second round pick (from Mavericks) (#46-Darius Miller) • 2013 second round pick (from Knicks) (#54-Arsalan Kazemi) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 25,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Joffrey Lauvergne",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 26,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Peyton Siva",
+      "tradeSummary": "Pistons &nbsp; Traded • Alex Acker • 2011 second round pick (#37-Trey Thompkins) to Clippers for • 2013 second round pick (protected top 55) (#56-Peyton Siva) on 2009-02-16 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-02-16",
+          "summary": "Pistons &nbsp; Traded • Alex Acker • 2011 second round pick (#37-Trey Thompkins) to Clippers for • 2013 second round pick (protected top 55) (#56-Peyton Siva)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 27,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Alex Oriakhi",
+      "tradeSummary": "Lakers &nbsp; Traded • rights to Chukwudiebere &quot;Chu Chu&quot; Maduabum to Nuggets for • 2013 second round pick (protected top 40 in 2013, unprotected in 2014) (2013 #57-Alex Oriakhi) on 2011-06-23 | Suns &nbsp; Traded • Steve Nash to Lakers for • 2013 first round pick (least favorable of Cavaliers, Heat, Kings (protected top 13), Lakers (protected top 14) picks) (#30-Nemanja Nedovic) • 2013 second round pick (protected top 40 in 2013, unprotected in 2014) (#57-Alex Oriakhi) • 2014 second round pick (#36-Johnny O'Bryant III) • first round pick (protected top 5 in 2015, top 3 in 2016-17, unprotected in 2018) (2018 #10-Mikal Bridges) • $3M cash on 2012-07-11 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-06-23",
+          "summary": "Lakers &nbsp; Traded • rights to Chukwudiebere &quot;Chu Chu&quot; Maduabum to Nuggets for • 2013 second round pick (protected top 40 in 2013, unprotected in 2014) (2013 #57-Alex Oriakhi)"
+        },
+        {
+          "date": "2012-07-11",
+          "summary": "Suns &nbsp; Traded • Steve Nash to Lakers for • 2013 first round pick (least favorable of Cavaliers, Heat, Kings (protected top 13), Lakers (protected top 14) picks) (#30-Nemanja Nedovic) • 2013 second round pick (protected top 40 in 2013, unprotected in 2014) (#57-Alex Oriakhi) • 2014 second round pick (#36-Johnny O'Bryant III) • first round pick (protected top 5 in 2015, top 3 in 2016-17, unprotected in 2018) (2018 #10-Mikal Bridges) • $3M cash"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 28,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Deshaun Thomas",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 29,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Bojan Dubljevic",
+      "tradeSummary": "Timberwolves &nbsp; Traded • Lazar Hayward to Thunder for • Robert Vaden • 2012 second round pick (#58-Robbie Hummel) • 2013 conditional second round pick (if Thunder 2012 pick is #47-60) (#59-Bojan Dubljevic) on 2011-12-13 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-12-13",
+          "summary": "Timberwolves &nbsp; Traded • Lazar Hayward to Thunder for • Robert Vaden • 2012 second round pick (#58-Robbie Hummel) • 2013 conditional second round pick (if Thunder 2012 pick is #47-60) (#59-Bojan Dubljevic)"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "pickNumber": 30,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Janis Timma",
+      "tradeSummary": "Grizzlies &nbsp; Traded • rights to Ricky Sanchez to Heat for • Dexter Pittman • 2013 second round pick (#60-Janis Timma) • cash on 2013-02-21 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-02-21",
+          "summary": "Grizzlies &nbsp; Traded • rights to Ricky Sanchez to Heat for • Dexter Pittman • 2013 second round pick (#60-Janis Timma) • cash"
+        }
+      ]
+    }
+  ]
+}

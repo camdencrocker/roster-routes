@@ -1,0 +1,32 @@
+---
+description: Tree domain – trade tree viz, nodes, edges for Roster Routes
+globs: app/page.tsx, app/UniversalCard.tsx, app/AssetCard.tsx
+alwaysApply: false
+---
+
+# Tree Agent – Trade Tree Visualization
+
+When modifying the trade tree in `page.tsx`:
+
+## Architecture
+
+- **React Flow** (`@xyflow/react`) – nodes and edges.
+- **trades-loader.ts** – `buildTreeFromFlatTrades()` converts flat trades to tree nodes.
+- **Node types:** `player`, `pick`, `date`, `router`, `teamLabel`, `package`, `packageItem`.
+
+## Node Behavior
+
+- **Player nodes:** Headshots via `getHeadshotUrl` / `getHeadshotFallback`, team colors via `getHistoricalColor`.
+- **Pick nodes:** Compact label `"2031 2nd (DEN)"` – no "ROUND PICK". Protection text expandable (TODO).
+- **Date nodes:** Center above bottom row; connect to asset directly beneath (vertical line).
+- **Routers:** Invisible 1px nodes for routing edges.
+
+## Edges
+
+- **Orthogonal only** – 90-degree turns. See `trade-tree-layout.mdc` for StepEdge vs DirectEdge.
+- No diagonal lines. Bottom assets: date → middle asset (vertical), then horizontal rail.
+
+## Layout
+
+- See `.cursor/rules/trade-tree-layout.mdc` for spacing, child placement, date centering.
+- Keep compact. No repeat nodes; use `skipRootAsDuplicate` when recursing.

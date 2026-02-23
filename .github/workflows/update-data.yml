@@ -1,0 +1,59 @@
+# Set-and-forget: fetch BBR transactions + draft picks, commit updates.
+# Runs daily for transactions; June 20–30 for draft (NBA draft is late June).
+name: Update Data
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Daily at 10am UTC
+    - cron: '0 10 * * *'
+  workflow_dispatch: # Allow manual run
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      # 1. BBR transactions (1 request, 5s delay)
+      - name: Fetch BBR transactions
+        run: node scripts/fetch-bbref-transactions.mjs
+        continue-on-error: true
+
+      # 2. Draft picks: only June 20–30 (NBA draft is late June)
+      - name: Fetch draft trades (June only)
+        run: |
+          MONTH=$(date +%m)
+          DAY=$(date +%d)
+          YEAR=$(date +%Y)
+          if [ "$MONTH" = "06" ] && [ "$DAY" -ge 20 ]; then
+            node scripts/fetch-draft-trades.mjs "$YEAR" || true
+            [ -f "app/data/draft-picks-${YEAR}-raw.json" ] && node scripts/merge-draft-picks-into-trades.mjs "app/data/draft-picks-${YEAR}-raw.json" || true
+          else
+            echo "Skipping draft fetch (not June 20-30)"
+          fi
+        continue-on-error: true
+
+      # 3. Commit and push if files changed
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add app/data/*.json app/data/*.html 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update data (transactions, draft)"
+            git push
+          fi

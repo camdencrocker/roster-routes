@@ -1,0 +1,4971 @@
+[
+  {
+    "date": "February 24, 2011",
+    "dateNorm": "2011-02-24",
+    "type": "traded",
+    "team": "OKC",
+    "players": [
+      "Jeff Green",
+      "Nenad Krstić",
+      "Fab Melo",
+      "Álex Abrines",
+      "Kendrick Perkins",
+      "Nate Robinson"
+    ],
+    "text": "The Oklahoma City Thunder traded Jeff Green , Nenad Krstić , cash, a 2012 1st round draft pick ( Fab Melo was later selected) and a 2013 2nd round draft pick ( Álex Abrines was later selected) to the Boston Celtics for Kendrick Perkins and Nate Robinson . draft pick awarded by NBA on June 26, 2012 to resolve dispute over Jeff Green's medical condition",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "September 12, 2011",
+    "dateNorm": "2011-09-12",
+    "type": "other",
+    "team": "MIN",
+    "players": [],
+    "text": "The Minnesota Timberwolves hired Rick Adelman as Head Coach.",
+    "teamTo": "MIN"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Tracy McGrady"
+    ],
+    "text": "The Atlanta Hawks signed Tracy McGrady as a free agent.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Vladimir Radmanović"
+    ],
+    "text": "The Atlanta Hawks signed Vladimir Radmanović as a free agent.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Marquis Daniels"
+    ],
+    "text": "The Boston Celtics signed Marquis Daniels as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Chris Wilcox"
+    ],
+    "text": "The Boston Celtics signed Chris Wilcox as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "waived",
+    "team": "CLE",
+    "players": [
+      "Joey Graham"
+    ],
+    "text": "The Cleveland Cavaliers waived Joey Graham ."
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "CHA",
+    "players": [
+      "Derrick Brown"
+    ],
+    "text": "The Charlotte Bobcats signed Derrick Brown as a free agent.",
+    "teamTo": "CHA"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "DAL",
+    "players": [
+      "Brandan Wright"
+    ],
+    "text": "The Dallas Mavericks signed Brandan Wright as a free agent.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "waived",
+    "team": "GSW",
+    "players": [
+      "Jeremy Lin"
+    ],
+    "text": "The Golden State Warriors waived Jeremy Lin ."
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "LAC",
+    "players": [
+      "Caron Butler"
+    ],
+    "text": "The Los Angeles Clippers signed Caron Butler as a free agent.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "LAL",
+    "players": [
+      "Jason Kapono"
+    ],
+    "text": "The Los Angeles Lakers signed Jason Kapono as a free agent.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "MIA",
+    "players": [
+      "Shane Battier"
+    ],
+    "text": "The Miami Heat signed Shane Battier as a free agent.",
+    "teamTo": "MIA"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "traded",
+    "team": "BOS",
+    "players": [
+      "Albert Miralles",
+      "Keyon Dooling"
+    ],
+    "text": "The Boston Celtics traded Albert Miralles to the Milwaukee Bucks for Keyon Dooling and a 2013 2nd round draft pick. Conditional 2013 2nd-rd pick did not convey",
+    "teamTo": "MIL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "JamesOn Curry"
+    ],
+    "text": "The New Jersey Nets signed JamesOn Curry as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Trey Johnson"
+    ],
+    "text": "The New Orleans Hornets signed Trey Johnson as a free agent.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "DaJuan Summers"
+    ],
+    "text": "The New Orleans Hornets signed DaJuan Summers as a free agent.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Lance Thomas"
+    ],
+    "text": "The New Orleans Hornets signed Lance Thomas as a free agent.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "ORL",
+    "players": [
+      "Larry Hughes"
+    ],
+    "text": "The Orlando Magic signed Larry Hughes as a free agent.",
+    "teamTo": "ORL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "ORL",
+    "players": [
+      "Gabe Pruitt"
+    ],
+    "text": "The Orlando Magic signed Gabe Pruitt as a free agent.",
+    "teamTo": "ORL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "waived",
+    "team": "ORL",
+    "players": [
+      "Gilbert Arenas"
+    ],
+    "text": "The Orlando Magic waived Gilbert Arenas ."
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "PHI",
+    "players": [
+      "Antonio Anderson"
+    ],
+    "text": "The Philadelphia 76ers signed Antonio Anderson as a free agent.",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "PHI",
+    "players": [
+      "Dwayne Jones"
+    ],
+    "text": "The Philadelphia 76ers signed Dwayne Jones as a free agent.",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "waived",
+    "team": "PHO",
+    "players": [
+      "Vince Carter"
+    ],
+    "text": "The Phoenix Suns waived Vince Carter ."
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "waived",
+    "team": "PHO",
+    "players": [
+      "Gani Lawal"
+    ],
+    "text": "The Phoenix Suns waived Gani Lawal ."
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "PHO",
+    "players": [
+      "Sebastian Telfair"
+    ],
+    "text": "The Phoenix Suns signed Sebastian Telfair as a free agent.",
+    "teamTo": "PHO"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "PHO",
+    "players": [
+      "Shannon Brown"
+    ],
+    "text": "The Phoenix Suns signed Shannon Brown as a free agent.",
+    "teamTo": "PHO"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "T.J. Ford"
+    ],
+    "text": "The San Antonio Spurs signed T.J. Ford as a free agent.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Jamaal Magloire"
+    ],
+    "text": "The Toronto Raptors signed Jamaal Magloire as a free agent.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "WAS",
+    "players": [
+      "Roger Mason"
+    ],
+    "text": "The Washington Wizards signed Roger Mason as a free agent.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "WAS",
+    "players": [
+      "Mike Wilks"
+    ],
+    "text": "The Washington Wizards signed Mike Wilks as a free agent.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Dennis Horner"
+    ],
+    "text": "The New Jersey Nets signed Dennis Horner as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Carldell Johnson"
+    ],
+    "text": "The New Orleans Hornets signed Carldell Johnson as a free agent.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Greg Stiemsma"
+    ],
+    "text": "The Boston Celtics signed Greg Stiemsma as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "DEN",
+    "players": [
+      "Julyan Stone"
+    ],
+    "text": "The Denver Nuggets signed Julyan Stone as a free agent.",
+    "teamTo": "DEN"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Donald Sloan"
+    ],
+    "text": "The Atlanta Hawks signed Donald Sloan as a free agent.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "December 9, 2011",
+    "dateNorm": "2011-12-09",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Brian Butch"
+    ],
+    "text": "The New Orleans Hornets signed Brian Butch to a multi-year contract.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "traded",
+    "team": "DAL",
+    "players": [
+      "Tyson Chandler",
+      "Ahman Nivins",
+      "Georgios Printezis",
+      "Darius Miller",
+      "Andy Rautins",
+      "Ronny Turiaf",
+      "Arsalan Kazemi"
+    ],
+    "text": "In a 3-team trade, the Dallas Mavericks traded Tyson Chandler , Ahman Nivins and Georgios Printezis to the New York Knicks ; the Dallas Mavericks traded a 2012 2nd round draft pick ( Darius Miller was later selected) to the Washington Wizards ; the New York Knicks traded Andy Rautins to the Dallas Mavericks ; the New York Knicks traded Ronny Turiaf , cash and a 2013 2nd round draft pick ( Arsalan Kazemi was later selected) to the Washington Wizards ; and the Washington Wizards traded a 2012 2nd round draft pick to the Dallas Mavericks . Conditional 2012 2nd-rd pick did not convey Dallas also received a trade exception from New York. Dallas did not receive the 2nd round draft pick from Washington because it was top 55 protected.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "DET",
+    "players": [
+      "Damien Wilkins"
+    ],
+    "text": "The Detroit Pistons signed Damien Wilkins as a free agent.",
+    "teamTo": "DET"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "waived",
+    "team": "IND",
+    "players": [
+      "Jeff Ayres"
+    ],
+    "text": "The Indiana Pacers waived Jeff Ayres ."
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Mikki Moore"
+    ],
+    "text": "The Memphis Grizzlies signed Mikki Moore as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Brian Skinner"
+    ],
+    "text": "The Memphis Grizzlies signed Brian Skinner as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Josh Davis"
+    ],
+    "text": "The Memphis Grizzlies signed Josh Davis as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Walter Sharpe"
+    ],
+    "text": "The Memphis Grizzlies signed Walter Sharpe as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MIA",
+    "players": [
+      "Eddy Curry"
+    ],
+    "text": "The Miami Heat signed Eddy Curry as a free agent.",
+    "teamTo": "MIA"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MIL",
+    "players": [
+      "Mike Dunleavy"
+    ],
+    "text": "The Milwaukee Bucks signed Mike Dunleavy as a free agent.",
+    "teamTo": "MIL"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "waived",
+    "team": "NYK",
+    "players": [
+      "Chauncey Billups"
+    ],
+    "text": "The New York Knicks waived Chauncey Billups ."
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Rasual Butler"
+    ],
+    "text": "The Toronto Raptors signed Rasual Butler as a free agent.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "UTA",
+    "players": [
+      "Jamaal Tinsley"
+    ],
+    "text": "The Utah Jazz signed Jamaal Tinsley as a free agent.",
+    "teamTo": "UTA"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "UTA",
+    "players": [
+      "Keith McLeod"
+    ],
+    "text": "The Utah Jazz signed Keith McLeod as a free agent.",
+    "teamTo": "UTA"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "UTA",
+    "players": [
+      "Trey Gilder"
+    ],
+    "text": "The Utah Jazz signed Trey Gilder as a free agent.",
+    "teamTo": "UTA"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Chris Wright"
+    ],
+    "text": "The Golden State Warriors signed Chris Wright as a free agent.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MIA",
+    "players": [
+      "Mickell Gladness"
+    ],
+    "text": "The Miami Heat signed Mickell Gladness as a free agent.",
+    "teamTo": "MIA"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MIA",
+    "players": [
+      "Terrel Harris"
+    ],
+    "text": "The Miami Heat signed Terrel Harris as a free agent.",
+    "teamTo": "MIA"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Jeremy Pargo"
+    ],
+    "text": "The Memphis Grizzlies signed Jeremy Pargo as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "IND",
+    "players": [
+      "Jeff Ayres"
+    ],
+    "text": "The Indiana Pacers signed Jeff Ayres as a free agent.",
+    "teamTo": "IND"
+  },
+  {
+    "date": "December 10, 2011",
+    "dateNorm": "2011-12-10",
+    "type": "signed",
+    "team": "MIL",
+    "players": [
+      "Ron Howard"
+    ],
+    "text": "The Milwaukee Bucks signed Ron Howard .",
+    "teamTo": "MIL"
+  },
+  {
+    "date": "December 11, 2011",
+    "dateNorm": "2011-12-11",
+    "type": "signed",
+    "team": "CHA",
+    "players": [
+      "Ben Uzoh"
+    ],
+    "text": "The Charlotte Bobcats signed Ben Uzoh as a free agent.",
+    "teamTo": "CHA"
+  },
+  {
+    "date": "December 11, 2011",
+    "dateNorm": "2011-12-11",
+    "type": "waived",
+    "team": "GSW",
+    "players": [
+      "Charlie Bell"
+    ],
+    "text": "The Golden State Warriors waived Charlie Bell ."
+  },
+  {
+    "date": "December 11, 2011",
+    "dateNorm": "2011-12-11",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "Mike Bibby"
+    ],
+    "text": "The New York Knicks signed Mike Bibby as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "December 11, 2011",
+    "dateNorm": "2011-12-11",
+    "type": "signed",
+    "team": "POR",
+    "players": [
+      "Kurt Thomas"
+    ],
+    "text": "The Portland Trail Blazers signed Kurt Thomas as a free agent.",
+    "teamTo": "POR"
+  },
+  {
+    "date": "December 11, 2011",
+    "dateNorm": "2011-12-11",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Aaron Gray"
+    ],
+    "text": "The Toronto Raptors signed Aaron Gray as a free agent.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "December 11, 2011",
+    "dateNorm": "2011-12-11",
+    "type": "traded",
+    "team": "DAL",
+    "players": [
+      "Mitch McGary",
+      "Lamar Odom",
+      "Darius Johnson-Odom"
+    ],
+    "text": "The Dallas Mavericks traded a 2014 1st round draft pick ( Mitch McGary was later selected) to the Los Angeles Lakers for Lamar Odom and a 2012 2nd round draft pick ( Darius Johnson-Odom was later selected). Los Angeles also received a trade exception from Dallas. Dallas had the option to swap 1st round draft picks with Los Angeles in 2013 but did not do so.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Jerry Stackhouse"
+    ],
+    "text": "The Atlanta Hawks signed Jerry Stackhouse as a free agent.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Mike Sweetney"
+    ],
+    "text": "The Boston Celtics signed Mike Sweetney as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "DAL",
+    "players": [
+      "Vince Carter"
+    ],
+    "text": "The Dallas Mavericks signed Vince Carter as a free agent.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "waived",
+    "team": "DET",
+    "players": [
+      "Richard Hamilton"
+    ],
+    "text": "The Detroit Pistons waived Richard Hamilton ."
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "HOU",
+    "players": [
+      "Jeremy Lin"
+    ],
+    "text": "The Houston Rockets signed Jeremy Lin as a free agent.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "waived",
+    "team": "IND",
+    "players": [
+      "James Posey"
+    ],
+    "text": "The Indiana Pacers waived James Posey ."
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "LAC",
+    "players": [
+      "Chauncey Billups"
+    ],
+    "text": "The Los Angeles Clippers signed Chauncey Billups as a free agent.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "Chris Hunter"
+    ],
+    "text": "The New York Knicks signed Chris Hunter as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "Devin Green"
+    ],
+    "text": "The New York Knicks signed Devin Green as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "traded",
+    "team": "BOS",
+    "players": [
+      "Glen Davis",
+      "Von Wafer",
+      "Brandon Bass"
+    ],
+    "text": "The Boston Celtics traded Glen Davis and Von Wafer to the Orlando Magic for Brandon Bass .",
+    "teamTo": "ORL"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Gani Lawal"
+    ],
+    "text": "The San Antonio Spurs signed Gani Lawal as a free agent.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Anthony Carter"
+    ],
+    "text": "The Toronto Raptors signed Anthony Carter as a free agent.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "DET",
+    "players": [
+      "Jake Voskuhl"
+    ],
+    "text": "The Detroit Pistons signed Jake Voskuhl as a free agent.",
+    "teamTo": "DET"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Jamal Sampson"
+    ],
+    "text": "The Boston Celtics signed Jamal Sampson as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Shelden Williams"
+    ],
+    "text": "The New Jersey Nets signed Shelden Williams as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "December 12, 2011",
+    "dateNorm": "2011-12-12",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Ivan Johnson"
+    ],
+    "text": "The Atlanta Hawks signed Ivan Johnson as a free agent.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "traded",
+    "team": "DAL",
+    "players": [
+      "Corey Brewer",
+      "Rudy Fernández",
+      "Demetrius Jackson"
+    ],
+    "text": "The Dallas Mavericks traded Corey Brewer and Rudy Fernández to the Denver Nuggets for a 2016 2nd round draft pick ( Demetrius Jackson was later selected). The 2nd round draft pick that Dallas received was top 55 protected, but that protection was removed in a later deal.",
+    "teamTo": "DEN"
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "signed",
+    "team": "DAL",
+    "players": [
+      "Delonte West"
+    ],
+    "text": "The Dallas Mavericks signed Delonte West as a free agent.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "signed",
+    "team": "DEN",
+    "players": [
+      "DeMarre Carroll"
+    ],
+    "text": "The Denver Nuggets signed DeMarre Carroll as a free agent.",
+    "teamTo": "DEN"
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "traded",
+    "team": "MIN",
+    "players": [
+      "Lazar Hayward",
+      "Robert Vaden",
+      "Robbie Hummel",
+      "Bojan Dubljević"
+    ],
+    "text": "The Minnesota Timberwolves traded Lazar Hayward to the Oklahoma City Thunder for Robert Vaden , a 2012 2nd round draft pick ( Robbie Hummel was later selected) and a 2013 2nd round draft pick ( Bojan Dubljević was later selected).",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "Patrick Ewing"
+    ],
+    "text": "The New Orleans Hornets waived Patrick Ewing ."
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "signed",
+    "team": "PHO",
+    "players": [
+      "Ronnie Price"
+    ],
+    "text": "The Phoenix Suns signed Ronnie Price as a free agent.",
+    "teamTo": "PHO"
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "signed",
+    "team": "PHO",
+    "players": [
+      "Marcus Landry"
+    ],
+    "text": "The Phoenix Suns signed Marcus Landry as a free agent.",
+    "teamTo": "PHO"
+  },
+  {
+    "date": "December 13, 2011",
+    "dateNorm": "2011-12-13",
+    "type": "waived",
+    "team": "PHO",
+    "players": [
+      "Zabian Dowdell"
+    ],
+    "text": "The Phoenix Suns waived Zabian Dowdell ."
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "CHA",
+    "players": [
+      "Melvin Ely"
+    ],
+    "text": "The Charlotte Bobcats signed Melvin Ely as a free agent.",
+    "teamTo": "CHA"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "CHI",
+    "players": [
+      "Richard Hamilton"
+    ],
+    "text": "The Chicago Bulls signed Richard Hamilton as a free agent.",
+    "teamTo": "CHI"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "waived",
+    "team": "CLE",
+    "players": [
+      "Baron Davis"
+    ],
+    "text": "The Cleveland Cavaliers waived Baron Davis ."
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Kwame Brown"
+    ],
+    "text": "The Golden State Warriors signed Kwame Brown as a free agent.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "IND",
+    "players": [
+      "David West"
+    ],
+    "text": "The Indiana Pacers signed David West as a free agent.",
+    "teamTo": "IND"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "traded",
+    "team": "LAC",
+    "players": [
+      "Al-Farouq Aminu",
+      "Eric Gordon",
+      "Chris Kaman",
+      "Austin Rivers",
+      "Chris Paul",
+      "Artūras Gudaitis"
+    ],
+    "text": "The Los Angeles Clippers traded Al-Farouq Aminu , Eric Gordon , Chris Kaman and a 2012 1st round draft pick ( Austin Rivers was later selected) to the New Orleans Hornets for Chris Paul , $350K cash and a 2015 2nd round draft pick ( Artūras Gudaitis was later selected).",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "LAL",
+    "players": [
+      "Josh McRoberts"
+    ],
+    "text": "The Los Angeles Lakers signed Josh McRoberts as a free agent.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "waived",
+    "team": "MEM",
+    "players": [
+      "Ish Smith"
+    ],
+    "text": "The Memphis Grizzlies waived Ish Smith ."
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "MIN",
+    "players": [
+      "J.J. Barea"
+    ],
+    "text": "The Minnesota Timberwolves signed J.J. Barea as a free agent.",
+    "teamTo": "MIN"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Gary Forbes"
+    ],
+    "text": "The Toronto Raptors signed Gary Forbes as a free agent.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "December 14, 2011",
+    "dateNorm": "2011-12-14",
+    "type": "signed",
+    "team": "CHA",
+    "players": [
+      "Taylor Griffin"
+    ],
+    "text": "The Charlotte Bobcats signed Taylor Griffin as a free agent.",
+    "teamTo": "CHA"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "CHA",
+    "players": [
+      "Reggie Williams"
+    ],
+    "text": "The Charlotte Bobcats signed Reggie Williams as a free agent.",
+    "teamTo": "CHA"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "DEN",
+    "players": [
+      "Michael Ruffin"
+    ],
+    "text": "The Denver Nuggets signed Michael Ruffin as a free agent.",
+    "teamTo": "DEN"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "waived",
+    "team": "MEM",
+    "players": [
+      "Mikki Moore"
+    ],
+    "text": "The Memphis Grizzlies waived Mikki Moore ."
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Shawne Williams"
+    ],
+    "text": "The New Jersey Nets signed Shawne Williams as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Ime Udoka"
+    ],
+    "text": "The New Jersey Nets signed Ime Udoka as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "waived",
+    "team": "NJN",
+    "players": [
+      "Travis Outlaw"
+    ],
+    "text": "The New Jersey Nets waived Travis Outlaw ."
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "MIN",
+    "players": [
+      "Bonzi Wells"
+    ],
+    "text": "The Minnesota Timberwolves signed Bonzi Wells as a free agent.",
+    "teamTo": "MIN"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Dominic McGuire"
+    ],
+    "text": "The Golden State Warriors signed Dominic McGuire as a free agent.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "POR",
+    "players": [
+      "Jamal Crawford"
+    ],
+    "text": "The Portland Trail Blazers signed Jamal Crawford as a free agent.",
+    "teamTo": "POR"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "POR",
+    "players": [
+      "Craig Smith"
+    ],
+    "text": "The Portland Trail Blazers signed Craig Smith as a free agent.",
+    "teamTo": "POR"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "waived",
+    "team": "POR",
+    "players": [
+      "Brandon Roy"
+    ],
+    "text": "The Portland Trail Blazers waived Brandon Roy ."
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "UTA",
+    "players": [
+      "Josh Howard"
+    ],
+    "text": "The Utah Jazz signed Josh Howard as a free agent.",
+    "teamTo": "UTA"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "signed",
+    "team": "CLE",
+    "players": [
+      "Mychel Thompson"
+    ],
+    "text": "The Cleveland Cavaliers signed Mychel Thompson as a free agent.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "December 15, 2011",
+    "dateNorm": "2011-12-15",
+    "type": "waived",
+    "team": "DAL",
+    "players": [
+      "Andy Rautins"
+    ],
+    "text": "The Dallas Mavericks waived Andy Rautins ."
+  },
+  {
+    "date": "December 16, 2011",
+    "dateNorm": "2011-12-16",
+    "type": "waived",
+    "team": "CHI",
+    "players": [
+      "Keith Bogans"
+    ],
+    "text": "The Chicago Bulls waived Keith Bogans ."
+  },
+  {
+    "date": "December 16, 2011",
+    "dateNorm": "2011-12-16",
+    "type": "waived",
+    "team": "CHI",
+    "players": [
+      "Jannero Pargo"
+    ],
+    "text": "The Chicago Bulls waived Jannero Pargo ."
+  },
+  {
+    "date": "December 16, 2011",
+    "dateNorm": "2011-12-16",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Ish Smith"
+    ],
+    "text": "The Golden State Warriors signed Ish Smith as a free agent.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "December 17, 2011",
+    "dateNorm": "2011-12-17",
+    "type": "signed",
+    "team": "LAL",
+    "players": [
+      "Troy Murphy"
+    ],
+    "text": "The Los Angeles Lakers signed Troy Murphy as a free agent.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "December 17, 2011",
+    "dateNorm": "2011-12-17",
+    "type": "signed",
+    "team": "SAC",
+    "players": [
+      "Travis Outlaw"
+    ],
+    "text": "The Sacramento Kings signed Travis Outlaw as a free agent.",
+    "teamTo": "SAC"
+  },
+  {
+    "date": "December 17, 2011",
+    "dateNorm": "2011-12-17",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Andrew Goudelock"
+    ],
+    "text": "The Los Angeles Lakers assigned Andrew Goudelock to the Los Angeles D-Fenders of the G-League."
+  },
+  {
+    "date": "December 17, 2011",
+    "dateNorm": "2011-12-17",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The Los Angeles Lakers assigned Malcolm Thomas to the Los Angeles D-Fenders of the G-League."
+  },
+  {
+    "date": "December 18, 2011",
+    "dateNorm": "2011-12-18",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Andrew Goudelock"
+    ],
+    "text": "The Los Angeles Lakers recalled Andrew Goudelock from the Los Angeles D-Fenders of the G-League.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "December 18, 2011",
+    "dateNorm": "2011-12-18",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The Los Angeles Lakers recalled Malcolm Thomas from the Los Angeles D-Fenders of the G-League.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "traded",
+    "team": "CHA",
+    "players": [
+      "Álex Abrines",
+      "Byron Mullens"
+    ],
+    "text": "The Charlotte Bobcats traded a 2013 2nd round draft pick ( Álex Abrines was later selected) to the Oklahoma City Thunder for Byron Mullens .",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "traded",
+    "team": "GSW",
+    "players": [
+      "Lou Amundson",
+      "Luka Mitrović",
+      "Brandon Rush"
+    ],
+    "text": "The Golden State Warriors traded Lou Amundson and a 2015 2nd round draft pick ( Luka Mitrović was later selected) to the Indiana Pacers for Brandon Rush .",
+    "teamTo": "IND"
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "waived",
+    "team": "LAC",
+    "players": [
+      "Willie Warren"
+    ],
+    "text": "The Los Angeles Clippers waived Willie Warren ."
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "Baron Davis"
+    ],
+    "text": "The New York Knicks signed Baron Davis as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "David Andersen"
+    ],
+    "text": "The New Orleans Hornets waived David Andersen ."
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "waived",
+    "team": "SAS",
+    "players": [
+      "Steve Novak"
+    ],
+    "text": "The San Antonio Spurs waived Steve Novak ."
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "waived",
+    "team": "SAS",
+    "players": [
+      "Antonio McDyess"
+    ],
+    "text": "The San Antonio Spurs waived Antonio McDyess ."
+  },
+  {
+    "date": "December 19, 2011",
+    "dateNorm": "2011-12-19",
+    "type": "waived",
+    "team": "MIL",
+    "players": [
+      "Ron Howard"
+    ],
+    "text": "The Milwaukee Bucks waived Ron Howard ."
+  },
+  {
+    "date": "December 20, 2011",
+    "dateNorm": "2011-12-20",
+    "type": "waived",
+    "team": "POR",
+    "players": [
+      "Earl Barron"
+    ],
+    "text": "The Portland Trail Blazers waived Earl Barron ."
+  },
+  {
+    "date": "December 20, 2011",
+    "dateNorm": "2011-12-20",
+    "type": "waived",
+    "team": "NJN",
+    "players": [
+      "JamesOn Curry"
+    ],
+    "text": "The New Jersey Nets waived JamesOn Curry ."
+  },
+  {
+    "date": "December 20, 2011",
+    "dateNorm": "2011-12-20",
+    "type": "signed",
+    "team": "HOU",
+    "players": [
+      "Jeff Adrien"
+    ],
+    "text": "The Houston Rockets signed Jeff Adrien as a free agent.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "December 20, 2011",
+    "dateNorm": "2011-12-20",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Jannero Pargo"
+    ],
+    "text": "The Atlanta Hawks signed Jannero Pargo as a free agent.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "waived",
+    "team": "WAS",
+    "players": [
+      "Mike Wilks"
+    ],
+    "text": "The Washington Wizards waived Mike Wilks ."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "waived",
+    "team": "WAS",
+    "players": [
+      "Larry Owens"
+    ],
+    "text": "The Washington Wizards waived Larry Owens ."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "waived",
+    "team": "UTA",
+    "players": [
+      "Keith McLeod"
+    ],
+    "text": "The Utah Jazz waived Keith McLeod ."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "waived",
+    "team": "UTA",
+    "players": [
+      "Trey Gilder"
+    ],
+    "text": "The Utah Jazz waived Trey Gilder ."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "waived",
+    "team": "PHI",
+    "players": [
+      "Antonio Anderson"
+    ],
+    "text": "The Philadelphia 76ers waived Antonio Anderson ."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "waived",
+    "team": "PHI",
+    "players": [
+      "Dwayne Jones"
+    ],
+    "text": "The Philadelphia 76ers waived Dwayne Jones ."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "waived",
+    "team": "DET",
+    "players": [
+      "Jake Voskuhl"
+    ],
+    "text": "The Detroit Pistons waived Jake Voskuhl ."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "signed",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks signed Sean Williams as a free agent.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "Steve Novak"
+    ],
+    "text": "The New York Knicks signed Steve Novak as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "other",
+    "team": "DAL",
+    "players": [],
+    "text": "The Dallas Mavericks assigned Drew Neitzel to the Texas Legends of the G-League."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Jerome Randle"
+    ],
+    "text": "The Dallas Mavericks assigned Jerome Randle to the Texas Legends of the G-League."
+  },
+  {
+    "date": "December 21, 2011",
+    "dateNorm": "2011-12-21",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks assigned Sean Williams to the Texas Legends of the G-League."
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Willie Green"
+    ],
+    "text": "The Atlanta Hawks signed Willie Green as a free agent.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "waived",
+    "team": "BOS",
+    "players": [
+      "Mike Sweetney"
+    ],
+    "text": "The Boston Celtics waived Mike Sweetney ."
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "waived",
+    "team": "BOS",
+    "players": [
+      "Jamal Sampson"
+    ],
+    "text": "The Boston Celtics waived Jamal Sampson ."
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "waived",
+    "team": "CLE",
+    "players": [
+      "Manny Harris"
+    ],
+    "text": "The Cleveland Cavaliers waived Manny Harris ."
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "signed",
+    "team": "LAC",
+    "players": [
+      "Reggie Evans"
+    ],
+    "text": "The Los Angeles Clippers signed Reggie Evans as a free agent.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "waived",
+    "team": "NJN",
+    "players": [
+      "Stephen Graham"
+    ],
+    "text": "The New Jersey Nets waived Stephen Graham ."
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "waived",
+    "team": "PHO",
+    "players": [
+      "Mickaël Piétrus"
+    ],
+    "text": "The Phoenix Suns waived Mickaël Piétrus ."
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "waived",
+    "team": "SAS",
+    "players": [
+      "Gani Lawal"
+    ],
+    "text": "The San Antonio Spurs waived Gani Lawal ."
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "traded",
+    "team": "NJN",
+    "players": [
+      "Pat Connaughton",
+      "Mehmet Okur"
+    ],
+    "text": "The New Jersey Nets traded a 2015 2nd round draft pick ( Pat Connaughton was later selected) to the Utah Jazz for Mehmet Okur . Utah also received a trade exception from New Jersey.",
+    "teamTo": "UTA"
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "other",
+    "team": "DAL",
+    "players": [],
+    "text": "The Dallas Mavericks recalled Drew Neitzel from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Jerome Randle"
+    ],
+    "text": "The Dallas Mavericks recalled Jerome Randle from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "December 22, 2011",
+    "dateNorm": "2011-12-22",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks recalled Sean Williams from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "ATL",
+    "players": [
+      "Pape Sy"
+    ],
+    "text": "The Atlanta Hawks waived Pape Sy ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "CHA",
+    "players": [
+      "Taylor Griffin"
+    ],
+    "text": "The Charlotte Bobcats waived Taylor Griffin ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "CHA",
+    "players": [
+      "Melvin Ely"
+    ],
+    "text": "The Charlotte Bobcats waived Melvin Ely ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "DEN",
+    "players": [
+      "Michael Ruffin"
+    ],
+    "text": "The Denver Nuggets waived Michael Ruffin ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Dante Cunningham"
+    ],
+    "text": "The Memphis Grizzlies signed Dante Cunningham as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "MEM",
+    "players": [
+      "Walter Sharpe"
+    ],
+    "text": "The Memphis Grizzlies waived Walter Sharpe ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "MIN",
+    "players": [
+      "Bonzi Wells"
+    ],
+    "text": "The Minnesota Timberwolves waived Bonzi Wells ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "DeShawn Stevenson"
+    ],
+    "text": "The New Jersey Nets signed DeShawn Stevenson as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "NJN",
+    "players": [
+      "Ime Udoka"
+    ],
+    "text": "The New Jersey Nets waived Ime Udoka ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Gustavo Ayón"
+    ],
+    "text": "The New Orleans Hornets signed Gustavo Ayón as a free agent.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "NYK",
+    "players": [
+      "Devin Green"
+    ],
+    "text": "The New York Knicks waived Devin Green ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "NYK",
+    "players": [
+      "Chris Hunter"
+    ],
+    "text": "The New York Knicks waived Chris Hunter ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "PHO",
+    "players": [
+      "Marcus Landry"
+    ],
+    "text": "The Phoenix Suns waived Marcus Landry ."
+  },
+  {
+    "date": "December 23, 2011",
+    "dateNorm": "2011-12-23",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "Brian Butch"
+    ],
+    "text": "The New Orleans Hornets waived Brian Butch ."
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "waived",
+    "team": "HOU",
+    "players": [
+      "Marcus Cousin"
+    ],
+    "text": "The Houston Rockets waived Marcus Cousin ."
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "signed",
+    "team": "HOU",
+    "players": [
+      "Samuel Dalembert"
+    ],
+    "text": "The Houston Rockets signed Samuel Dalembert as a free agent.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "waived",
+    "team": "CHA",
+    "players": [
+      "Ben Uzoh"
+    ],
+    "text": "The Charlotte Bobcats waived Ben Uzoh ."
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "traded",
+    "team": "MEM",
+    "players": [
+      "Greivis Vásquez",
+      "Quincy Pondexter"
+    ],
+    "text": "The Memphis Grizzlies traded Greivis Vásquez to the New Orleans Hornets for Quincy Pondexter .",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "waived",
+    "team": "MIA",
+    "players": [
+      "Eddie House"
+    ],
+    "text": "The Miami Heat waived Eddie House ."
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "waived",
+    "team": "OKC",
+    "players": [
+      "Nate Robinson"
+    ],
+    "text": "The Oklahoma City Thunder waived Nate Robinson ."
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "signed",
+    "team": "SAC",
+    "players": [
+      "Chuck Hayes"
+    ],
+    "text": "The Sacramento Kings signed Chuck Hayes as a free agent.",
+    "teamTo": "SAC"
+  },
+  {
+    "date": "December 24, 2011",
+    "dateNorm": "2011-12-24",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Mickaël Piétrus"
+    ],
+    "text": "The Boston Celtics signed Mickaël Piétrus as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "December 25, 2011",
+    "dateNorm": "2011-12-25",
+    "type": "signed",
+    "team": "CHA",
+    "players": [
+      "Cory Higgins"
+    ],
+    "text": "The Charlotte Bobcats signed Cory Higgins as a free agent.",
+    "teamTo": "CHA"
+  },
+  {
+    "date": "December 27, 2011",
+    "dateNorm": "2011-12-27",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "Jeremy Lin"
+    ],
+    "text": "The New York Knicks signed Jeremy Lin as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "December 29, 2011",
+    "dateNorm": "2011-12-29",
+    "type": "waived",
+    "team": "MEM",
+    "players": [
+      "Brian Skinner"
+    ],
+    "text": "The Memphis Grizzlies waived Brian Skinner ."
+  },
+  {
+    "date": "December 29, 2011",
+    "dateNorm": "2011-12-29",
+    "type": "signed",
+    "team": "PHO",
+    "players": [
+      "Michael Redd"
+    ],
+    "text": "The Phoenix Suns signed Michael Redd as a free agent.",
+    "teamTo": "PHO"
+  },
+  {
+    "date": "December 29, 2011",
+    "dateNorm": "2011-12-29",
+    "type": "other",
+    "team": "MIL",
+    "players": [
+      "Darington Hobson"
+    ],
+    "text": "The Milwaukee Bucks assigned Darington Hobson to the Fort Wayne Mad Ants of the G-League."
+  },
+  {
+    "date": "December 31, 2011",
+    "dateNorm": "2011-12-31",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "Lance Thomas"
+    ],
+    "text": "The New Orleans Hornets waived Lance Thomas ."
+  },
+  {
+    "date": "January 1, 2012",
+    "dateNorm": "2012-01-01",
+    "type": "other",
+    "team": "WAS",
+    "players": [
+      "Hamady Ndiaye"
+    ],
+    "text": "The Washington Wizards assigned Hamady Ndiaye to the Iowa Energy of the G-League."
+  },
+  {
+    "date": "January 2, 2012",
+    "dateNorm": "2012-01-02",
+    "type": "other",
+    "team": "SAC",
+    "players": [
+      "Tyler Honeycutt"
+    ],
+    "text": "The Sacramento Kings assigned Tyler Honeycutt to the Reno Bighorns of the G-League."
+  },
+  {
+    "date": "January 2, 2012",
+    "dateNorm": "2012-01-02",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Cory Joseph"
+    ],
+    "text": "The San Antonio Spurs assigned Cory Joseph to the Austin Toros of the G-League."
+  },
+  {
+    "date": "January 2, 2012",
+    "dateNorm": "2012-01-02",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Marcus Morris"
+    ],
+    "text": "The Houston Rockets assigned Marcus Morris to the Rio Grande Valley Vipers of the G-League."
+  },
+  {
+    "date": "January 2, 2012",
+    "dateNorm": "2012-01-02",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Gary Neal"
+    ],
+    "text": "The San Antonio Spurs assigned Gary Neal to the Austin Toros of the G-League."
+  },
+  {
+    "date": "January 2, 2012",
+    "dateNorm": "2012-01-02",
+    "type": "other",
+    "team": "SAC",
+    "players": [
+      "Hassan Whiteside"
+    ],
+    "text": "The Sacramento Kings assigned Hassan Whiteside to the Reno Bighorns of the G-League."
+  },
+  {
+    "date": "January 3, 2012",
+    "dateNorm": "2012-01-03",
+    "type": "signed",
+    "team": "LAC",
+    "players": [
+      "Solomon Jones"
+    ],
+    "text": "The Los Angeles Clippers signed Solomon Jones as a free agent.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "January 3, 2012",
+    "dateNorm": "2012-01-03",
+    "type": "waived",
+    "team": "PHO",
+    "players": [
+      "Garret Siler"
+    ],
+    "text": "The Phoenix Suns waived Garret Siler ."
+  },
+  {
+    "date": "January 3, 2012",
+    "dateNorm": "2012-01-03",
+    "type": "other",
+    "team": "DEN",
+    "players": [
+      "Jordan Hamilton"
+    ],
+    "text": "The Denver Nuggets assigned Jordan Hamilton to the Idaho Stampede of the G-League."
+  },
+  {
+    "date": "January 3, 2012",
+    "dateNorm": "2012-01-03",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Gary Neal"
+    ],
+    "text": "The San Antonio Spurs recalled Gary Neal from the Austin Toros of the G-League.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "January 3, 2012",
+    "dateNorm": "2012-01-03",
+    "type": "other",
+    "team": "DEN",
+    "players": [
+      "Julyan Stone"
+    ],
+    "text": "The Denver Nuggets assigned Julyan Stone to the Idaho Stampede of the G-League."
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "traded",
+    "team": "MEM",
+    "players": [
+      "Xavier Henry",
+      "Tornike Shengelia",
+      "Glen Rice Jr.",
+      "Marreese Speights"
+    ],
+    "text": "In a 3-team trade, the Memphis Grizzlies traded Xavier Henry to the New Orleans Hornets ; the Memphis Grizzlies traded a 2012 2nd round draft pick ( Tornike Shengelia was later selected) to the Philadelphia 76ers ; the New Orleans Hornets traded a 2013 2nd round draft pick ( Glen Rice Jr. was later selected) to the Philadelphia 76ers ; and the Philadelphia 76ers traded Marreese Speights to the Memphis Grizzlies .",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Nate Robinson"
+    ],
+    "text": "The Golden State Warriors signed Nate Robinson as a free agent.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Ike Diogu"
+    ],
+    "text": "The San Antonio Spurs signed Ike Diogu as a free agent.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "other",
+    "team": "TOR",
+    "players": [
+      "Solomon Alabi"
+    ],
+    "text": "The Toronto Raptors assigned Solomon Alabi to the Bakersfield Jam of the G-League."
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "other",
+    "team": "POR",
+    "players": [
+      "Luke Babbitt"
+    ],
+    "text": "The Portland Trail Blazers assigned Luke Babbitt to the Idaho Stampede of the G-League."
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Cleveland Cavaliers assigned Christian Eyenga to the Canton Charge of the G-League."
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "other",
+    "team": "MIL",
+    "players": [
+      "Darington Hobson"
+    ],
+    "text": "The Milwaukee Bucks recalled Darington Hobson from the Fort Wayne Mad Ants of the G-League.",
+    "teamTo": "MIL"
+  },
+  {
+    "date": "January 4, 2012",
+    "dateNorm": "2012-01-04",
+    "type": "other",
+    "team": "POR",
+    "players": [
+      "Armon Johnson"
+    ],
+    "text": "The Portland Trail Blazers assigned Armon Johnson to the Idaho Stampede of the G-League."
+  },
+  {
+    "date": "January 6, 2012",
+    "dateNorm": "2012-01-06",
+    "type": "signed",
+    "team": "DAL",
+    "players": [
+      "Yi Jianlian"
+    ],
+    "text": "The Dallas Mavericks signed Yi Jianlian as a free agent.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "January 6, 2012",
+    "dateNorm": "2012-01-06",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks assigned Sean Williams to the Texas Legends of the G-League."
+  },
+  {
+    "date": "January 6, 2012",
+    "dateNorm": "2012-01-06",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Jianlian Yi"
+    ],
+    "text": "The Dallas Mavericks assigned Jianlian Yi to the Texas Legends of the G-League."
+  },
+  {
+    "date": "January 9, 2012",
+    "dateNorm": "2012-01-09",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Jianlian Yi"
+    ],
+    "text": "The Dallas Mavericks recalled Jianlian Yi from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "January 10, 2012",
+    "dateNorm": "2012-01-10",
+    "type": "other",
+    "team": "POR",
+    "players": [
+      "Luke Babbitt"
+    ],
+    "text": "The Portland Trail Blazers recalled Luke Babbitt from the Idaho Stampede of the G-League.",
+    "teamTo": "POR"
+  },
+  {
+    "date": "January 10, 2012",
+    "dateNorm": "2012-01-10",
+    "type": "other",
+    "team": "DEN",
+    "players": [
+      "Julyan Stone"
+    ],
+    "text": "The Denver Nuggets recalled Julyan Stone from the Idaho Stampede of the G-League.",
+    "teamTo": "DEN"
+  },
+  {
+    "date": "January 11, 2012",
+    "dateNorm": "2012-01-11",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The San Antonio Spurs signed Malcolm Thomas as a free agent.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "January 11, 2012",
+    "dateNorm": "2012-01-11",
+    "type": "waived",
+    "team": "SAS",
+    "players": [
+      "Ike Diogu"
+    ],
+    "text": "The San Antonio Spurs waived Ike Diogu ."
+  },
+  {
+    "date": "January 12, 2012",
+    "dateNorm": "2012-01-12",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Cory Joseph"
+    ],
+    "text": "The San Antonio Spurs recalled Cory Joseph from the Austin Toros of the G-League.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "January 13, 2012",
+    "dateNorm": "2012-01-13",
+    "type": "waived",
+    "team": "GSW",
+    "players": [
+      "Ish Smith"
+    ],
+    "text": "The Golden State Warriors waived Ish Smith ."
+  },
+  {
+    "date": "January 13, 2012",
+    "dateNorm": "2012-01-13",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Marcus Morris"
+    ],
+    "text": "The Houston Rockets recalled Marcus Morris from the Rio Grande Valley Vipers of the G-League.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "January 14, 2012",
+    "dateNorm": "2012-01-14",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Earl Barron"
+    ],
+    "text": "The Golden State Warriors signed Earl Barron as a free agent.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "January 15, 2012",
+    "dateNorm": "2012-01-15",
+    "type": "other",
+    "team": "DEN",
+    "players": [
+      "Jordan Hamilton"
+    ],
+    "text": "The Denver Nuggets recalled Jordan Hamilton from the Idaho Stampede of the G-League.",
+    "teamTo": "DEN"
+  },
+  {
+    "date": "January 15, 2012",
+    "dateNorm": "2012-01-15",
+    "type": "other",
+    "team": "POR",
+    "players": [
+      "Armon Johnson"
+    ],
+    "text": "The Portland Trail Blazers recalled Armon Johnson from the Idaho Stampede of the G-League.",
+    "teamTo": "POR"
+  },
+  {
+    "date": "January 15, 2012",
+    "dateNorm": "2012-01-15",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Dominique Jones"
+    ],
+    "text": "The Dallas Mavericks assigned Dominique Jones to the Texas Legends of the G-League."
+  },
+  {
+    "date": "January 16, 2012",
+    "dateNorm": "2012-01-16",
+    "type": "signed",
+    "team": "LAC",
+    "players": [
+      "Courtney Fortson"
+    ],
+    "text": "The Los Angeles Clippers signed Courtney Fortson as a free agent.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "January 16, 2012",
+    "dateNorm": "2012-01-16",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Ryan Reid"
+    ],
+    "text": "The Oklahoma City Thunder assigned Ryan Reid to the Tulsa 66ers of the G-League."
+  },
+  {
+    "date": "January 17, 2012",
+    "dateNorm": "2012-01-17",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jerome Jordan"
+    ],
+    "text": "The New York Knicks assigned Jerome Jordan to the Erie BayHawks of the G-League."
+  },
+  {
+    "date": "January 17, 2012",
+    "dateNorm": "2012-01-17",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jeremy Lin"
+    ],
+    "text": "The New York Knicks assigned Jeremy Lin to the Erie BayHawks of the G-League."
+  },
+  {
+    "date": "January 18, 2012",
+    "dateNorm": "2012-01-18",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Larry Owens"
+    ],
+    "text": "The New Jersey Nets signed Larry Owens as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "January 18, 2012",
+    "dateNorm": "2012-01-18",
+    "type": "waived",
+    "team": "NJN",
+    "players": [
+      "Dennis Horner"
+    ],
+    "text": "The New Jersey Nets waived Dennis Horner ."
+  },
+  {
+    "date": "January 18, 2012",
+    "dateNorm": "2012-01-18",
+    "type": "other",
+    "team": "MIL",
+    "players": [
+      "Darington Hobson"
+    ],
+    "text": "The Milwaukee Bucks assigned Darington Hobson to the Fort Wayne Mad Ants of the G-League."
+  },
+  {
+    "date": "January 18, 2012",
+    "dateNorm": "2012-01-18",
+    "type": "other",
+    "team": "NJN",
+    "players": [
+      "Jordan Williams"
+    ],
+    "text": "The New Jersey Nets assigned Jordan Williams to the Springfield Armor of the G-League."
+  },
+  {
+    "date": "January 19, 2012",
+    "dateNorm": "2012-01-19",
+    "type": "signed",
+    "team": "OKC",
+    "players": [
+      "Russell Westbrook"
+    ],
+    "text": "The Oklahoma City Thunder signed Russell Westbrook to a multi-year contract.",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "January 20, 2012",
+    "dateNorm": "2012-01-20",
+    "type": "signed",
+    "team": "DET",
+    "players": [
+      "Walker Russell"
+    ],
+    "text": "The Detroit Pistons signed Walker Russell as a free agent.",
+    "teamTo": "DET"
+  },
+  {
+    "date": "January 22, 2012",
+    "dateNorm": "2012-01-22",
+    "type": "other",
+    "team": "TOR",
+    "players": [
+      "Solomon Alabi"
+    ],
+    "text": "The Toronto Raptors recalled Solomon Alabi from the Bakersfield Jam of the G-League.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "January 22, 2012",
+    "dateNorm": "2012-01-22",
+    "type": "other",
+    "team": "SAC",
+    "players": [
+      "Tyler Honeycutt"
+    ],
+    "text": "The Sacramento Kings recalled Tyler Honeycutt from the Reno Bighorns of the G-League.",
+    "teamTo": "SAC"
+  },
+  {
+    "date": "January 23, 2012",
+    "dateNorm": "2012-01-23",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Cleveland Cavaliers recalled Christian Eyenga from the Canton Charge of the G-League.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "January 23, 2012",
+    "dateNorm": "2012-01-23",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Dominique Jones"
+    ],
+    "text": "The Dallas Mavericks recalled Dominique Jones from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "January 23, 2012",
+    "dateNorm": "2012-01-23",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jerome Jordan"
+    ],
+    "text": "The New York Knicks recalled Jerome Jordan from the Erie BayHawks of the G-League.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "January 23, 2012",
+    "dateNorm": "2012-01-23",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jeremy Lin"
+    ],
+    "text": "The New York Knicks recalled Jeremy Lin from the Erie BayHawks of the G-League.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "January 24, 2012",
+    "dateNorm": "2012-01-24",
+    "type": "other",
+    "team": "WAS",
+    "players": [],
+    "text": "The Washington Wizards hired Randy Wittman as Head Coach.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "January 25, 2012",
+    "dateNorm": "2012-01-25",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Derrick Caracter"
+    ],
+    "text": "The Los Angeles Lakers assigned Derrick Caracter to the Los Angeles D-Fenders of the G-League."
+  },
+  {
+    "date": "January 26, 2012",
+    "dateNorm": "2012-01-26",
+    "type": "waived",
+    "team": "ATL",
+    "players": [
+      "Donald Sloan"
+    ],
+    "text": "The Atlanta Hawks waived Donald Sloan ."
+  },
+  {
+    "date": "January 26, 2012",
+    "dateNorm": "2012-01-26",
+    "type": "other",
+    "team": "LAC",
+    "players": [
+      "Eric Bledsoe"
+    ],
+    "text": "The Los Angeles Clippers assigned Eric Bledsoe to the Bakersfield Jam of the G-League."
+  },
+  {
+    "date": "January 26, 2012",
+    "dateNorm": "2012-01-26",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Luke Harangody"
+    ],
+    "text": "The Cleveland Cavaliers assigned Luke Harangody to the Canton Charge of the G-League."
+  },
+  {
+    "date": "January 26, 2012",
+    "dateNorm": "2012-01-26",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Chris Wright"
+    ],
+    "text": "The Golden State Warriors assigned Chris Wright to the Dakota Wizards of the G-League."
+  },
+  {
+    "date": "January 27, 2012",
+    "dateNorm": "2012-01-27",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "Trey Johnson"
+    ],
+    "text": "The New Orleans Hornets waived Trey Johnson ."
+  },
+  {
+    "date": "January 27, 2012",
+    "dateNorm": "2012-01-27",
+    "type": "waived",
+    "team": "LAC",
+    "players": [
+      "Courtney Fortson"
+    ],
+    "text": "The Los Angeles Clippers waived Courtney Fortson ."
+  },
+  {
+    "date": "January 27, 2012",
+    "dateNorm": "2012-01-27",
+    "type": "signed",
+    "team": "PHI",
+    "players": [
+      "Francisco Elson"
+    ],
+    "text": "The Philadelphia 76ers signed Francisco Elson as a free agent.",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "January 28, 2012",
+    "dateNorm": "2012-01-28",
+    "type": "waived",
+    "team": "CHI",
+    "players": [
+      "Mike James"
+    ],
+    "text": "The Chicago Bulls waived Mike James ."
+  },
+  {
+    "date": "January 28, 2012",
+    "dateNorm": "2012-01-28",
+    "type": "other",
+    "team": "LAC",
+    "players": [
+      "Eric Bledsoe"
+    ],
+    "text": "The Los Angeles Clippers recalled Eric Bledsoe from the Bakersfield Jam of the G-League.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "January 28, 2012",
+    "dateNorm": "2012-01-28",
+    "type": "other",
+    "team": "NJN",
+    "players": [
+      "Jordan Williams"
+    ],
+    "text": "The New Jersey Nets recalled Jordan Williams from the Springfield Armor of the G-League.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "January 30, 2012",
+    "dateNorm": "2012-01-30",
+    "type": "other",
+    "team": "WAS",
+    "players": [
+      "Hamady Ndiaye"
+    ],
+    "text": "The Washington Wizards recalled Hamady Ndiaye from the Iowa Energy of the G-League.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "January 30, 2012",
+    "dateNorm": "2012-01-30",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The San Antonio Spurs assigned Malcolm Thomas to the Austin Toros of the G-League."
+  },
+  {
+    "date": "February 1, 2012",
+    "dateNorm": "2012-02-01",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Keith Bogans"
+    ],
+    "text": "The New Jersey Nets signed Keith Bogans as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "February 1, 2012",
+    "dateNorm": "2012-02-01",
+    "type": "waived",
+    "team": "NJN",
+    "players": [
+      "Larry Owens"
+    ],
+    "text": "The New Jersey Nets waived Larry Owens ."
+  },
+  {
+    "date": "February 1, 2012",
+    "dateNorm": "2012-02-01",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Luke Harangody"
+    ],
+    "text": "The Cleveland Cavaliers recalled Luke Harangody from the Canton Charge of the G-League.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "February 1, 2012",
+    "dateNorm": "2012-02-01",
+    "type": "other",
+    "team": "MIL",
+    "players": [
+      "Darington Hobson"
+    ],
+    "text": "The Milwaukee Bucks recalled Darington Hobson from the Fort Wayne Mad Ants of the G-League.",
+    "teamTo": "MIL"
+  },
+  {
+    "date": "February 2, 2012",
+    "dateNorm": "2012-02-02",
+    "type": "signed",
+    "team": "ORL",
+    "players": [
+      "Ish Smith"
+    ],
+    "text": "The Orlando Magic signed Ish Smith as a free agent.",
+    "teamTo": "ORL"
+  },
+  {
+    "date": "February 2, 2012",
+    "dateNorm": "2012-02-02",
+    "type": "waived",
+    "team": "ORL",
+    "players": [
+      "Larry Hughes"
+    ],
+    "text": "The Orlando Magic waived Larry Hughes ."
+  },
+  {
+    "date": "February 3, 2012",
+    "dateNorm": "2012-02-03",
+    "type": "signed",
+    "team": "LAC",
+    "players": [
+      "Kenyon Martin"
+    ],
+    "text": "The Los Angeles Clippers signed Kenyon Martin as a free agent.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "February 3, 2012",
+    "dateNorm": "2012-02-03",
+    "type": "waived",
+    "team": "MIL",
+    "players": [
+      "Darington Hobson"
+    ],
+    "text": "The Milwaukee Bucks waived Darington Hobson ."
+  },
+  {
+    "date": "February 3, 2012",
+    "dateNorm": "2012-02-03",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Marcus Morris"
+    ],
+    "text": "The Houston Rockets assigned Marcus Morris to the Rio Grande Valley Vipers of the G-League."
+  },
+  {
+    "date": "February 3, 2012",
+    "dateNorm": "2012-02-03",
+    "type": "other",
+    "team": "SAC",
+    "players": [
+      "Hassan Whiteside"
+    ],
+    "text": "The Sacramento Kings recalled Hassan Whiteside from the Reno Bighorns of the G-League.",
+    "teamTo": "SAC"
+  },
+  {
+    "date": "February 4, 2012",
+    "dateNorm": "2012-02-04",
+    "type": "waived",
+    "team": "DEN",
+    "players": [
+      "DeMarre Carroll"
+    ],
+    "text": "The Denver Nuggets waived DeMarre Carroll ."
+  },
+  {
+    "date": "February 6, 2012",
+    "dateNorm": "2012-02-06",
+    "type": "waived",
+    "team": "MEM",
+    "players": [
+      "Josh Davis"
+    ],
+    "text": "The Memphis Grizzlies waived Josh Davis ."
+  },
+  {
+    "date": "February 6, 2012",
+    "dateNorm": "2012-02-06",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Lance Thomas"
+    ],
+    "text": "The New Orleans Hornets signed Lance Thomas to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "February 6, 2012",
+    "dateNorm": "2012-02-06",
+    "type": "waived",
+    "team": "GSW",
+    "players": [
+      "Earl Barron"
+    ],
+    "text": "The Golden State Warriors waived Earl Barron ."
+  },
+  {
+    "date": "February 6, 2012",
+    "dateNorm": "2012-02-06",
+    "type": "waived",
+    "team": "CLE",
+    "players": [
+      "Mychel Thompson"
+    ],
+    "text": "The Cleveland Cavaliers waived Mychel Thompson ."
+  },
+  {
+    "date": "February 6, 2012",
+    "dateNorm": "2012-02-06",
+    "type": "other",
+    "team": "MIN",
+    "players": [
+      "Malcolm Lee"
+    ],
+    "text": "The Minnesota Timberwolves assigned Malcolm Lee to the Sioux Falls Skyforce of the G-League."
+  },
+  {
+    "date": "February 6, 2012",
+    "dateNorm": "2012-02-06",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Ryan Reid"
+    ],
+    "text": "The Oklahoma City Thunder recalled Ryan Reid from the Tulsa 66ers of the G-League.",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "February 6, 2012",
+    "dateNorm": "2012-02-06",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Chris Wright"
+    ],
+    "text": "The Golden State Warriors recalled Chris Wright from the Dakota Wizards of the G-League.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "HOU",
+    "players": [
+      "Jeff Adrien"
+    ],
+    "text": "The Houston Rockets waived Jeff Adrien ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "LAC",
+    "players": [
+      "Solomon Jones"
+    ],
+    "text": "The Los Angeles Clippers waived Solomon Jones ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "LAL",
+    "players": [
+      "Derrick Caracter"
+    ],
+    "text": "The Los Angeles Lakers waived Derrick Caracter ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "MIA",
+    "players": [
+      "Mickell Gladness"
+    ],
+    "text": "The Miami Heat waived Mickell Gladness ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "Carldell Johnson"
+    ],
+    "text": "The New Orleans Hornets waived Carldell Johnson ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "DaJuan Summers"
+    ],
+    "text": "The New Orleans Hornets waived DaJuan Summers ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "SAS",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The San Antonio Spurs waived Malcolm Thomas ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "waived",
+    "team": "WAS",
+    "players": [
+      "Hamady N'Diaye"
+    ],
+    "text": "The Washington Wizards waived Hamady N'Diaye ."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "other",
+    "team": "PHI",
+    "players": [
+      "Craig Brackins"
+    ],
+    "text": "The Philadelphia 76ers assigned Craig Brackins to the Maine Red Claws of the G-League."
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Derrick Caracter"
+    ],
+    "text": "The Los Angeles Lakers recalled Derrick Caracter from the Los Angeles D-Fenders of the G-League.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "February 7, 2012",
+    "dateNorm": "2012-02-07",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The San Antonio Spurs recalled Malcolm Thomas from the Austin Toros of the G-League.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "February 8, 2012",
+    "dateNorm": "2012-02-08",
+    "type": "signed",
+    "team": "HOU",
+    "players": [
+      "Greg Smith"
+    ],
+    "text": "The Houston Rockets signed Greg Smith as a free agent.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "February 8, 2012",
+    "dateNorm": "2012-02-08",
+    "type": "signed",
+    "team": "UTA",
+    "players": [
+      "DeMarre Carroll"
+    ],
+    "text": "The Utah Jazz signed DeMarre Carroll as a free agent.",
+    "teamTo": "UTA"
+  },
+  {
+    "date": "February 8, 2012",
+    "dateNorm": "2012-02-08",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Donald Sloan"
+    ],
+    "text": "The New Orleans Hornets signed Donald Sloan to the first of two 10-day contracts.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "February 9, 2012",
+    "dateNorm": "2012-02-09",
+    "type": "signed",
+    "team": "ATL",
+    "players": [
+      "Erick Dampier"
+    ],
+    "text": "The Atlanta Hawks signed Erick Dampier to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "ATL"
+  },
+  {
+    "date": "February 9, 2012",
+    "dateNorm": "2012-02-09",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Greg Smith"
+    ],
+    "text": "The Houston Rockets assigned Greg Smith to the Rio Grande Valley Vipers of the G-League."
+  },
+  {
+    "date": "February 10, 2012",
+    "dateNorm": "2012-02-10",
+    "type": "signed",
+    "team": "CLE",
+    "players": [
+      "Ben Uzoh"
+    ],
+    "text": "The Cleveland Cavaliers signed Ben Uzoh to a 10-day contract.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "February 12, 2012",
+    "dateNorm": "2012-02-12",
+    "type": "signed",
+    "team": "MIA",
+    "players": [
+      "Mickell Gladness"
+    ],
+    "text": "The Miami Heat signed Mickell Gladness to the first of two 10-day contracts.",
+    "teamTo": "MIA"
+  },
+  {
+    "date": "February 12, 2012",
+    "dateNorm": "2012-02-12",
+    "type": "other",
+    "team": "MIN",
+    "players": [
+      "Malcolm Lee"
+    ],
+    "text": "The Minnesota Timberwolves recalled Malcolm Lee from the Sioux Falls Skyforce of the G-League.",
+    "teamTo": "MIN"
+  },
+  {
+    "date": "February 13, 2012",
+    "dateNorm": "2012-02-13",
+    "type": "other",
+    "team": "MEM",
+    "players": [
+      "Josh Selby"
+    ],
+    "text": "The Memphis Grizzlies assigned Josh Selby to the Reno Bighorns of the G-League."
+  },
+  {
+    "date": "February 14, 2012",
+    "dateNorm": "2012-02-14",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Andre Emmett"
+    ],
+    "text": "The New Jersey Nets signed Andre Emmett as a free agent.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "February 14, 2012",
+    "dateNorm": "2012-02-14",
+    "type": "waived",
+    "team": "NJN",
+    "players": [
+      "Keith Bogans"
+    ],
+    "text": "The New Jersey Nets waived Keith Bogans ."
+  },
+  {
+    "date": "February 14, 2012",
+    "dateNorm": "2012-02-14",
+    "type": "signed",
+    "team": "CHI",
+    "players": [
+      "Mike James"
+    ],
+    "text": "The Chicago Bulls signed Mike James to a 10-day contract.",
+    "teamTo": "CHI"
+  },
+  {
+    "date": "February 15, 2012",
+    "dateNorm": "2012-02-15",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Devin Ebanks"
+    ],
+    "text": "The Los Angeles Lakers assigned Devin Ebanks to the Los Angeles D-Fenders of the G-League."
+  },
+  {
+    "date": "February 17, 2012",
+    "dateNorm": "2012-02-17",
+    "type": "waived",
+    "team": "NYK",
+    "players": [
+      "Renaldo Balkman"
+    ],
+    "text": "The New York Knicks waived Renaldo Balkman ."
+  },
+  {
+    "date": "February 17, 2012",
+    "dateNorm": "2012-02-17",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "J.R. Smith"
+    ],
+    "text": "The New York Knicks signed J.R. Smith as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "February 18, 2012",
+    "dateNorm": "2012-02-18",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Greg Smith"
+    ],
+    "text": "The Houston Rockets recalled Greg Smith from the Rio Grande Valley Vipers of the G-League.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "February 20, 2012",
+    "dateNorm": "2012-02-20",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Eric Dawson"
+    ],
+    "text": "The San Antonio Spurs signed Eric Dawson to the first of two 10-day contracts.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "February 20, 2012",
+    "dateNorm": "2012-02-20",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Marcus Morris"
+    ],
+    "text": "The Houston Rockets recalled Marcus Morris from the Rio Grande Valley Vipers of the G-League.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "February 21, 2012",
+    "dateNorm": "2012-02-21",
+    "type": "signed",
+    "team": "CLE",
+    "players": [
+      "Manny Harris"
+    ],
+    "text": "The Cleveland Cavaliers signed Manny Harris to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "February 27, 2012",
+    "dateNorm": "2012-02-27",
+    "type": "signed",
+    "team": "LAC",
+    "players": [
+      "Bobby Simmons"
+    ],
+    "text": "The Los Angeles Clippers signed Bobby Simmons to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "February 27, 2012",
+    "dateNorm": "2012-02-27",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Gerald Green"
+    ],
+    "text": "The New Jersey Nets signed Gerald Green to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "February 27, 2012",
+    "dateNorm": "2012-02-27",
+    "type": "waived",
+    "team": "POR",
+    "players": [
+      "Armon Johnson"
+    ],
+    "text": "The Portland Trail Blazers waived Armon Johnson ."
+  },
+  {
+    "date": "February 27, 2012",
+    "dateNorm": "2012-02-27",
+    "type": "signed",
+    "team": "POR",
+    "players": [
+      "Joel Przybilla"
+    ],
+    "text": "The Portland Trail Blazers signed Joel Przybilla as a free agent.",
+    "teamTo": "POR"
+  },
+  {
+    "date": "February 27, 2012",
+    "dateNorm": "2012-02-27",
+    "type": "other",
+    "team": "MEM",
+    "players": [
+      "Josh Selby"
+    ],
+    "text": "The Memphis Grizzlies recalled Josh Selby from the Reno Bighorns of the G-League.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "February 27, 2012",
+    "dateNorm": "2012-02-27",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Jeremy Tyler"
+    ],
+    "text": "The Golden State Warriors assigned Jeremy Tyler to the Dakota Wizards of the G-League."
+  },
+  {
+    "date": "February 28, 2012",
+    "dateNorm": "2012-02-28",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Devin Ebanks"
+    ],
+    "text": "The Los Angeles Lakers recalled Devin Ebanks from the Los Angeles D-Fenders of the G-League.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "February 29, 2012",
+    "dateNorm": "2012-02-29",
+    "type": "other",
+    "team": "MIN",
+    "players": [
+      "Malcolm Lee"
+    ],
+    "text": "The Minnesota Timberwolves assigned Malcolm Lee to the Sioux Falls Skyforce of the G-League."
+  },
+  {
+    "date": "March 1, 2012",
+    "dateNorm": "2012-03-01",
+    "type": "other",
+    "team": "PHI",
+    "players": [
+      "Craig Brackins"
+    ],
+    "text": "The Philadelphia 76ers recalled Craig Brackins from the Maine Red Claws of the G-League.",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "March 2, 2012",
+    "dateNorm": "2012-03-02",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Lazar Hayward"
+    ],
+    "text": "The Oklahoma City Thunder assigned Lazar Hayward to the Tulsa 66ers of the G-League."
+  },
+  {
+    "date": "March 2, 2012",
+    "dateNorm": "2012-03-02",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jerome Jordan"
+    ],
+    "text": "The New York Knicks assigned Jerome Jordan to the Erie BayHawks of the G-League."
+  },
+  {
+    "date": "March 2, 2012",
+    "dateNorm": "2012-03-02",
+    "type": "other",
+    "team": "LAC",
+    "players": [
+      "Travis Leslie"
+    ],
+    "text": "The Los Angeles Clippers assigned Travis Leslie to the Bakersfield Jam of the G-League."
+  },
+  {
+    "date": "March 2, 2012",
+    "dateNorm": "2012-03-02",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Lamar Odom"
+    ],
+    "text": "The Dallas Mavericks assigned Lamar Odom to the Texas Legends of the G-League."
+  },
+  {
+    "date": "March 3, 2012",
+    "dateNorm": "2012-03-03",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Cory Joseph"
+    ],
+    "text": "The San Antonio Spurs assigned Cory Joseph to the Austin Toros of the G-League."
+  },
+  {
+    "date": "March 3, 2012",
+    "dateNorm": "2012-03-03",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Lamar Odom"
+    ],
+    "text": "The Dallas Mavericks recalled Lamar Odom from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "March 4, 2012",
+    "dateNorm": "2012-03-04",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Lazar Hayward"
+    ],
+    "text": "The Oklahoma City Thunder recalled Lazar Hayward from the Tulsa 66ers of the G-League.",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "March 4, 2012",
+    "dateNorm": "2012-03-04",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks recalled Sean Williams from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "March 5, 2012",
+    "dateNorm": "2012-03-05",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "TJ Ford"
+    ],
+    "text": "The San Antonio Spurs assigned TJ Ford to the Austin Toros of the G-League."
+  },
+  {
+    "date": "March 6, 2012",
+    "dateNorm": "2012-03-06",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Cleveland Cavaliers assigned Christian Eyenga to the Canton Charge of the G-League."
+  },
+  {
+    "date": "March 6, 2012",
+    "dateNorm": "2012-03-06",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "TJ Ford"
+    ],
+    "text": "The San Antonio Spurs recalled TJ Ford from the Austin Toros of the G-League.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "March 6, 2012",
+    "dateNorm": "2012-03-06",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Luke Harangody"
+    ],
+    "text": "The Cleveland Cavaliers assigned Luke Harangody to the Canton Charge of the G-League."
+  },
+  {
+    "date": "March 6, 2012",
+    "dateNorm": "2012-03-06",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Jeremy Tyler"
+    ],
+    "text": "The Golden State Warriors recalled Jeremy Tyler from the Dakota Wizards of the G-League.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "March 7, 2012",
+    "dateNorm": "2012-03-07",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Darius Morris"
+    ],
+    "text": "The Los Angeles Lakers assigned Darius Morris to the Los Angeles D-Fenders of the G-League."
+  },
+  {
+    "date": "March 8, 2012",
+    "dateNorm": "2012-03-08",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jerome Jordan"
+    ],
+    "text": "The New York Knicks recalled Jerome Jordan from the Erie BayHawks of the G-League.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "March 9, 2012",
+    "dateNorm": "2012-03-09",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Jeff Foote"
+    ],
+    "text": "The New Orleans Hornets signed Jeff Foote to a 10-day contract.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "March 9, 2012",
+    "dateNorm": "2012-03-09",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Cory Joseph"
+    ],
+    "text": "The San Antonio Spurs recalled Cory Joseph from the Austin Toros of the G-League.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "March 9, 2012",
+    "dateNorm": "2012-03-09",
+    "type": "other",
+    "team": "MIN",
+    "players": [
+      "Malcolm Lee"
+    ],
+    "text": "The Minnesota Timberwolves recalled Malcolm Lee from the Sioux Falls Skyforce of the G-League.",
+    "teamTo": "MIN"
+  },
+  {
+    "date": "March 11, 2012",
+    "dateNorm": "2012-03-11",
+    "type": "other",
+    "team": "LAC",
+    "players": [
+      "Travis Leslie"
+    ],
+    "text": "The Los Angeles Clippers recalled Travis Leslie from the Bakersfield Jam of the G-League.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "March 11, 2012",
+    "dateNorm": "2012-03-11",
+    "type": "other",
+    "team": "DET",
+    "players": [
+      "Vernon Macklin"
+    ],
+    "text": "The Detroit Pistons assigned Vernon Macklin to the Fort Wayne Mad Ants of the G-League."
+  },
+  {
+    "date": "March 13, 2012",
+    "dateNorm": "2012-03-13",
+    "type": "traded",
+    "team": "GSW",
+    "players": [
+      "Kwame Brown",
+      "Monta Ellis",
+      "Ekpe Udoh",
+      "Andrew Bogut",
+      "Stephen Jackson"
+    ],
+    "text": "The Golden State Warriors traded Kwame Brown , Monta Ellis and Ekpe Udoh to the Milwaukee Bucks for Andrew Bogut and Stephen Jackson .",
+    "teamTo": "MIL"
+  },
+  {
+    "date": "March 13, 2012",
+    "dateNorm": "2012-03-13",
+    "type": "other",
+    "team": "NYK",
+    "players": [],
+    "text": "Mike D'Antoni resigns as Head Coach for New York Knicks ."
+  },
+  {
+    "date": "March 13, 2012",
+    "dateNorm": "2012-03-13",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks assigned Sean Williams to the Texas Legends of the G-League."
+  },
+  {
+    "date": "March 14, 2012",
+    "dateNorm": "2012-03-14",
+    "type": "signed",
+    "team": "CHI",
+    "players": [
+      "Mike James"
+    ],
+    "text": "The Chicago Bulls signed Mike James to a 10-day contract.",
+    "teamTo": "CHI"
+  },
+  {
+    "date": "March 14, 2012",
+    "dateNorm": "2012-03-14",
+    "type": "other",
+    "team": "NYK",
+    "players": [],
+    "text": "The New York Knicks appointed Mike Woodson as Head Coach.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "ATL",
+    "players": [
+      "Ognjen Kuzmić"
+    ],
+    "text": "The Atlanta Hawks traded a 2012 2nd round draft pick ( Ognjen Kuzmić was later selected) to the Golden State Warriors for cash.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "waived",
+    "team": "TOR",
+    "players": [
+      "Anthony Carter"
+    ],
+    "text": "The Toronto Raptors waived Anthony Carter ."
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "MEM",
+    "players": [
+      "Sam Young",
+      "Ricky Sánchez"
+    ],
+    "text": "The Memphis Grizzlies traded Sam Young to the Philadelphia 76ers for Ricky Sánchez .",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "IND",
+    "players": [
+      "Tomislav Zubčić",
+      "Leandro Barbosa"
+    ],
+    "text": "The Indiana Pacers traded cash and a 2012 2nd round draft pick ( Tomislav Zubčić was later selected) to the Toronto Raptors for Leandro Barbosa .",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "HOU",
+    "players": [
+      "Jordan Hill",
+      "Derek Fisher",
+      "Mitch McGary"
+    ],
+    "text": "The Houston Rockets traded Jordan Hill to the Los Angeles Lakers for Derek Fisher and a 2014 1st round draft pick ( Mitch McGary was later selected).",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "GSW",
+    "players": [
+      "Stephen Jackson",
+      "T.J. Ford",
+      "Richard Jefferson",
+      "Festus Ezeli"
+    ],
+    "text": "The Golden State Warriors traded Stephen Jackson to the San Antonio Spurs for T.J. Ford , Richard Jefferson and a 2012 1st round draft pick ( Festus Ezeli was later selected).",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "CLE",
+    "players": [
+      "Christian Eyenga",
+      "Ramon Sessions",
+      "Jason Kapono",
+      "Luke Walton",
+      "Jared Cunningham",
+      "Nemanja Nedović"
+    ],
+    "text": "The Cleveland Cavaliers traded Christian Eyenga and Ramon Sessions to the Los Angeles Lakers for Jason Kapono , Luke Walton , a 2012 1st round draft pick ( Jared Cunningham was later selected) and a 2013 1st round draft pick ( Nemanja Nedović was later selected). Cleveland had the option to swap the least favorable of its 1st round draft picks with Los Angeles in 2013 and did so.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "waived",
+    "team": "POR",
+    "players": [
+      "Greg Oden"
+    ],
+    "text": "The Portland Trail Blazers waived Greg Oden ."
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "waived",
+    "team": "POR",
+    "players": [
+      "Chris Johnson"
+    ],
+    "text": "The Portland Trail Blazers waived Chris Johnson ."
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "NJN",
+    "players": [
+      "Mehmet Okur",
+      "Shawne Williams",
+      "Damian Lillard",
+      "Gerald Wallace"
+    ],
+    "text": "The New Jersey Nets traded Mehmet Okur , Shawne Williams and a 2012 1st round draft pick ( Damian Lillard was later selected) to the Portland Trail Blazers for Gerald Wallace .",
+    "teamTo": "POR"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "DEN",
+    "players": [
+      "Nenê",
+      "Brian Cook",
+      "Artūras Gudaitis",
+      "JaVale McGee",
+      "Ronny Turiaf",
+      "Nick Young"
+    ],
+    "text": "In a 3-team trade, the Denver Nuggets traded Nenê to the Washington Wizards ; the Los Angeles Clippers traded Brian Cook and a 2015 2nd round draft pick ( Artūras Gudaitis was later selected) to the Washington Wizards ; the Washington Wizards traded JaVale McGee and Ronny Turiaf to the Denver Nuggets ; and the Washington Wizards traded Nick Young to the Los Angeles Clippers .",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "traded",
+    "team": "HOU",
+    "players": [
+      "Jonny Flynn",
+      "Hasheem Thabeet",
+      "Will Barton",
+      "Marcus Camby"
+    ],
+    "text": "The Houston Rockets traded Jonny Flynn , Hasheem Thabeet and a 2012 2nd round draft pick ( Will Barton was later selected) to the Portland Trail Blazers for Marcus Camby .",
+    "teamTo": "POR"
+  },
+  {
+    "date": "March 15, 2012",
+    "dateNorm": "2012-03-15",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Cleveland Cavaliers recalled Christian Eyenga from the Canton Charge of the G-League.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "March 16, 2012",
+    "dateNorm": "2012-03-16",
+    "type": "waived",
+    "team": "HOU",
+    "players": [
+      "Terrence Williams"
+    ],
+    "text": "The Houston Rockets waived Terrence Williams ."
+  },
+  {
+    "date": "March 16, 2012",
+    "dateNorm": "2012-03-16",
+    "type": "signed",
+    "team": "CLE",
+    "players": [
+      "Donald Sloan"
+    ],
+    "text": "The Cleveland Cavaliers signed Donald Sloan to a 10-day contract.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "March 16, 2012",
+    "dateNorm": "2012-03-16",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Jerry Smith"
+    ],
+    "text": "The New Jersey Nets signed Jerry Smith to a 10-day contract.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "March 16, 2012",
+    "dateNorm": "2012-03-16",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Los Angeles Lakers assigned Christian Eyenga to the Los Angeles D-Fenders of the G-League."
+  },
+  {
+    "date": "March 16, 2012",
+    "dateNorm": "2012-03-16",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Darius Morris"
+    ],
+    "text": "The Los Angeles Lakers recalled Darius Morris from the Los Angeles D-Fenders of the G-League.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "March 16, 2012",
+    "dateNorm": "2012-03-16",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Ryan Reid"
+    ],
+    "text": "The Oklahoma City Thunder assigned Ryan Reid to the Tulsa 66ers of the G-League."
+  },
+  {
+    "date": "March 16, 2012",
+    "dateNorm": "2012-03-16",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks recalled Sean Williams from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "March 17, 2012",
+    "dateNorm": "2012-03-17",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Lazar Hayward"
+    ],
+    "text": "The Oklahoma City Thunder assigned Lazar Hayward to the Tulsa 66ers of the G-League."
+  },
+  {
+    "date": "March 18, 2012",
+    "dateNorm": "2012-03-18",
+    "type": "waived",
+    "team": "GSW",
+    "players": [
+      "T.J. Ford"
+    ],
+    "text": "The Golden State Warriors waived T.J. Ford ."
+  },
+  {
+    "date": "March 18, 2012",
+    "dateNorm": "2012-03-18",
+    "type": "signed",
+    "team": "HOU",
+    "players": [
+      "Courtney Fortson"
+    ],
+    "text": "The Houston Rockets signed Courtney Fortson to a 10-day contract, then signed to a contract for the rest of the season.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "March 18, 2012",
+    "dateNorm": "2012-03-18",
+    "type": "waived",
+    "team": "CLE",
+    "players": [
+      "Jason Kapono"
+    ],
+    "text": "The Cleveland Cavaliers waived Jason Kapono ."
+  },
+  {
+    "date": "March 18, 2012",
+    "dateNorm": "2012-03-18",
+    "type": "waived",
+    "team": "DEN",
+    "players": [
+      "Ronny Turiaf"
+    ],
+    "text": "The Denver Nuggets waived Ronny Turiaf ."
+  },
+  {
+    "date": "March 18, 2012",
+    "dateNorm": "2012-03-18",
+    "type": "signed",
+    "team": "WAS",
+    "players": [
+      "Edwin Ubiles"
+    ],
+    "text": "The Washington Wizards signed Edwin Ubiles to a 10-day contract.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "March 18, 2012",
+    "dateNorm": "2012-03-18",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Lazar Hayward"
+    ],
+    "text": "The Oklahoma City Thunder recalled Lazar Hayward from the Tulsa 66ers of the G-League.",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "March 18, 2012",
+    "dateNorm": "2012-03-18",
+    "type": "other",
+    "team": "NOH",
+    "players": [
+      "Xavier Henry"
+    ],
+    "text": "The New Orleans Hornets assigned Xavier Henry to the Iowa Energy of the G-League."
+  },
+  {
+    "date": "March 19, 2012",
+    "dateNorm": "2012-03-19",
+    "type": "waived",
+    "team": "HOU",
+    "players": [
+      "Derek Fisher"
+    ],
+    "text": "The Houston Rockets waived Derek Fisher ."
+  },
+  {
+    "date": "March 19, 2012",
+    "dateNorm": "2012-03-19",
+    "type": "waived",
+    "team": "SAC",
+    "players": [
+      "J.J. Hickson"
+    ],
+    "text": "The Sacramento Kings waived J.J. Hickson ."
+  },
+  {
+    "date": "March 19, 2012",
+    "dateNorm": "2012-03-19",
+    "type": "waived",
+    "team": "POR",
+    "players": [
+      "Chris Johnson"
+    ],
+    "text": "The New Orleans Hornets claimed Chris Johnson on waivers from the Portland Trail Blazers .",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "March 19, 2012",
+    "dateNorm": "2012-03-19",
+    "type": "other",
+    "team": "NOH",
+    "players": [
+      "Xavier Henry"
+    ],
+    "text": "The New Orleans Hornets recalled Xavier Henry from the Iowa Energy of the G-League.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "March 20, 2012",
+    "dateNorm": "2012-03-20",
+    "type": "waived",
+    "team": "PHI",
+    "players": [
+      "Andrés Nocioni"
+    ],
+    "text": "The Philadelphia 76ers waived Andrés Nocioni ."
+  },
+  {
+    "date": "March 20, 2012",
+    "dateNorm": "2012-03-20",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Gilbert Arenas"
+    ],
+    "text": "The Memphis Grizzlies signed Gilbert Arenas as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "March 20, 2012",
+    "dateNorm": "2012-03-20",
+    "type": "waived",
+    "team": "CLE",
+    "players": [
+      "Ryan Hollins"
+    ],
+    "text": "The Cleveland Cavaliers waived Ryan Hollins ."
+  },
+  {
+    "date": "March 20, 2012",
+    "dateNorm": "2012-03-20",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Cory Joseph"
+    ],
+    "text": "The San Antonio Spurs assigned Cory Joseph to the Austin Toros of the G-League."
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "signed",
+    "team": "SAC",
+    "players": [
+      "Terrence Williams"
+    ],
+    "text": "The Sacramento Kings signed Terrence Williams to a 10-day contract, then signed to a contract for the rest of the season.",
+    "teamTo": "SAC"
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "waived",
+    "team": "POR",
+    "players": [
+      "Mehmet Okur"
+    ],
+    "text": "The Portland Trail Blazers waived Mehmet Okur ."
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "signed",
+    "team": "POR",
+    "players": [
+      "J.J. Hickson"
+    ],
+    "text": "The Portland Trail Blazers signed J.J. Hickson as a free agent.",
+    "teamTo": "POR"
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "signed",
+    "team": "OKC",
+    "players": [
+      "Derek Fisher"
+    ],
+    "text": "The Oklahoma City Thunder signed Derek Fisher as a free agent.",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "waived",
+    "team": "OKC",
+    "players": [
+      "Ryan Reid"
+    ],
+    "text": "The Oklahoma City Thunder waived Ryan Reid ."
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "signed",
+    "team": "MIA",
+    "players": [
+      "Ronny Turiaf"
+    ],
+    "text": "The Miami Heat signed Ronny Turiaf as a free agent.",
+    "teamTo": "MIA"
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "waived",
+    "team": "CHA",
+    "players": [
+      "Boris Diaw"
+    ],
+    "text": "The Charlotte Bobcats waived Boris Diaw ."
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Ryan Reid"
+    ],
+    "text": "The Oklahoma City Thunder recalled Ryan Reid from the Tulsa 66ers of the G-League.",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "March 21, 2012",
+    "dateNorm": "2012-03-21",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Greg Smith"
+    ],
+    "text": "The Houston Rockets assigned Greg Smith to the Rio Grande Valley Vipers of the G-League."
+  },
+  {
+    "date": "March 22, 2012",
+    "dateNorm": "2012-03-22",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Mickell Gladness"
+    ],
+    "text": "The Golden State Warriors signed Mickell Gladness to a 10-day contract, then signed to a contract for the rest of the season.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "March 22, 2012",
+    "dateNorm": "2012-03-22",
+    "type": "waived",
+    "team": "DAL",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Dallas Mavericks waived Sean Williams ."
+  },
+  {
+    "date": "March 23, 2012",
+    "dateNorm": "2012-03-23",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Ryan Hollins"
+    ],
+    "text": "The Boston Celtics signed Ryan Hollins as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "March 23, 2012",
+    "dateNorm": "2012-03-23",
+    "type": "waived",
+    "team": "BOS",
+    "players": [
+      "Chris Wilcox"
+    ],
+    "text": "The Boston Celtics waived Chris Wilcox ."
+  },
+  {
+    "date": "March 23, 2012",
+    "dateNorm": "2012-03-23",
+    "type": "signed",
+    "team": "DAL",
+    "players": [
+      "Kelenna Azubuike"
+    ],
+    "text": "The Dallas Mavericks signed Kelenna Azubuike as a free agent.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "March 23, 2012",
+    "dateNorm": "2012-03-23",
+    "type": "signed",
+    "team": "IND",
+    "players": [
+      "Kyrylo Fesenko"
+    ],
+    "text": "The Indiana Pacers signed Kyrylo Fesenko as a free agent.",
+    "teamTo": "IND"
+  },
+  {
+    "date": "March 23, 2012",
+    "dateNorm": "2012-03-23",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Boris Diaw"
+    ],
+    "text": "The San Antonio Spurs signed Boris Diaw as a free agent.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "March 23, 2012",
+    "dateNorm": "2012-03-23",
+    "type": "waived",
+    "team": "TOR",
+    "players": [
+      "Rasual Butler"
+    ],
+    "text": "The Toronto Raptors waived Rasual Butler ."
+  },
+  {
+    "date": "March 23, 2012",
+    "dateNorm": "2012-03-23",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Kelenna Azubuike"
+    ],
+    "text": "The Dallas Mavericks assigned Kelenna Azubuike to the Texas Legends of the G-League."
+  },
+  {
+    "date": "March 24, 2012",
+    "dateNorm": "2012-03-24",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Keith Benson"
+    ],
+    "text": "The Golden State Warriors signed Keith Benson to a 10-day contract.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "March 24, 2012",
+    "dateNorm": "2012-03-24",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Justin Dentmon"
+    ],
+    "text": "The San Antonio Spurs signed Justin Dentmon to a 10-day contract.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "March 24, 2012",
+    "dateNorm": "2012-03-24",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Reggie Jackson"
+    ],
+    "text": "The Oklahoma City Thunder assigned Reggie Jackson to the Tulsa 66ers of the G-League."
+  },
+  {
+    "date": "March 24, 2012",
+    "dateNorm": "2012-03-24",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Chris Wright"
+    ],
+    "text": "The Golden State Warriors assigned Chris Wright to the Dakota Wizards of the G-League."
+  },
+  {
+    "date": "March 25, 2012",
+    "dateNorm": "2012-03-25",
+    "type": "other",
+    "team": "OKC",
+    "players": [
+      "Reggie Jackson"
+    ],
+    "text": "The Oklahoma City Thunder recalled Reggie Jackson from the Tulsa 66ers of the G-League.",
+    "teamTo": "OKC"
+  },
+  {
+    "date": "March 26, 2012",
+    "dateNorm": "2012-03-26",
+    "type": "signed",
+    "team": "HOU",
+    "players": [
+      "Earl Boykins"
+    ],
+    "text": "The Houston Rockets signed Earl Boykins to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "March 26, 2012",
+    "dateNorm": "2012-03-26",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Alan Anderson"
+    ],
+    "text": "The Toronto Raptors signed Alan Anderson to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "March 26, 2012",
+    "dateNorm": "2012-03-26",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Ben Uzoh"
+    ],
+    "text": "The Toronto Raptors signed Ben Uzoh to two 10-day contracts, then signed to a contract for the rest of the season.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "March 26, 2012",
+    "dateNorm": "2012-03-26",
+    "type": "other",
+    "team": "MEM",
+    "players": [
+      "Josh Selby"
+    ],
+    "text": "The Memphis Grizzlies assigned Josh Selby to the Reno Bighorns of the G-League."
+  },
+  {
+    "date": "March 27, 2012",
+    "dateNorm": "2012-03-27",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Patty Mills"
+    ],
+    "text": "The San Antonio Spurs signed Patty Mills as a free agent.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "March 28, 2012",
+    "dateNorm": "2012-03-28",
+    "type": "signed",
+    "team": "WAS",
+    "players": [
+      "Cartier Martin"
+    ],
+    "text": "The Washington Wizards signed Cartier Martin as a free agent.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "March 29, 2012",
+    "dateNorm": "2012-03-29",
+    "type": "other",
+    "team": "LAC",
+    "players": [
+      "Travis Leslie"
+    ],
+    "text": "The Los Angeles Clippers assigned Travis Leslie to the Bakersfield Jam of the G-League."
+  },
+  {
+    "date": "March 30, 2012",
+    "dateNorm": "2012-03-30",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Dennis Horner"
+    ],
+    "text": "The New Jersey Nets signed Dennis Horner to a 10-day contract.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "March 30, 2012",
+    "dateNorm": "2012-03-30",
+    "type": "signed",
+    "team": "CLE",
+    "players": [
+      "Lester Hudson"
+    ],
+    "text": "The Cleveland Cavaliers signed Lester Hudson to the first of two 10-day contracts.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "March 30, 2012",
+    "dateNorm": "2012-03-30",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The Houston Rockets assigned Malcolm Thomas to the Rio Grande Valley Vipers of the G-League."
+  },
+  {
+    "date": "March 31, 2012",
+    "dateNorm": "2012-03-31",
+    "type": "other",
+    "team": "MEM",
+    "players": [
+      "Josh Selby"
+    ],
+    "text": "The Memphis Grizzlies recalled Josh Selby from the Reno Bighorns of the G-League.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "April 4, 2012",
+    "dateNorm": "2012-04-04",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Chris Wright"
+    ],
+    "text": "The Golden State Warriors recalled Chris Wright from the Dakota Wizards of the G-League.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "April 5, 2012",
+    "dateNorm": "2012-04-05",
+    "type": "signed",
+    "team": "WAS",
+    "players": [
+      "James Singleton"
+    ],
+    "text": "The Washington Wizards signed James Singleton to a 10-day contract.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "April 5, 2012",
+    "dateNorm": "2012-04-05",
+    "type": "signed",
+    "team": "CHI",
+    "players": [
+      "Mike James"
+    ],
+    "text": "The Chicago Bulls signed Mike James to a contract for the rest of the season.",
+    "teamTo": "CHI"
+  },
+  {
+    "date": "April 5, 2012",
+    "dateNorm": "2012-04-05",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Courtney Fortson"
+    ],
+    "text": "The Houston Rockets assigned Courtney Fortson to the Rio Grande Valley Vipers of the G-League."
+  },
+  {
+    "date": "April 5, 2012",
+    "dateNorm": "2012-04-05",
+    "type": "other",
+    "team": "MEM",
+    "players": [
+      "Josh Selby"
+    ],
+    "text": "The Memphis Grizzlies assigned Josh Selby to the Reno Bighorns of the G-League."
+  },
+  {
+    "date": "April 6, 2012",
+    "dateNorm": "2012-04-06",
+    "type": "signed",
+    "team": "TOR",
+    "players": [
+      "Justin Dentmon"
+    ],
+    "text": "The Toronto Raptors signed Justin Dentmon to a 10-day contract.",
+    "teamTo": "TOR"
+  },
+  {
+    "date": "April 6, 2012",
+    "dateNorm": "2012-04-06",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Malcolm Thomas"
+    ],
+    "text": "The Houston Rockets recalled Malcolm Thomas from the Rio Grande Valley Vipers of the G-League.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "April 9, 2012",
+    "dateNorm": "2012-04-09",
+    "type": "signed",
+    "team": "UTA",
+    "players": [
+      "Blake Ahearn"
+    ],
+    "text": "The Utah Jazz signed Blake Ahearn to a 10-day contract, then signed to a contract for the rest of the season.",
+    "teamTo": "UTA"
+  },
+  {
+    "date": "April 9, 2012",
+    "dateNorm": "2012-04-09",
+    "type": "signed",
+    "team": "NJN",
+    "players": [
+      "Armon Johnson"
+    ],
+    "text": "The New Jersey Nets signed Armon Johnson to a 10-day contract, then signed to a contract for the rest of the season.",
+    "teamTo": "NJN"
+  },
+  {
+    "date": "April 9, 2012",
+    "dateNorm": "2012-04-09",
+    "type": "other",
+    "team": "DAL",
+    "players": [
+      "Kelenna Azubuike"
+    ],
+    "text": "The Dallas Mavericks recalled Kelenna Azubuike from the Texas Legends of the G-League.",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "April 9, 2012",
+    "dateNorm": "2012-04-09",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Courtney Fortson"
+    ],
+    "text": "The Houston Rockets recalled Courtney Fortson from the Rio Grande Valley Vipers of the G-League.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "April 9, 2012",
+    "dateNorm": "2012-04-09",
+    "type": "other",
+    "team": "DET",
+    "players": [
+      "Vernon Macklin"
+    ],
+    "text": "The Detroit Pistons recalled Vernon Macklin from the Fort Wayne Mad Ants of the G-League.",
+    "teamTo": "DET"
+  },
+  {
+    "date": "April 9, 2012",
+    "dateNorm": "2012-04-09",
+    "type": "other",
+    "team": "MEM",
+    "players": [
+      "Josh Selby"
+    ],
+    "text": "The Memphis Grizzlies recalled Josh Selby from the Reno Bighorns of the G-League.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "April 9, 2012",
+    "dateNorm": "2012-04-09",
+    "type": "other",
+    "team": "HOU",
+    "players": [
+      "Greg Smith"
+    ],
+    "text": "The Houston Rockets recalled Greg Smith from the Rio Grande Valley Vipers of the G-League.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "April 10, 2012",
+    "dateNorm": "2012-04-10",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Jerome Dyson"
+    ],
+    "text": "The New Orleans Hornets signed Jerome Dyson to a 10-day contract.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "April 10, 2012",
+    "dateNorm": "2012-04-10",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jerome Jordan"
+    ],
+    "text": "The New York Knicks assigned Jerome Jordan to the Erie BayHawks of the G-League."
+  },
+  {
+    "date": "April 10, 2012",
+    "dateNorm": "2012-04-10",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Chris Wright"
+    ],
+    "text": "The Golden State Warriors assigned Chris Wright to the Dakota Wizards of the G-League."
+  },
+  {
+    "date": "April 12, 2012",
+    "dateNorm": "2012-04-12",
+    "type": "signed",
+    "team": "HOU",
+    "players": [
+      "Diamon Simpson"
+    ],
+    "text": "The Houston Rockets signed Diamon Simpson to a contract for the rest of the season.",
+    "teamTo": "HOU"
+  },
+  {
+    "date": "April 14, 2012",
+    "dateNorm": "2012-04-14",
+    "type": "signed",
+    "team": "CHA",
+    "players": [
+      "Jamario Moon"
+    ],
+    "text": "The Charlotte Bobcats signed Jamario Moon to a contract for the rest of the season.",
+    "teamTo": "CHA"
+  },
+  {
+    "date": "April 14, 2012",
+    "dateNorm": "2012-04-14",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Luke Harangody"
+    ],
+    "text": "The Cleveland Cavaliers recalled Luke Harangody from the Canton Charge of the G-League.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "April 15, 2012",
+    "dateNorm": "2012-04-15",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Luke Harangody"
+    ],
+    "text": "The Cleveland Cavaliers assigned Luke Harangody to the Canton Charge of the G-League."
+  },
+  {
+    "date": "April 16, 2012",
+    "dateNorm": "2012-04-16",
+    "type": "signed",
+    "team": "WAS",
+    "players": [
+      "Morris Almond"
+    ],
+    "text": "The Washington Wizards signed Morris Almond as a free agent.",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "April 16, 2012",
+    "dateNorm": "2012-04-16",
+    "type": "waived",
+    "team": "WAS",
+    "players": [
+      "Roger Mason"
+    ],
+    "text": "The Washington Wizards waived Roger Mason ."
+  },
+  {
+    "date": "April 16, 2012",
+    "dateNorm": "2012-04-16",
+    "type": "signed",
+    "team": "GSW",
+    "players": [
+      "Mikki Moore"
+    ],
+    "text": "The Golden State Warriors signed Mikki Moore as a free agent.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "April 16, 2012",
+    "dateNorm": "2012-04-16",
+    "type": "other",
+    "team": "GSW",
+    "players": [
+      "Chris Wright"
+    ],
+    "text": "The Golden State Warriors recalled Chris Wright from the Dakota Wizards of the G-League.",
+    "teamTo": "GSW"
+  },
+  {
+    "date": "April 17, 2012",
+    "dateNorm": "2012-04-17",
+    "type": "other",
+    "team": "NYK",
+    "players": [
+      "Jerome Jordan"
+    ],
+    "text": "The New York Knicks recalled Jerome Jordan from the Erie BayHawks of the G-League.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "April 18, 2012",
+    "dateNorm": "2012-04-18",
+    "type": "signed",
+    "team": "NOH",
+    "players": [
+      "Darryl Watkins"
+    ],
+    "text": "The New Orleans Hornets signed Darryl Watkins to a 10-day contract.",
+    "teamTo": "NOH"
+  },
+  {
+    "date": "April 18, 2012",
+    "dateNorm": "2012-04-18",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "Chris Johnson"
+    ],
+    "text": "The New Orleans Hornets waived Chris Johnson ."
+  },
+  {
+    "date": "April 18, 2012",
+    "dateNorm": "2012-04-18",
+    "type": "other",
+    "team": "CLE",
+    "players": [
+      "Luke Harangody"
+    ],
+    "text": "The Cleveland Cavaliers recalled Luke Harangody from the Canton Charge of the G-League.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "April 19, 2012",
+    "dateNorm": "2012-04-19",
+    "type": "signed",
+    "team": "BOS",
+    "players": [
+      "Sean Williams"
+    ],
+    "text": "The Boston Celtics signed Sean Williams as a free agent.",
+    "teamTo": "BOS"
+  },
+  {
+    "date": "April 19, 2012",
+    "dateNorm": "2012-04-19",
+    "type": "waived",
+    "team": "BOS",
+    "players": [
+      "Jermaine O'Neal"
+    ],
+    "text": "The Boston Celtics waived Jermaine O'Neal ."
+  },
+  {
+    "date": "April 20, 2012",
+    "dateNorm": "2012-04-20",
+    "type": "signed",
+    "team": "NYK",
+    "players": [
+      "Dan Gadzuric"
+    ],
+    "text": "The New York Knicks signed Dan Gadzuric as a free agent.",
+    "teamTo": "NYK"
+  },
+  {
+    "date": "April 20, 2012",
+    "dateNorm": "2012-04-20",
+    "type": "waived",
+    "team": "NYK",
+    "players": [
+      "Henry Walker"
+    ],
+    "text": "The New York Knicks waived Henry Walker ."
+  },
+  {
+    "date": "April 20, 2012",
+    "dateNorm": "2012-04-20",
+    "type": "signed",
+    "team": "MEM",
+    "players": [
+      "Lester Hudson"
+    ],
+    "text": "The Memphis Grizzlies signed Lester Hudson as a free agent.",
+    "teamTo": "MEM"
+  },
+  {
+    "date": "April 21, 2012",
+    "dateNorm": "2012-04-21",
+    "type": "signed",
+    "team": "CLE",
+    "players": [
+      "D.J. Kennedy"
+    ],
+    "text": "The Cleveland Cavaliers signed D.J. Kennedy as a free agent.",
+    "teamTo": "CLE"
+  },
+  {
+    "date": "April 23, 2012",
+    "dateNorm": "2012-04-23",
+    "type": "other",
+    "team": "LAC",
+    "players": [
+      "Travis Leslie"
+    ],
+    "text": "The Los Angeles Clippers recalled Travis Leslie from the Bakersfield Jam of the G-League.",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "April 24, 2012",
+    "dateNorm": "2012-04-24",
+    "type": "signed",
+    "team": "PHI",
+    "players": [
+      "Xavier Silas"
+    ],
+    "text": "The Philadelphia 76ers signed Xavier Silas as a free agent.",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "April 25, 2012",
+    "dateNorm": "2012-04-25",
+    "type": "signed",
+    "team": "SAS",
+    "players": [
+      "Derrick Byars"
+    ],
+    "text": "The San Antonio Spurs signed Derrick Byars as a free agent.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "April 25, 2012",
+    "dateNorm": "2012-04-25",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Los Angeles Lakers recalled Christian Eyenga from the Los Angeles D-Fenders of the G-League.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "April 25, 2012",
+    "dateNorm": "2012-04-25",
+    "type": "other",
+    "team": "SAS",
+    "players": [
+      "Cory Joseph"
+    ],
+    "text": "The San Antonio Spurs recalled Cory Joseph from the Austin Toros of the G-League.",
+    "teamTo": "SAS"
+  },
+  {
+    "date": "April 28, 2012",
+    "dateNorm": "2012-04-28",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Los Angeles Lakers assigned Christian Eyenga to the Los Angeles D-Fenders of the G-League."
+  },
+  {
+    "date": "April 29, 2012",
+    "dateNorm": "2012-04-29",
+    "type": "other",
+    "team": "LAL",
+    "players": [
+      "Christian Eyenga"
+    ],
+    "text": "The Los Angeles Lakers recalled Christian Eyenga from the Los Angeles D-Fenders of the G-League.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "June 20, 2012",
+    "dateNorm": "2012-06-20",
+    "type": "traded",
+    "team": "NOH",
+    "players": [
+      "Trevor Ariza",
+      "Emeka Okafor",
+      "Rashard Lewis",
+      "Darius Miller"
+    ],
+    "text": "The New Orleans Hornets traded Trevor Ariza and Emeka Okafor to the Washington Wizards for Rashard Lewis and a 2012 2nd round draft pick ( Darius Miller was later selected).",
+    "teamTo": "WAS"
+  },
+  {
+    "date": "June 26, 2012",
+    "dateNorm": "2012-06-26",
+    "type": "traded",
+    "team": "HOU",
+    "players": [
+      "Chase Budinger",
+      "Lior Eliyahu",
+      "Terrence Jones"
+    ],
+    "text": "The Houston Rockets traded Chase Budinger and Lior Eliyahu to the Minnesota Timberwolves for a 2012 1st round draft pick ( Terrence Jones was later selected).",
+    "teamTo": "MIN"
+  },
+  {
+    "date": "June 26, 2012",
+    "dateNorm": "2012-06-26",
+    "type": "traded",
+    "team": "CHA",
+    "players": [
+      "Corey Maggette",
+      "Ben Gordon",
+      "Noah Vonleh"
+    ],
+    "text": "The Charlotte Bobcats traded Corey Maggette to the Detroit Pistons for Ben Gordon and a 2014 1st round draft pick ( Noah Vonleh was later selected).",
+    "teamTo": "DET"
+  },
+  {
+    "date": "June 27, 2012",
+    "dateNorm": "2012-06-27",
+    "type": "traded",
+    "team": "HOU",
+    "players": [
+      "Samuel Dalembert",
+      "John Henson",
+      "Nemanja Dangubić",
+      "Jon Brockman",
+      "Jon Leuer",
+      "Shaun Livingston",
+      "Jeremy Lamb"
+    ],
+    "text": "The Houston Rockets traded Samuel Dalembert , cash, a 2012 1st round draft pick ( John Henson was later selected) and a 2014 2nd round draft pick ( Nemanja Dangubić was later selected) to the Milwaukee Bucks for Jon Brockman , Jon Leuer , Shaun Livingston and a 2012 1st round draft pick ( Jeremy Lamb was later selected).",
+    "teamTo": "MIL"
+  },
+  {
+    "date": "June 29, 2012",
+    "dateNorm": "2012-06-29",
+    "type": "traded",
+    "team": "MIA",
+    "players": [
+      "Arnett Moultrie",
+      "Justin Hamilton",
+      "Jordan Mickey",
+      "Deyonta Davis"
+    ],
+    "text": "The Miami Heat traded Arnett Moultrie to the Philadelphia 76ers for Justin Hamilton , a 2015 2nd round draft pick ( Jordan Mickey was later selected) and a 2016 2nd round draft pick ( Deyonta Davis was later selected).",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "June 29, 2012",
+    "dateNorm": "2012-06-29",
+    "type": "traded",
+    "team": "IND",
+    "players": [
+      "Orlando Johnson"
+    ],
+    "text": "The Indiana Pacers traded cash to the Sacramento Kings for Orlando Johnson .",
+    "teamTo": "SAC"
+  },
+  {
+    "date": "June 29, 2012",
+    "dateNorm": "2012-06-29",
+    "type": "traded",
+    "team": "CLE",
+    "players": [
+      "Jae Crowder",
+      "Jared Cunningham",
+      "Bernard James",
+      "Kelenna Azubuike",
+      "Tyler Zeller"
+    ],
+    "text": "The Cleveland Cavaliers traded Jae Crowder , Jared Cunningham and Bernard James to the Dallas Mavericks for Kelenna Azubuike and Tyler Zeller .",
+    "teamTo": "DAL"
+  },
+  {
+    "date": "June 29, 2012",
+    "dateNorm": "2012-06-29",
+    "type": "traded",
+    "team": "NJN",
+    "players": [
+      "Tornike Shengelia"
+    ],
+    "text": "The New Jersey Nets traded cash to the Philadelphia 76ers for Tornike Shengelia .",
+    "teamTo": "PHI"
+  },
+  {
+    "date": "June 29, 2012",
+    "dateNorm": "2012-06-29",
+    "type": "traded",
+    "team": "DAL",
+    "players": [
+      "Darius Johnson-Odom"
+    ],
+    "text": "The Dallas Mavericks traded Darius Johnson-Odom to the Los Angeles Lakers for cash.",
+    "teamTo": "LAL"
+  },
+  {
+    "date": "June 29, 2012",
+    "dateNorm": "2012-06-29",
+    "type": "traded",
+    "team": "NJN",
+    "players": [
+      "Tyshawn Taylor"
+    ],
+    "text": "The New Jersey Nets traded cash to the Portland Trail Blazers for Tyshawn Taylor .",
+    "teamTo": "POR"
+  },
+  {
+    "date": "June 29, 2012",
+    "dateNorm": "2012-06-29",
+    "type": "traded",
+    "team": "DAL",
+    "players": [
+      "Lamar Odom",
+      "Shan Foster",
+      "Furkan Aldemir",
+      "Mo Williams",
+      "Tadija Dragićević"
+    ],
+    "text": "In a 4-team trade, the Dallas Mavericks traded Lamar Odom to the Los Angeles Clippers ; the Dallas Mavericks traded Shan Foster to the Utah Jazz ; the Houston Rockets traded cash to the Dallas Mavericks ; the Los Angeles Clippers traded Furkan Aldemir to the Houston Rockets ; the Los Angeles Clippers traded Mo Williams to the Utah Jazz ; and the Utah Jazz traded Tadija Dragićević to the Dallas Mavericks .",
+    "teamTo": "LAC"
+  },
+  {
+    "date": "June 30, 2012",
+    "dateNorm": "2012-06-30",
+    "type": "waived",
+    "team": "NOH",
+    "players": [
+      "Rashard Lewis"
+    ],
+    "text": "The New Orleans Hornets waived Rashard Lewis ."
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": "SAC",
+    "players": [],
+    "text": "The Sacramento Kings hired Michael Malone as Head Coach. More 2011-12 NBA Pages 2011-12 NBA Season Standings Schedule and Results Leaders Coaches Player Stats Per Game Totals Per 36 Minutes Per 100 Possessions Adjusted Shooting Advanced Play-by-Play Shooting Other Rookies Final Season Team Ratings Uniform Numbers Transactions Standings by Date Preseason Odds 2012 Playoffs Summary Welcome &nbsp;&#183;&nbsp; Your Account Logout Ad-Free Login Create Account You are here: BBR Home Page &gt; Leagues &gt; 2011-12 NBA &gt; Transactions Full Site Menu Return to Top Players In the News : V. Wembanyama , L. James , K. Durant , J. Embiid , J. Harden , S. Curry , L. Dončić ... All-Time Greats : E. Hayes , J. Stockton , H. Olajuwon , W. Chamberlain , D. Schayes , J. Havlicek ... Active Greats : L. James , G. Antetokounmpo , N. Jokić , J. Harden , S. Curry , K. Durant ... Teams Atlantic : Toronto , Boston , New York , Brooklyn , Philadelphia Central : Cleveland , Indiana , Detroit , Chicago , Milwaukee Southeast : Miami , Atlanta , Charlotte , Washington , Orlando Northwest : Oklahoma City , Portland , Utah , Denver , Minnesota Pacific : Golden State , Los Angeles Clippers , Sacramento , Phoenix , Los Angeles Lakers Southwest : San Antonio , Dallas , Memphis , Houston , New Orleans Seasons 2025-26 , 2024-25 , 2023-24 , 2022-23 , 2021-22 , 2020-21 , 2019-20 ... Leaders Season Points , Career Rebounds , Active Assists , Yearly Steals , Progressive Blocks ... Or, view \"Trailers\" for Season Field Goal Pct , or Career Blocks Per Game NBA Scores Yesterday's Games and Scores from any date in BAA/NBA or ABA history NBA Schedules Team Schedules and League Schedules NBA Standings Today's Standings and Standings for any date in history Stathead Player Finders : Season Finder , Game Finder , Streak Finder , Span Finder Team Finders : Season Finder , Game Finder , Streak Finder , Span Finder Other Finders : Versus Finder , Shot Finder College Tools : Player Season Finder , Player Game Finder , Team Season Finder , Team Game Finder Coaches Richie Guerin , Rudy Tomjanovich , Jim O'Brien , Mike Fratello , Alvin Gentry ... Awards NBA MVP , All-NBA , Defensive Player of the Year , Rookie of the Year , All-Rookie , Hall of Fame ... NBA Contracts Main Index , Team Payrolls , Player Contracts , Glossary ... Playoffs 2025 NBA Playoffs , 2024 NBA Playoffs , 2023 NBA Playoffs , 2022 NBA Playoffs , 2021 NBA Playoffs , 2020 NBA Playoffs , 2019 NBA Playoffs , Playoffs Series History ... All-Star Games 2025 All-Star Game , 2024 All-Star Game , 2023 All-Star Game , 2022 All-Star Game , 2021 All-Star Game , 2020 All-Star Game , 2019 All-Star Game ... NBA Draft 2025 Draft , 2024 Draft , 2023 Draft , 2022 Draft , 2021 Draft , 2020 Draft , 2019 Draft ... Frivolities Players who played for multiple teams (WNBA) , Birthdays , Colleges , High Schools , Milestone Watch ... Executives Daryl Morey , Masai Ujiri , Pat Riley , Danny Ainge , Jon Horst ... Referees Joe Forte , Tony Brothers , Dan Crawford , Ron Olesiak , David Jones ... G League Stats Players , Teams , Seasons , Leaders , Awards ... International Basketball Stats Players , Teams , Seasons , Leaders , Awards ... WNBA Players , Teams , Seasons , Leaders , Awards , All-Star Games , Executives ... NBL Players , Teams , Seasons , Leaders , Awards ... About Glossary , Contact and Media Information , Frequently Asked Questions about the NBA, WNBA and Basketball , NBA Data Coverage , ABA Data Coverage , ... Immaculate Grid (Men's) and Immaculate Grid (Women's) Put your basketball knowledge to the test with our daily basketball trivia games. Can you complete the grids? Basketball-Reference.com Blog and Articles We're Social...for Statheads",
+    "teamTo": "SAC"
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": null,
+    "players": [],
+    "text": "Site Last Updated: Wednesday, February 11, 7:04AM"
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": null,
+    "players": [],
+    "text": "Question, Comment, Feedback, or Correction?"
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": null,
+    "players": [],
+    "text": "Subscribe to our Free Email Newsletter"
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": null,
+    "players": [],
+    "text": "Subscribe to Stathead Basketball: Get your first month FREE Your All-Access Ticket to the Basketball Reference Database"
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": null,
+    "players": [],
+    "text": "Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more. FAQs, Tip &amp; Tricks Tips and Tricks from our Blog. Do you have a blog? Join our linker program. Watch our How-To Videos to Become a Stathead Subscribe to Stathead and get access to more data than you can imagine All logos are the trademark &amp; property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos."
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": null,
+    "players": [],
+    "text": "Logos were compiled by the amazing SportsLogos.net. Data Provided By the official stats partner of the NBA, NHL and MLB. Copyright &copy; 2000-2026 Sports Reference LLC . All rights reserved."
+  },
+  {
+    "date": "May 30, 2013",
+    "dateNorm": "2013-05-30",
+    "type": "other",
+    "team": null,
+    "players": [],
+    "text": "The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited. Sports&nbsp;Reference&#8239;&reg; Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead&#8239;&reg; Immaculate Grid&#8239;&reg; About &bull; Conditions &amp; Terms of Service &bull; Advertise With Us &bull; Jobs at SR &bull; Basketball-Reference.com T-Shirts &amp; Store &bull; Cookie Preferences Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love. Privacy Policy &bull; Gambling Revenue Policy &bull; Accessibility Policy &bull; Use of Data if (sr_detect_ie || sr_detect_edge || Modernizr.adfree) { } else { console.log('push ad:div-gpt-ad-160x600-1'); freestar.config.enabled_slots.push({ placementName: \"div-gpt-ad-160x600-1\", slotId: \"div-gpt-ad-160x600-1\" }); } if (sr_detect_ie || sr_detect_edge || Modernizr.adfree) { } else { console.log('push ad:div-gpt-ad-160x600-2'); freestar.config.enabled_slots.push({ placementName: \"div-gpt-ad-160x600-2\", slotId: \"div-gpt-ad-160x600-2\" }); } var sr_gender = \"\"; (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MC36NL2'); var sr_cookie = vjs_readCookie('stathead_user') || ''; var sr_cookie_split = sr_cookie.split(\"::\"); var sr_user_id = (sr_cookie_split.length > 1) ? sr_cookie_split[1] : null; var sr_session_key = (sr_cookie_split.length > 1)?sr_cookie_split[2]:''; var sr_ad_free_key = \"4\"; var sr_site_id = \"bbr\"; var sr_is_subscriber = (sr_ad_free_key && sr_session_key.vjs_isMatch(new RegExp(sr_ad_free_key + \"$\"))) || sr_session_key.vjs_isMatch(/1$/) || (sr_site_id === 'sr' && sr_session_key.vjs_isMatch(/[0-7]$/)); var sr_is_user = sr_cookie !== null && sr_cookie !== ''; var sr_seen_modal = vjs_readCookie('modal_ad') !== null; var sr_device = 'unk'; if (Modernizr.phone) { sr_device = 'phone'; } else if (Modernizr.tablet) { sr_device = 'tablet'; } else if (Modernizr.laptop) { sr_device = 'laptop'; } else if (Modernizr.desktop) { sr_device = 'desktop'; } var sr_stathead_site = vjs_readCookie('stathead_site') || ''; var sr_stathead_type = vjs_readCookie('stathead_type') || ''; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); /* GA4: individual site code config, do not send a page view (double counts) */ gtag('config', 'G-NR1HN85GXQ', { 'is_sub': sr_is_subscriber, 'is_user': sr_is_user, 'user_id': sr_user_id, 'page_gender': typeof(sr_gender) === 'string'? sr_gender: null, 'stathead_type': sr_stathead_type, 'stathead_site': sr_stathead_site, 'viewport_width': Modernizr.viewport_width, send_page_view: false }); /* GA4: all sr sites together */ /* I believe linker works as a parameter here, although there didn\\'t seem to be a simple \"true\" value to set besides this one --NW https://developers.google.com/analytics/devguides/collection/gtagjs/cross-domain Add configs for both sets of code. */ /* GA4: all SR sites together */ gtag('config', 'G-80FRT7VJ60', { 'linker': { 'domains': ['sports-reference.com'] }, 'is_sub': sr_is_subscriber, 'is_user': sr_is_user, 'user_id': sr_user_id, 'page_gender': typeof(sr_gender) === 'string'? sr_gender : null, 'stathead_type': sr_stathead_type, 'stathead_site': sr_stathead_site, 'viewport_width': Modernizr.viewport_width });"
+  }
+]

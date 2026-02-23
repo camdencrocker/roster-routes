@@ -1,0 +1,26 @@
+---
+description: Design decisions and user preferences — always apply when editing AssetCard, page, or layout. Keep in sync with docs/DECISIONS.md.
+globs: app/AssetCard.tsx, app/page.tsx
+alwaysApply: true
+---
+
+# Design Decisions & Constraints
+
+## AssetCard — Draft Nodes (Picks That Conveyed)
+
+- **Layout:** Top band (year | round) → picture (80px) → bottom band (Pick | #). Bands are **glued above/below** the picture.
+- **Never overlay** year, round, Pick, or # on the player picture.
+- **All player nodes same size:** 148×168. Bledsoe, Missi, drafted picks — uniform.
+- **HEADSHOT_SIZE = 80** for all player nodes.
+
+## User Preferences
+
+- Change only what is asked. If asked to change picture size only, do not move bands or overlay text.
+- Do not increase node size.
+- Reduce wasted space; avoid excessive spacing.
+
+## Current Constants
+
+- CARD_WIDTH: 148
+- CARD_H: 168
+- HEADSHOT_SIZE: 80

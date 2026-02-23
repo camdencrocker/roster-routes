@@ -1,0 +1,765 @@
+{
+  "source": "file:/Users/camdencrocker/roster-routes/app/data/2017 NBA Draft Pick Transactions.html",
+  "fetchedAt": "2026-02-05T21:00:40.440Z",
+  "note": "Double-check against trades.json before merging; some trades may already exist.",
+  "picks": [
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 1,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Markelle Fultz",
+      "tradeSummary": "Celtics &nbsp; Traded • Paul Pierce • Kevin Garnett • Jason Terry • D.J. White • Celtics option to swap 2017 first round picks with Nets (#27-Kyle Kuzma) • 2017 conditional second round pick (if Celtics exercise right to swap 2017 first round picks, protected top 45) (#57-Aleksandar Vezenkov) to Nets for • Gerald Wallace • Kris Humphries • MarShon Brooks • Kris Joseph • Keith Bogans • 2014 first round pick (least favorable of Hawks, Nets picks) (#17-James Young) • 2016 first round pick (#3-Jaylen Brown) • Celtics option to swap 2017 first round picks with Nets (#1-Markelle Fultz) • 2018 first round pick (#8-Collin Sexton) on 2013-07-12 | 76ers &nbsp; Traded • 2017 first round pick (#3-Jayson Tatum) • first round pick (Lakers 2018 pick if it is #2-5, else more favorable of 76ers, Kings 2019 first round picks unless that pick is #1 overall in which case less favorable of 76ers, Kings picks) (2019 #14-Romeo Langford) to Celtics for • 2017 first round pick (#1-Markelle Fultz) on 2017-06-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-07-12",
+          "summary": "Celtics &nbsp; Traded • Paul Pierce • Kevin Garnett • Jason Terry • D.J. White • Celtics option to swap 2017 first round picks with Nets (#27-Kyle Kuzma) • 2017 conditional second round pick (if Celtics exercise right to swap 2017 first round picks, protected top 45) (#57-Aleksandar Vezenkov) to Nets for • Gerald Wallace • Kris Humphries • MarShon Brooks • Kris Joseph • Keith Bogans • 2014 first round pick (least favorable of Hawks, Nets picks) (#17-James Young) • 2016 first round pick (#3-Jaylen Brown) • Celtics option to swap 2017 first round picks with Nets (#1-Markelle Fultz) • 2018 first round pick (#8-Collin Sexton)"
+        },
+        {
+          "date": "2017-06-19",
+          "summary": "76ers &nbsp; Traded • 2017 first round pick (#3-Jayson Tatum) • first round pick (Lakers 2018 pick if it is #2-5, else more favorable of 76ers, Kings 2019 first round picks unless that pick is #1 overall in which case less favorable of 76ers, Kings picks) (2019 #14-Romeo Langford) to Celtics for • 2017 first round pick (#1-Markelle Fultz)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 2,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Lonzo Ball",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 3,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Jayson Tatum",
+      "tradeSummary": "76ers &nbsp; Traded • rights to Arturas Gudaitis • rights to Luka Mitrovic • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#5-De'Aaron Fox) to Kings for • Nik Stauskas • Jason Thompson • Carl Landry • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30, else extinguished) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#3-Jayson Tatum) • first round pick (at least 2 years after Kings convey first round pick to Cavaliers from earlier trade, protected top 10 in 2018, unprotected in 2019) (2019 #14-Romeo Langford) on 2015-07-09 | Celtics &nbsp; Traded • 2017 first round pick (#1-Markelle Fultz) to 76ers for • 2017 first round pick (#3-Jayson Tatum) • first round pick (Lakers 2018 pick if it is #2-5, else more favorable of 76ers, Kings 2019 first round picks unless that pick is #1 overall in which case less favorable of 76ers, Kings picks) (2019 #14-Romeo Langford) on 2017-06-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-07-09",
+          "summary": "76ers &nbsp; Traded • rights to Arturas Gudaitis • rights to Luka Mitrovic • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#5-De'Aaron Fox) to Kings for • Nik Stauskas • Jason Thompson • Carl Landry • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30, else extinguished) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#3-Jayson Tatum) • first round pick (at least 2 years after Kings convey first round pick to Cavaliers from earlier trade, protected top 10 in 2018, unprotected in 2019) (2019 #14-Romeo Langford)"
+        },
+        {
+          "date": "2017-06-19",
+          "summary": "Celtics &nbsp; Traded • 2017 first round pick (#1-Markelle Fultz) to 76ers for • 2017 first round pick (#3-Jayson Tatum) • first round pick (Lakers 2018 pick if it is #2-5, else more favorable of 76ers, Kings 2019 first round picks unless that pick is #1 overall in which case less favorable of 76ers, Kings picks) (2019 #14-Romeo Langford)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 4,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Josh Jackson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 5,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "De'Aaron Fox",
+      "tradeSummary": "Magic &nbsp; Traded • Dwight Howard • Jason Richardson • Chris Duhon • Earl Clark in a 4-team trade with 76ers, Lakers, Nuggets for • Arron Afflalo • Al Harrington • Maurice &quot;Moe&quot; Harkless • Christian Eyenga • Josh McRoberts • Nikola Vucevic • 2013 second round pick (from Nuggets) (#51-Romero Osby) • 2014 first round pick (from Nuggets, less favorable of Knicks, Nuggets picks) (#12-Dario Saric) • 2015 second round pick (from Lakers, protected top 40 in 2015, extinguished thereafter) (not exercised) • first round pick (from 76ers, two years after 76ers convey first round pick to Heat from earlier trade, protected top 14 in 2015-16, top 11 in 2017, top 8 in 2018, else 2018 and 2019 second round picks) (2017 #5-De'Aaron Fox) • draft pick(s) (from Lakers) (first round pick at least 2 years after Lakers send first round pick to Suns from earlier trade, protected top 5 in 2017-18; if first round pick is not sent to Suns by 2017, then 2017 and 2018 second round picks) (2017 #33-Wesley Iwundu) (2018 #40-Rodions Kurucs) on 2012-08-10 &nbsp; The subsequent trade of this pick back to 76ers effectively removed any protections. | 76ers &nbsp; Traded • rights to Elfrid Payton to Magic for • rights to Dario Saric • 2015 second round pick (#35-Guillermo &quot;Willy&quot; Hernangomez) • 2017 first round pick (#5-De'Aaron Fox) on 2014-06-26 | Kings &nbsp; Traded • Nik Stauskas • Jason Thompson • Carl Landry • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30, else extinguished) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#3-Jayson Tatum) • first round pick (at least 2 years after Kings convey first round pick to Cavaliers from earlier trade, protected top 10 in 2018, unprotected in 2019) (2019 #14-Romeo Langford) to 76ers for • rights to Arturas Gudaitis • rights to Luka Mitrovic • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#5-De'Aaron Fox) on 2015-07-09",
+      "tradeChain": [
+        {
+          "date": null,
+          "summary": "Magic &nbsp; Traded • Dwight Howard • Jason Richardson • Chris Duhon • Earl Clark in a 4-team trade with 76ers, Lakers, Nuggets for • Arron Afflalo • Al Harrington • Maurice &quot;Moe&quot; Harkless • Christian Eyenga • Josh McRoberts • Nikola Vucevic • 2013 second round pick (from Nuggets) (#51-Romero Osby) • 2014 first round pick (from Nuggets, less favorable of Knicks, Nuggets picks) (#12-Dario Saric) • 2015 second round pick (from Lakers, protected top 40 in 2015, extinguished thereafter) (not exercised) • first round pick (from 76ers, two years after 76ers convey first round pick to Heat from earlier trade, protected top 14 in 2015-16, top 11 in 2017, top 8 in 2018, else 2018 and 2019 second round picks) (2017 #5-De'Aaron Fox) • draft pick(s) (from Lakers) (first round pick at least 2 years after Lakers send first round pick to Suns from earlier trade, protected top 5 in 2017-18; if first round pick is not sent to Suns by 2017, then 2017 and 2018 second round picks) (2017 #33-Wesley Iwundu) (2018 #40-Rodions Kurucs) on 2012-08-10 &nbsp; The subsequent trade of this pick back to 76ers effectively removed any protections."
+        },
+        {
+          "date": "2014-06-26",
+          "summary": "76ers &nbsp; Traded • rights to Elfrid Payton to Magic for • rights to Dario Saric • 2015 second round pick (#35-Guillermo &quot;Willy&quot; Hernangomez) • 2017 first round pick (#5-De'Aaron Fox)"
+        },
+        {
+          "date": "2015-07-09",
+          "summary": "Kings &nbsp; Traded • Nik Stauskas • Jason Thompson • Carl Landry • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30, else extinguished) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#3-Jayson Tatum) • first round pick (at least 2 years after Kings convey first round pick to Cavaliers from earlier trade, protected top 10 in 2018, unprotected in 2019) (2019 #14-Romeo Langford) to 76ers for • rights to Arturas Gudaitis • rights to Luka Mitrovic • 76ers option to swap 2016 first round picks with Kings (Kings pick protected #11-30) (not exercised) • 76ers option to swap 2017 first round picks with Kings (Kings pick protected #11-30 if Kings do not convey first round pick to Cavaliers in 2016) (#5-De'Aaron Fox)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 6,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Jonathan Isaac",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 7,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Lauri Markkanen",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 8,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Frank Ntilikina",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 9,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Dennis Smith Jr.",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 10,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Zach Collins",
+      "tradeSummary": "Kings &nbsp; Traded • DeMarcus Cousins • Omri Casspi to Pelicans for • Buddy Hield • Tyreke Evans • Langston Galloway • first round pick (protected top 3 in 2017, unprotected in 2018) (2017 #10-Zach Collins) • 2017 second round pick (#34-Frank Mason) on 2017-02-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-02-19",
+          "summary": "Kings &nbsp; Traded • DeMarcus Cousins • Omri Casspi to Pelicans for • Buddy Hield • Tyreke Evans • Langston Galloway • first round pick (protected top 3 in 2017, unprotected in 2018) (2017 #10-Zach Collins) • 2017 second round pick (#34-Frank Mason)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 11,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "Malik Monk",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 12,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Luke Kennard",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 13,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Donovan Mitchell",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 14,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Bam Adebayo",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 15,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Justin Jackson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 16,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Justin Patton",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 17,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "D.J. Wilson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 18,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "T.J. Leaf",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 19,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "John Collins",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 20,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Harry Giles III",
+      "tradeSummary": "Cavaliers &nbsp; Traded • Jon Leuer • $6.4M trade exception to Grizzlies for • Marreese Speights • Josh Selby • Wayne Ellington • first round pick in first draft 2 years after Grizzlies send first round pick to Timberwolves via Rockets (protected #1-5, #15-30 in 2015-16, top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III) on 2013-01-22 | Nuggets &nbsp; Traded • Timofey Mozgov • 2015 second round pick (less favorable of Blazers, Bulls picks) (#53-Sir'Dominic Pointer) to Cavaliers for • first round pick (protected top 18 in 2015, top 15 in 2016-17, else 2018 second round pick and 2019 second round pick) (2016 #26-Furkan Korkmaz) • first round pick in first draft 2 years after Grizzlies send first round pick to Timberwolves via Rockets (protected #1-5, #15-30 in 2015-16, top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III) on 2015-01-07 | Blazers &nbsp; Traded • Mason Plumlee • 2018 second round pick (from Nuggets) (less favorable of Blazers, Kings picks) (#54-Shake Milton) • cash to Nuggets for • Jusuf Nurkic • first round pick (protected top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III) on 2017-02-12",
+      "tradeChain": [
+        {
+          "date": "2013-01-22",
+          "summary": "Cavaliers &nbsp; Traded • Jon Leuer • $6.4M trade exception to Grizzlies for • Marreese Speights • Josh Selby • Wayne Ellington • first round pick in first draft 2 years after Grizzlies send first round pick to Timberwolves via Rockets (protected #1-5, #15-30 in 2015-16, top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III)"
+        },
+        {
+          "date": "2015-01-07",
+          "summary": "Nuggets &nbsp; Traded • Timofey Mozgov • 2015 second round pick (less favorable of Blazers, Bulls picks) (#53-Sir'Dominic Pointer) to Cavaliers for • first round pick (protected top 18 in 2015, top 15 in 2016-17, else 2018 second round pick and 2019 second round pick) (2016 #26-Furkan Korkmaz) • first round pick in first draft 2 years after Grizzlies send first round pick to Timberwolves via Rockets (protected #1-5, #15-30 in 2015-16, top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III)"
+        },
+        {
+          "date": "2017-02-12",
+          "summary": "Blazers &nbsp; Traded • Mason Plumlee • 2018 second round pick (from Nuggets) (less favorable of Blazers, Kings picks) (#54-Shake Milton) • cash to Nuggets for • Jusuf Nurkic • first round pick (protected top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 21,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Terrance Ferguson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 22,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Jarrett Allen",
+      "tradeSummary": "Nets &nbsp; Traded • Bojan Bogdanovic • Chris McCullough to Wizards for • Andrew Nicholson • Marcus Thornton • first round pick (protected top 14 in 2017-21, top 10 in 2022, else 2022 second round pick, 2023 second round pick) (2017 #22-Jarrett Allen) on 2017-02-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-02-22",
+          "summary": "Nets &nbsp; Traded • Bojan Bogdanovic • Chris McCullough to Wizards for • Andrew Nicholson • Marcus Thornton • first round pick (protected top 14 in 2017-21, top 10 in 2022, else 2022 second round pick, 2023 second round pick) (2017 #22-Jarrett Allen)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 23,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Ogugua Anunoby",
+      "tradeSummary": "Bucks &nbsp; Traded • Carlos Delfino • Miroslav Raduljica • second round pick (protected #51-60 in 2015, #56-60 in 2016) (2016 #55-Marcus Paige) to Clippers for • Jared Dudley • first round pick (protected top 14 in 2017-19, else 2020 second round pick, 2021 second round pick) (2017 #23-Ogugua Anunoby) on 2014-08-26 | Raptors &nbsp; Traded • Greivis Vasquez to Bucks for • rights to Norman Powell • first round pick (protected top 14 in 2017-19, else 2020 second round pick, 2021 second round pick) (2017 #23-Ogugua Anunoby) on 2015-06-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-08-26",
+          "summary": "Bucks &nbsp; Traded • Carlos Delfino • Miroslav Raduljica • second round pick (protected #51-60 in 2015, #56-60 in 2016) (2016 #55-Marcus Paige) to Clippers for • Jared Dudley • first round pick (protected top 14 in 2017-19, else 2020 second round pick, 2021 second round pick) (2017 #23-Ogugua Anunoby)"
+        },
+        {
+          "date": "2015-06-25",
+          "summary": "Raptors &nbsp; Traded • Greivis Vasquez to Bucks for • rights to Norman Powell • first round pick (protected top 14 in 2017-19, else 2020 second round pick, 2021 second round pick) (2017 #23-Ogugua Anunoby)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 24,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Tyler Lydon",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 25,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Anzejs Pasecniks",
+      "tradeSummary": "Magic &nbsp; Traded • Serge Ibaka to Raptors for • Terrence Ross • draft pick(s) (less favorable of Clippers, Raptors first round picks, Clippers pick protected top 14 in 2017-19, Raptors pick protected top 10 in 2017, top 14 in 2018-22, else Raptors 2022 second round pick, Raptors 2023 second round pick) (2017 #25-Anzejs Pasecniks) on 2017-02-14 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-02-14",
+          "summary": "Magic &nbsp; Traded • Serge Ibaka to Raptors for • Terrence Ross • draft pick(s) (less favorable of Clippers, Raptors first round picks, Clippers pick protected top 14 in 2017-19, Raptors pick protected top 10 in 2017, top 14 in 2018-22, else Raptors 2022 second round pick, Raptors 2023 second round pick) (2017 #25-Anzejs Pasecniks)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 26,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Caleb Swanigan",
+      "tradeSummary": "Blazers &nbsp; Traded • 2018 first round pick (#25-Moritz Wagner) to Cavaliers for • 2017 first round pick (#26-Caleb Swanigan) on 2017-01-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-01-06",
+          "summary": "Blazers &nbsp; Traded • 2018 first round pick (#25-Moritz Wagner) to Cavaliers for • 2017 first round pick (#26-Caleb Swanigan)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 27,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Kyle Kuzma",
+      "tradeSummary": "Nets &nbsp; Traded • Gerald Wallace • Kris Humphries • MarShon Brooks • Kris Joseph • Keith Bogans • 2014 first round pick (least favorable of Hawks, Nets picks) (#17-James Young) • 2016 first round pick (#3-Jaylen Brown) • Celtics option to swap 2017 first round picks with Nets (#1-Markelle Fultz) • 2018 first round pick (#8-Collin Sexton) to Celtics for • Paul Pierce • Kevin Garnett • Jason Terry • D.J. White • Celtics option to swap 2017 first round picks with Nets (#27-Kyle Kuzma) • 2017 conditional second round pick (if Celtics exercise right to swap 2017 first round picks, protected top 45) (#57-Aleksandar Vezenkov) on 2013-07-12 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-07-12",
+          "summary": "Nets &nbsp; Traded • Gerald Wallace • Kris Humphries • MarShon Brooks • Kris Joseph • Keith Bogans • 2014 first round pick (least favorable of Hawks, Nets picks) (#17-James Young) • 2016 first round pick (#3-Jaylen Brown) • Celtics option to swap 2017 first round picks with Nets (#1-Markelle Fultz) • 2018 first round pick (#8-Collin Sexton) to Celtics for • Paul Pierce • Kevin Garnett • Jason Terry • D.J. White • Celtics option to swap 2017 first round picks with Nets (#27-Kyle Kuzma) • 2017 conditional second round pick (if Celtics exercise right to swap 2017 first round picks, protected top 45) (#57-Aleksandar Vezenkov)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 28,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Tony Bradley",
+      "tradeSummary": "Lakers &nbsp; Traded • Lou Williams to Rockets for • Corey Brewer • 2017 first round pick (#28-Tony Bradley) on 2017-02-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-02-23",
+          "summary": "Lakers &nbsp; Traded • Lou Williams to Rockets for • Corey Brewer • 2017 first round pick (#28-Tony Bradley)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 29,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Derrick White",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "pickNumber": 30,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Josh Hart",
+      "tradeSummary": "Jazz &nbsp; Traded • Randy Foye • Kevin Murphy in a 3-team trade with Nuggets, Warriors for • Richard Jefferson • Andris Biedrins • Brandon Rush • 2014 first round pick (from Warriors) (#21-Rodney Hood) • 2016 second round pick (from Warriors) (#60-Tyrone Wallace) • 2017 first round pick (from Warriors) (#30-Josh Hart) • 2017 second round pick (from Warriors) (#60-Alpha Kaba) • 2018 second round pick (from Nuggets) (#47-Sviatoslav Mykhailiuk) • cash considerations on 2013-07-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-07-10",
+          "summary": "Jazz &nbsp; Traded • Randy Foye • Kevin Murphy in a 3-team trade with Nuggets, Warriors for • Richard Jefferson • Andris Biedrins • Brandon Rush • 2014 first round pick (from Warriors) (#21-Rodney Hood) • 2016 second round pick (from Warriors) (#60-Tyrone Wallace) • 2017 first round pick (from Warriors) (#30-Josh Hart) • 2017 second round pick (from Warriors) (#60-Alpha Kaba) • 2018 second round pick (from Nuggets) (#47-Sviatoslav Mykhailiuk) • cash considerations"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 1,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Frank Jackson",
+      "tradeSummary": "Hawks &nbsp; Traded • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough) to Nets for • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson) on 2012-07-11 | Hornets &nbsp; Traded • Marco Belinelli • Miles Plumlee • 2017 second round pick (#41-Tyler Dorsey) to Hawks for • Dwight Howard • 2017 second round pick (#31-Frank Jackson) on 2017-06-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-07-11",
+          "summary": "Hawks &nbsp; Traded • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough) to Nets for • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson)"
+        },
+        {
+          "date": "2017-06-20",
+          "summary": "Hornets &nbsp; Traded • Marco Belinelli • Miles Plumlee • 2017 second round pick (#41-Tyler Dorsey) to Hawks for • Dwight Howard • 2017 second round pick (#31-Frank Jackson)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 2,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Davon Reed",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 3,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Wesley Iwundu",
+      "tradeSummary": "Magic &nbsp; Traded • Dwight Howard • Jason Richardson • Chris Duhon • Earl Clark in a 4-team trade with 76ers, Lakers, Nuggets for • Arron Afflalo • Al Harrington • Maurice &quot;Moe&quot; Harkless • Christian Eyenga • Josh McRoberts • Nikola Vucevic • 2013 second round pick (from Nuggets) (#51-Romero Osby) • 2014 first round pick (from Nuggets, less favorable of Knicks, Nuggets picks) (#12-Dario Saric) • 2015 second round pick (from Lakers, protected top 40 in 2015, extinguished thereafter) (not exercised) • first round pick (from 76ers, two years after 76ers convey first round pick to Heat from earlier trade, protected top 14 in 2015-16, top 11 in 2017, top 8 in 2018, else 2018 and 2019 second round picks) (2017 #5-De'Aaron Fox) • draft pick(s) (from Lakers) (first round pick at least 2 years after Lakers send first round pick to Suns from earlier trade, protected top 5 in 2017-18; if first round pick is not sent to Suns by 2017, then 2017 and 2018 second round picks) (2017 #33-Wesley Iwundu) (2018 #40-Rodions Kurucs) on 2012-08-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-08-10",
+          "summary": "Magic &nbsp; Traded • Dwight Howard • Jason Richardson • Chris Duhon • Earl Clark in a 4-team trade with 76ers, Lakers, Nuggets for • Arron Afflalo • Al Harrington • Maurice &quot;Moe&quot; Harkless • Christian Eyenga • Josh McRoberts • Nikola Vucevic • 2013 second round pick (from Nuggets) (#51-Romero Osby) • 2014 first round pick (from Nuggets, less favorable of Knicks, Nuggets picks) (#12-Dario Saric) • 2015 second round pick (from Lakers, protected top 40 in 2015, extinguished thereafter) (not exercised) • first round pick (from 76ers, two years after 76ers convey first round pick to Heat from earlier trade, protected top 14 in 2015-16, top 11 in 2017, top 8 in 2018, else 2018 and 2019 second round picks) (2017 #5-De'Aaron Fox) • draft pick(s) (from Lakers) (first round pick at least 2 years after Lakers send first round pick to Suns from earlier trade, protected top 5 in 2017-18; if first round pick is not sent to Suns by 2017, then 2017 and 2018 second round picks) (2017 #33-Wesley Iwundu) (2018 #40-Rodions Kurucs)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 4,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Frank Mason",
+      "tradeSummary": "Pelicans &nbsp; Traded • Ish Smith to 76ers for • 2016 second round pick (#39-David Michineau) • 2017 second round pick (#34-Frank Mason) on 2015-12-24 | Kings &nbsp; Traded • DeMarcus Cousins • Omri Casspi to Pelicans for • Buddy Hield • Tyreke Evans • Langston Galloway • first round pick (protected top 3 in 2017, unprotected in 2018) (2017 #10-Zach Collins) • 2017 second round pick (#34-Frank Mason) on 2017-02-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-12-24",
+          "summary": "Pelicans &nbsp; Traded • Ish Smith to 76ers for • 2016 second round pick (#39-David Michineau) • 2017 second round pick (#34-Frank Mason)"
+        },
+        {
+          "date": "2017-02-19",
+          "summary": "Kings &nbsp; Traded • DeMarcus Cousins • Omri Casspi to Pelicans for • Buddy Hield • Tyreke Evans • Langston Galloway • first round pick (protected top 3 in 2017, unprotected in 2018) (2017 #10-Zach Collins) • 2017 second round pick (#34-Frank Mason)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 5,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Ivan Rabb",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 6,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Jonah Bolden",
+      "tradeSummary": "Raptors &nbsp; Traded • Andrea Bargnani to Knicks for • Steve Novak • Marcus Camby • Quentin Richardson • 2014 second round pick (#59-Xavier Thames) • 2016 first round pick (less favorable of Knicks, Nuggets picks) (#9-Jakob Poeltl) • 2017 second round pick (#36-Jonah Bolden) on 2013-07-10 | Jazz &nbsp; Traded • Diante Garrett to Raptors for • Steve Novak • 2017 second round pick (#36-Jonah Bolden) on 2014-07-10 | 76ers &nbsp; Traded • Kendall Marshall to Jazz for • Tibor Pleiss • 2017 second round pick (most favorable of Jazz, Knicks, Pistons, Warriors picks) (#36-Jonah Bolden) • 2017 second round pick (least favorable of Jazz, Knicks, Pistons, Warriors picks) (#60-Alpha Kaba) on 2016-08-26",
+      "tradeChain": [
+        {
+          "date": "2013-07-10",
+          "summary": "Raptors &nbsp; Traded • Andrea Bargnani to Knicks for • Steve Novak • Marcus Camby • Quentin Richardson • 2014 second round pick (#59-Xavier Thames) • 2016 first round pick (less favorable of Knicks, Nuggets picks) (#9-Jakob Poeltl) • 2017 second round pick (#36-Jonah Bolden)"
+        },
+        {
+          "date": "2014-07-10",
+          "summary": "Jazz &nbsp; Traded • Diante Garrett to Raptors for • Steve Novak • 2017 second round pick (#36-Jonah Bolden)"
+        },
+        {
+          "date": "2016-08-26",
+          "summary": "76ers &nbsp; Traded • Kendall Marshall to Jazz for • Tibor Pleiss • 2017 second round pick (most favorable of Jazz, Knicks, Pistons, Warriors picks) (#36-Jonah Bolden) • 2017 second round pick (least favorable of Jazz, Knicks, Pistons, Warriors picks) (#60-Alpha Kaba)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 7,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Semi Ojeleye",
+      "tradeSummary": "Suns &nbsp; Traded • Robin Lopez • Hakim Warrick • 2014 second round pick (#36-Johnny O'Bryant) • $1.15M cash in a 3-team trade with Hornets/Pelicans, Timberwolves for • Wesley Johnson • Brad Miller • Jerome Dyson • draft pick(s) (first round pick (from Timberwolves) (protected top 13 in 2014, top 12 in 2015-16, else 2016 and 2017 second round picks)) (2016 #35-Rade Zagorac) (2017 #37-Semi Ojeleye) | Celtics &nbsp; Traded • Brandan Wright to Suns for • draft pick(s) (first round pick (protected top 12 in 2015-16, else 2016 second round pick and 2017 second round pick)) (2016 #35-Rade Zagorac) (2017 #37-Semi Ojeleye) on 2015-01-09 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": null,
+          "summary": "Suns &nbsp; Traded • Robin Lopez • Hakim Warrick • 2014 second round pick (#36-Johnny O'Bryant) • $1.15M cash in a 3-team trade with Hornets/Pelicans, Timberwolves for • Wesley Johnson • Brad Miller • Jerome Dyson • draft pick(s) (first round pick (from Timberwolves) (protected top 13 in 2014, top 12 in 2015-16, else 2016 and 2017 second round picks)) (2016 #35-Rade Zagorac) (2017 #37-Semi Ojeleye)"
+        },
+        {
+          "date": "2015-01-09",
+          "summary": "Celtics &nbsp; Traded • Brandan Wright to Suns for • draft pick(s) (first round pick (protected top 12 in 2015-16, else 2016 second round pick and 2017 second round pick)) (2016 #35-Rade Zagorac) (2017 #37-Semi Ojeleye)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 8,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Jordan Bell",
+      "tradeSummary": "Cavaliers &nbsp; Traded • J.J. Hickson to Kings for • Omri Casspi • first round pick (protected top 14 in 2012, top 13 in 2013, top 12 in 2014, top 10 in 2015-17, else 2017 second round pick (protected 56-60)) (2017 #38-Jordan Bell) on 2011-06-30 | Bulls &nbsp; Traded • Luol Deng • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) to Cavaliers for • Andrew Bynum • first round pick (protected top 14 in 2012, top 13 in 2013, top 12 in 2014, top 10 in 2015-17, else 2017 second round pick (protected #56-60)) (2017 #38-Jordan Bell) • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) • 2015 second round pick (#53-Sir'Dominic Pointer) • 2016 second round pick (#48-Paul Zipser) on 2014-01-06 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-06-30",
+          "summary": "Cavaliers &nbsp; Traded • J.J. Hickson to Kings for • Omri Casspi • first round pick (protected top 14 in 2012, top 13 in 2013, top 12 in 2014, top 10 in 2015-17, else 2017 second round pick (protected 56-60)) (2017 #38-Jordan Bell)"
+        },
+        {
+          "date": "2014-01-06",
+          "summary": "Bulls &nbsp; Traded • Luol Deng • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) to Cavaliers for • Andrew Bynum • first round pick (protected top 14 in 2012, top 13 in 2013, top 12 in 2014, top 10 in 2015-17, else 2017 second round pick (protected #56-60)) (2017 #38-Jordan Bell) • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) • 2015 second round pick (#53-Sir'Dominic Pointer) • 2016 second round pick (#48-Paul Zipser)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 9,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Jawun Evans",
+      "tradeSummary": "76ers &nbsp; Traded • Nerlens Noel to Mavericks for • Andrew Bogut • Justin Anderson • conditional draft pick(s) (2017 first round pick protected top 18, else 2017 second round pick, 2020 second round pick (protected #56-60)) (2017 #39-Jawun Evans) (2020 #48-Nico Mannion) on 2017-02-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-02-23",
+          "summary": "76ers &nbsp; Traded • Nerlens Noel to Mavericks for • Andrew Bogut • Justin Anderson • conditional draft pick(s) (2017 first round pick protected top 18, else 2017 second round pick, 2020 second round pick (protected #56-60)) (2017 #39-Jawun Evans) (2020 #48-Nico Mannion)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 10,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Dwayne Bacon",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 11,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "Tyler Dorsey",
+      "tradeSummary": "Hawks &nbsp; Traded • Dwight Howard • 2017 second round pick (#31-Frank Jackson) to Hornets for • Marco Belinelli • Miles Plumlee • 2017 second round pick (#41-Tyler Dorsey) on 2017-06-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-06-20",
+          "summary": "Hawks &nbsp; Traded • Dwight Howard • 2017 second round pick (#31-Frank Jackson) to Hornets for • Marco Belinelli • Miles Plumlee • 2017 second round pick (#41-Tyler Dorsey)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 12,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Thomas Bryant",
+      "tradeSummary": "Jazz &nbsp; Traded • Enes Kanter • Steve Novak in a 3-team trade with Pistons, Thunder for • Grant Jerrett • Kendrick Perkins • rights to Tibor Pleiss • 2017 second round pick (from Pistons) (#42-Thomas Bryant) • first round pick (from Thunder) (pick can be conveyed only 2 years after Thunder convey first round pick to 76ers from earlier trade, protected top 14 in 2017-20, else 2020 second round pick, 2021 second round pick) (2018 #20-Josh Okogie) on 2015-02-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-02-19",
+          "summary": "Jazz &nbsp; Traded • Enes Kanter • Steve Novak in a 3-team trade with Pistons, Thunder for • Grant Jerrett • Kendrick Perkins • rights to Tibor Pleiss • 2017 second round pick (from Pistons) (#42-Thomas Bryant) • first round pick (from Thunder) (pick can be conveyed only 2 years after Thunder convey first round pick to 76ers from earlier trade, protected top 14 in 2017-20, else 2020 second round pick, 2021 second round pick) (2018 #20-Josh Okogie)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 13,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Isaiah Hartenstein",
+      "tradeSummary": "Rockets &nbsp; Traded • Nick Johnson • Kostas Papanikolaou • Pablo Prigioni • Joey Dorsey • 2016 first round pick (protected top 14 in 2016, else 2017 second round pick, cash) (#15-Juan Hernangomez) • cash considerations to Nuggets for • Ty Lawson • 2017 second round pick (#43-Isaiah Hartenstein) on 2015-07-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-07-20",
+          "summary": "Rockets &nbsp; Traded • Nick Johnson • Kostas Papanikolaou • Pablo Prigioni • Joey Dorsey • 2016 first round pick (protected top 14 in 2016, else 2017 second round pick, cash) (#15-Juan Hernangomez) • cash considerations to Nuggets for • Ty Lawson • 2017 second round pick (#43-Isaiah Hartenstein)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 14,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Damyean Dotson",
+      "tradeSummary": "Knicks &nbsp; Traded • Robin Lopez • Jerian Grant • Jose Calderon to Bulls for • Derrick Rose • Justin Holiday • 2017 second round pick (#44-Damyean Dotson) on 2016-06-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2016-06-22",
+          "summary": "Knicks &nbsp; Traded • Robin Lopez • Jerian Grant • Jose Calderon to Bulls for • Derrick Rose • Justin Holiday • 2017 second round pick (#44-Damyean Dotson)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 15,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Dillon Brooks",
+      "tradeSummary": "Rockets &nbsp; Traded • Thomas Robinson to Blazers for • rights to Kostas Papanikolaou • rights to Marko Todorovic • 2015 second round pick (less favorable of Nuggets, Timberwolves) (#37-Richaun Holmes) • 2017 second round pick (#45-Dillon Brooks) on 2013-07-10 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-07-10",
+          "summary": "Rockets &nbsp; Traded • Thomas Robinson to Blazers for • rights to Kostas Papanikolaou • rights to Marko Todorovic • 2015 second round pick (less favorable of Nuggets, Timberwolves) (#37-Richaun Holmes) • 2017 second round pick (#45-Dillon Brooks)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 16,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Sterling Brown",
+      "tradeSummary": "Hawks &nbsp; Traded • rights to James Ennis III to Heat for • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown) on 2013-06-27 | 76ers &nbsp; Traded • Ersan Ilyasova • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#60-Alpha Kaba) to Hawks for • Tiago Splitter • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown) • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#50-Mathias Lessort) on 2017-02-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-06-27",
+          "summary": "Hawks &nbsp; Traded • rights to James Ennis III to Heat for • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown)"
+        },
+        {
+          "date": "2017-02-22",
+          "summary": "76ers &nbsp; Traded • Ersan Ilyasova • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#60-Alpha Kaba) to Hawks for • Tiago Splitter • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown) • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#50-Mathias Lessort)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 17,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Ike Anigbogu",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 18,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Sindarius Thornwell",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 19,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Vlatko Cancar",
+      "tradeSummary": "Thunder &nbsp; Traded • Ryan Gomes • cash considerations in a 3-team trade with Celtics, Grizzlies for • 2014 second round pick (protected top 50 and 56-60, else extinguished) (from Grizzlies) (not exercised) • second round pick (from Grizzlies, protected top 35 in 2017, unprotected in 2018) (2017 #49-Vlatko Cancar) | Nuggets &nbsp; Traded • Joffrey Lauvergne to Thunder for • second round pick (protected top 35 in 2017, unprotected in 2018) (2017 #49-Vlatko Cancar) • second round pick (protected top 35 2017, unprotected in 2018) (2017 #51-Monte Morris) on 2016-08-30 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": null,
+          "summary": "Thunder &nbsp; Traded • Ryan Gomes • cash considerations in a 3-team trade with Celtics, Grizzlies for • 2014 second round pick (protected top 50 and 56-60, else extinguished) (from Grizzlies) (not exercised) • second round pick (from Grizzlies, protected top 35 in 2017, unprotected in 2018) (2017 #49-Vlatko Cancar)"
+        },
+        {
+          "date": "2016-08-30",
+          "summary": "Nuggets &nbsp; Traded • Joffrey Lauvergne to Thunder for • second round pick (protected top 35 in 2017, unprotected in 2018) (2017 #49-Vlatko Cancar) • second round pick (protected top 35 2017, unprotected in 2018) (2017 #51-Monte Morris)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 20,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Mathias Lessort",
+      "tradeSummary": "76ers &nbsp; Traded • Ersan Ilyasova • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#60-Alpha Kaba) to Hawks for • Tiago Splitter • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown) • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#50-Mathias Lessort) on 2017-02-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-02-22",
+          "summary": "76ers &nbsp; Traded • Ersan Ilyasova • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#60-Alpha Kaba) to Hawks for • Tiago Splitter • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown) • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#50-Mathias Lessort)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 21,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Monte Morris",
+      "tradeSummary": "Nuggets &nbsp; Traded • Joffrey Lauvergne to Thunder for • second round pick (protected top 35 in 2017, unprotected in 2018) (2017 #49-Vlatko Cancar) • second round pick (protected top 35 2017, unprotected in 2018) (2017 #51-Monte Morris) on 2016-08-30 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2016-08-30",
+          "summary": "Nuggets &nbsp; Traded • Joffrey Lauvergne to Thunder for • second round pick (protected top 35 in 2017, unprotected in 2018) (2017 #49-Vlatko Cancar) • second round pick (protected top 35 2017, unprotected in 2018) (2017 #51-Monte Morris)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 22,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Edmond Sumner",
+      "tradeSummary": "Pelicans &nbsp; Traded • Tim Frazier to Wizards for • 2017 second round pick (#52-Edmond Sumner) on 2017-06-21 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-06-21",
+          "summary": "Pelicans &nbsp; Traded • Tim Frazier to Wizards for • 2017 second round pick (#52-Edmond Sumner)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 23,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Kadeem Allen",
+      "tradeSummary": "Celtics &nbsp; Traded • Keith Bogans • 2015 second round pick (protected top 55) (not exercised) • 2017 second round pick (protected top 55) (not exercised) to Cavaliers for • Dwight Powell • Erik Murphy • Malcolm Thomas • John Lucas III • 2016 second round pick (#58-Abdel Nader) • 2017 second round pick (#53-Kadeem Allen) • trade exception on 2014-09-25 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-09-25",
+          "summary": "Celtics &nbsp; Traded • Keith Bogans • 2015 second round pick (protected top 55) (not exercised) • 2017 second round pick (protected top 55) (not exercised) to Cavaliers for • Dwight Powell • Erik Murphy • Malcolm Thomas • John Lucas III • 2016 second round pick (#58-Abdel Nader) • 2017 second round pick (#53-Kadeem Allen) • trade exception"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 24,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Alec Peters",
+      "tradeSummary": "Suns &nbsp; Traded • P.J. Tucker to Raptors for • Jared Sullinger • 2017 second round pick (#54-Alec Peters) • 2018 second round pick (#59-George King) on 2017-02-23 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2017-02-23",
+          "summary": "Suns &nbsp; Traded • P.J. Tucker to Raptors for • Jared Sullinger • 2017 second round pick (#54-Alec Peters) • 2018 second round pick (#59-George King)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 25,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Nigel Williams-Goss",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 26,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Jabari Bird",
+      "tradeSummary": "Celtics &nbsp; Traded • Austin Rivers in a 3-team trade with Clippers, Suns for • Chris Douglas-Roberts • Shavlik Randolph • 2017 second round pick (from Clippers) (#56-Jabari Bird) on 2015-01-15 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-01-15",
+          "summary": "Celtics &nbsp; Traded • Austin Rivers in a 3-team trade with Clippers, Suns for • Chris Douglas-Roberts • Shavlik Randolph • 2017 second round pick (from Clippers) (#56-Jabari Bird)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 27,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Aleksandar Vezenkov",
+      "tradeSummary": "Nets &nbsp; Traded • Gerald Wallace • Kris Humphries • MarShon Brooks • Kris Joseph • Keith Bogans • 2014 first round pick (least favorable of Hawks, Nets picks) (#17-James Young) • 2016 first round pick (#3-Jaylen Brown) • Celtics option to swap 2017 first round picks with Nets (#1-Markelle Fultz) • 2018 first round pick (#8-Collin Sexton) to Celtics for • Paul Pierce • Kevin Garnett • Jason Terry • D.J. White • Celtics option to swap 2017 first round picks with Nets (#27-Kyle Kuzma) • 2017 conditional second round pick (if Celtics exercise right to swap 2017 first round picks, protected top 45) (#57-Aleksandar Vezenkov) on 2013-07-12 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2013-07-12",
+          "summary": "Nets &nbsp; Traded • Gerald Wallace • Kris Humphries • MarShon Brooks • Kris Joseph • Keith Bogans • 2014 first round pick (least favorable of Hawks, Nets picks) (#17-James Young) • 2016 first round pick (#3-Jaylen Brown) • Celtics option to swap 2017 first round picks with Nets (#1-Markelle Fultz) • 2018 first round pick (#8-Collin Sexton) to Celtics for • Paul Pierce • Kevin Garnett • Jason Terry • D.J. White • Celtics option to swap 2017 first round picks with Nets (#27-Kyle Kuzma) • 2017 conditional second round pick (if Celtics exercise right to swap 2017 first round picks, protected top 45) (#57-Aleksandar Vezenkov)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 28,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Ognjen Jaramaz",
+      "tradeSummary": "Knicks &nbsp; Traded • Pablo Prigioni to Rockets for • Alexey Shved • 2017 second round pick (#58-Ognjen Jaramaz) • 2019 second round pick (#55-Kyle Guy) on 2015-02-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-02-19",
+          "summary": "Knicks &nbsp; Traded • Pablo Prigioni to Rockets for • Alexey Shved • 2017 second round pick (#58-Ognjen Jaramaz) • 2019 second round pick (#55-Kyle Guy)"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 29,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Jaron Blossomgame",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "pickNumber": 30,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Alpha Kaba",
+      "tradeSummary": "Jazz &nbsp; Traded • Randy Foye • Kevin Murphy in a 3-team trade with Nuggets, Warriors for • Richard Jefferson • Andris Biedrins • Brandon Rush • 2014 first round pick (from Warriors) (#21-Rodney Hood) • 2016 second round pick (from Warriors) (#60-Tyrone Wallace) • 2017 first round pick (from Warriors) (#30-Josh Hart) • 2017 second round pick (from Warriors) (#60-Alpha Kaba) • 2018 second round pick (from Nuggets) (#47-Sviatoslav Mykhailiuk) • cash considerations on 2013-07-10 | 76ers &nbsp; Traded • Kendall Marshall to Jazz for • Tibor Pleiss • 2017 second round pick (most favorable of Jazz, Knicks, Pistons, Warriors picks) (#36-Jonah Bolden) • 2017 second round pick (least favorable of Jazz, Knicks, Pistons, Warriors picks) (#60-Alpha Kaba) on 2016-08-26 | Hawks &nbsp; Traded • Tiago Splitter • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown) • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#50-Mathias Lessort) to 76ers for • Ersan Ilyasova • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#60-Alpha Kaba) on 2017-02-22",
+      "tradeChain": [
+        {
+          "date": "2013-07-10",
+          "summary": "Jazz &nbsp; Traded • Randy Foye • Kevin Murphy in a 3-team trade with Nuggets, Warriors for • Richard Jefferson • Andris Biedrins • Brandon Rush • 2014 first round pick (from Warriors) (#21-Rodney Hood) • 2016 second round pick (from Warriors) (#60-Tyrone Wallace) • 2017 first round pick (from Warriors) (#30-Josh Hart) • 2017 second round pick (from Warriors) (#60-Alpha Kaba) • 2018 second round pick (from Nuggets) (#47-Sviatoslav Mykhailiuk) • cash considerations"
+        },
+        {
+          "date": "2016-08-26",
+          "summary": "76ers &nbsp; Traded • Kendall Marshall to Jazz for • Tibor Pleiss • 2017 second round pick (most favorable of Jazz, Knicks, Pistons, Warriors picks) (#36-Jonah Bolden) • 2017 second round pick (least favorable of Jazz, Knicks, Pistons, Warriors picks) (#60-Alpha Kaba)"
+        },
+        {
+          "date": "2017-02-22",
+          "summary": "Hawks &nbsp; Traded • Tiago Splitter • second round pick (protected top 40 in 2017, unprotected in 2018) (2017 #46-Sterling Brown) • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#50-Mathias Lessort) to 76ers for • Ersan Ilyasova • 76ers option to swap 2017 second round picks (least favorable of Jazz, Knicks, Pistons, Warriors picks received in earlier trade with Jazz) with Hawks (Hawks pick protected #56-60) (#60-Alpha Kaba)"
+        }
+      ]
+    }
+  ]
+}

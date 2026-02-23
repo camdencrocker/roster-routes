@@ -1,0 +1,663 @@
+{
+  "source": "file:/Users/camdencrocker/roster-routes/app/data/2015 NBA Draft Pick Transactions.html",
+  "fetchedAt": "2026-02-05T21:00:39.900Z",
+  "note": "Double-check against trades.json before merging; some trades may already exist.",
+  "picks": [
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 1,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Karl-Anthony Towns",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 2,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "D'Angelo Russell",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 3,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Jahlil Okafor",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 4,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Kristaps Porzingis",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 5,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Mario Hezonja",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 6,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Willie Cauley-Stein",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 7,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Emmanuel Mudiay",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 8,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Stanley Johnson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 9,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "Frank Kaminsky",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 10,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Justise Winslow",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 11,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Myles Turner",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 12,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Trey Lyles",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 13,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Devin Booker",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 14,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Cameron Payne",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 15,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Kelly Oubre",
+      "tradeSummary": "Hawks &nbsp; Traded • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough) to Nets for • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson) on 2012-07-11 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-07-11",
+          "summary": "Hawks &nbsp; Traded • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough) to Nets for • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 16,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Terry Rozier",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 17,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Rashad Vaughn",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 18,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Sam Dekker",
+      "tradeSummary": "Rockets &nbsp; Traded • Omer Asik • Omri Casspi • $1.5M cash considerations in a 3-team trade with Pelicans, Wizards for • Trevor Ariza • Alonzo Gee • Scotty Hopson • first round pick (from Pelicans) (protected top 3 and 20-30 in 2015-18, top 3 and 25-30 in 2019-20, else 2020 second round pick and 2021 second round pick) (2015 #18-Sam Dekker) on 2014-07-14 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-07-14",
+          "summary": "Rockets &nbsp; Traded • Omer Asik • Omri Casspi • $1.5M cash considerations in a 3-team trade with Pelicans, Wizards for • Trevor Ariza • Alonzo Gee • Scotty Hopson • first round pick (from Pelicans) (protected top 3 and 20-30 in 2015-18, top 3 and 25-30 in 2019-20, else 2020 second round pick and 2021 second round pick) (2015 #18-Sam Dekker)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 19,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Jerian Grant",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 20,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Delon Wright",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 21,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Justin Anderson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 22,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Bobby Portis",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 23,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Rondae Hollis-Jefferson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 24,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Tyus Jones",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 25,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Jarell Martin",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 26,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Nikola Milutinov",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 27,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "Larry Nance Jr.",
+      "tradeSummary": "Lakers &nbsp; Traded • rights to Sergei Lishchuk to Rockets for • Jeremy Lin • first round pick (protected top 14 in 2015, top 10 in 2016-17, top 5 in 2018-19, top 3 in 2020, unprotected in 2021) (2015 #27-Larry Nance Jr.) • 2015 second round pick (protected top 50 and 56-60, else extinguished) (not exercised) on 2014-07-13 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-07-13",
+          "summary": "Lakers &nbsp; Traded • rights to Sergei Lishchuk to Rockets for • Jeremy Lin • first round pick (protected top 14 in 2015, top 10 in 2016-17, top 5 in 2018-19, top 3 in 2020, unprotected in 2021) (2015 #27-Larry Nance Jr.) • 2015 second round pick (protected top 50 and 56-60, else extinguished) (not exercised)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 28,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "R.J. Hunter",
+      "tradeSummary": "Celtics &nbsp; Received • 2015 first round pick (#28-R.J. Hunter) from Clippers on 2013-06-25 as compensation for head coach Glenn &quot;Doc&quot; Rivers | &nbsp;",
+      "tradeChain": [
+        {
+          "date": null,
+          "summary": "Celtics &nbsp; Received • 2015 first round pick (#28-R.J. Hunter) from Clippers on 2013-06-25 as compensation for head coach Glenn &quot;Doc&quot; Rivers"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 29,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Chris McCullough",
+      "tradeSummary": "Nets &nbsp; Traded • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson) to Hawks for • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough) on 2012-07-11 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-07-11",
+          "summary": "Nets &nbsp; Traded • Anthony Morrow • Jordan Farmar • Jordan Williams • DeShawn Stevenson • Johan Petro • first round pick (protected top 14 in 2012-16, else 2017 second round pick, cash) (2013 #18-Shane Larkin) • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#15-Kelly Oubre) • 2017 second round pick (#31-Frank Jackson) to Hawks for • Joe Johnson • Hawks option to swap 2014 first round picks (not exercised) • Hawks option to swap 2015 first round picks (#29-Chris McCullough)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "pickNumber": 30,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Kevon Looney",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 1,
+      "teamAtDraft": "Timberwolves",
+      "draftedPlayerName": "Cedi Osman",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 2,
+      "teamAtDraft": "Knicks",
+      "draftedPlayerName": "Montrezl Harrell",
+      "tradeSummary": "Rockets &nbsp; Traded • Marcus Camby to Knicks for • Toney Douglas • Jerome Jordan • Josh Harrellson • 2014 second round pick (#42-Nick Johnson) • 2015 second round pick (#32-Montrezl Harrell) on 2012-07-11 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-07-11",
+          "summary": "Rockets &nbsp; Traded • Marcus Camby to Knicks for • Toney Douglas • Jerome Jordan • Josh Harrellson • 2014 second round pick (#42-Nick Johnson) • 2015 second round pick (#32-Montrezl Harrell)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 3,
+      "teamAtDraft": "76ers",
+      "draftedPlayerName": "Jordan Mickey",
+      "tradeSummary": "Heat &nbsp; Traded • rights to Arnett Moultrie to 76ers for • rights to Justin Hamilton • first round pick (protected top 14 in 2013-15, else 2015 second round pick, 2016 second round pick) (2015 #33-Jordan Mickey) (2016 #31-Deyonta Davis) on 2012-06-28 | Celtics &nbsp; Traded • Jordan Crawford • MarShon Brooks in a 3-team trade with Heat, Warriors for • Joel Anthony • first round pick (protected top 14 in 2013-15, else 2015 second round pick, 2016 second round pick) (from Heat) (2015 #33-Jordan Mickey) (2016 #31-Deyonta Davis) • 2016 second round pick (from Heat) (#51-Ben Bentil) • cash on 2014-01-15 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2012-06-28",
+          "summary": "Heat &nbsp; Traded • rights to Arnett Moultrie to 76ers for • rights to Justin Hamilton • first round pick (protected top 14 in 2013-15, else 2015 second round pick, 2016 second round pick) (2015 #33-Jordan Mickey) (2016 #31-Deyonta Davis)"
+        },
+        {
+          "date": "2014-01-15",
+          "summary": "Celtics &nbsp; Traded • Jordan Crawford • MarShon Brooks in a 3-team trade with Heat, Warriors for • Joel Anthony • first round pick (protected top 14 in 2013-15, else 2015 second round pick, 2016 second round pick) (from Heat) (2015 #33-Jordan Mickey) (2016 #31-Deyonta Davis) • 2016 second round pick (from Heat) (#51-Ben Bentil) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 4,
+      "teamAtDraft": "Lakers",
+      "draftedPlayerName": "Anthony Brown",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 5,
+      "teamAtDraft": "Magic",
+      "draftedPlayerName": "Willy Hernangomez",
+      "tradeSummary": "76ers &nbsp; Traded • rights to Elfrid Payton to Magic for • rights to Dario Saric • 2015 second round pick (#35-Guillermo &quot;Willy&quot; Hernangomez) • 2017 first round pick (#5-De'Aaron Fox) on 2014-06-26 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-06-26",
+          "summary": "76ers &nbsp; Traded • rights to Elfrid Payton to Magic for • rights to Dario Saric • 2015 second round pick (#35-Guillermo &quot;Willy&quot; Hernangomez) • 2017 first round pick (#5-De'Aaron Fox)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 6,
+      "teamAtDraft": "Kings",
+      "draftedPlayerName": "Rakeem Christmas",
+      "tradeSummary": "Rockets &nbsp; Traded • Alonzo Gee • Scotty Hopson • trade exception to Kings for • Jason Terry • 2015 second round pick (protected #50-60) (#36-Rakeem Christmas) • 2016 second round pick (#37-Chinanu Onuaku) on 2014-09-17 | Timberwolves &nbsp; Traded • Corey Brewer • Ronny Turiaf in a 3-team trade with 76ers, Rockets for • Troy Daniels • 2015 second round pick (protected #50-60) (from Rockets) (#36-Rakeem Christmas) • 2016 second round pick (protected top 45) (from Rockets) (not exercised) • cash considerations on 2014-12-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-09-17",
+          "summary": "Rockets &nbsp; Traded • Alonzo Gee • Scotty Hopson • trade exception to Kings for • Jason Terry • 2015 second round pick (protected #50-60) (#36-Rakeem Christmas) • 2016 second round pick (#37-Chinanu Onuaku)"
+        },
+        {
+          "date": "2014-12-19",
+          "summary": "Timberwolves &nbsp; Traded • Corey Brewer • Ronny Turiaf in a 3-team trade with 76ers, Rockets for • Troy Daniels • 2015 second round pick (protected #50-60) (from Rockets) (#36-Rakeem Christmas) • 2016 second round pick (protected top 45) (from Rockets) (not exercised) • cash considerations"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 7,
+      "teamAtDraft": "Nuggets",
+      "draftedPlayerName": "Richaun Holmes",
+      "tradeSummary": "Timberwolves &nbsp; Traded • Corey Brewer • Kosta Koufos in a 3-team trade with Knicks, Nuggets for • Anthony Randolph • Eddy Curry • 2015 second round pick (from Nuggets) (#37-Richaun Holmes) • $3M cash (from Knicks) on 2011-02-22 | Blazers &nbsp; Traded • rights to Tanguy Ngombo to Timberwolves for • 2015 second round pick (less favorable of Nuggets and Timberwolves) (#37-Richaun Holmes) on 2011-06-27 | Rockets &nbsp; Traded • Thomas Robinson to Blazers for • rights to Kostas Papanikolaou • rights to Marko Todorovic • 2015 second round pick (less favorable of Nuggets, Timberwolves) (#37-Richaun Holmes) • 2017 second round pick (#45-Dillon Brooks) on 2013-07-10 | 76ers &nbsp; Traded • K.J. McDaniels to Rockets for • Isaiah Canaan • 2015 second round pick (less favorable of Nuggets, Timberwolves) (#37-Richaun Holmes) on 2015-02-19",
+      "tradeChain": [
+        {
+          "date": "2011-02-22",
+          "summary": "Timberwolves &nbsp; Traded • Corey Brewer • Kosta Koufos in a 3-team trade with Knicks, Nuggets for • Anthony Randolph • Eddy Curry • 2015 second round pick (from Nuggets) (#37-Richaun Holmes) • $3M cash (from Knicks)"
+        },
+        {
+          "date": "2011-06-27",
+          "summary": "Blazers &nbsp; Traded • rights to Tanguy Ngombo to Timberwolves for • 2015 second round pick (less favorable of Nuggets and Timberwolves) (#37-Richaun Holmes)"
+        },
+        {
+          "date": "2013-07-10",
+          "summary": "Rockets &nbsp; Traded • Thomas Robinson to Blazers for • rights to Kostas Papanikolaou • rights to Marko Todorovic • 2015 second round pick (less favorable of Nuggets, Timberwolves) (#37-Richaun Holmes) • 2017 second round pick (#45-Dillon Brooks)"
+        },
+        {
+          "date": "2015-02-19",
+          "summary": "76ers &nbsp; Traded • K.J. McDaniels to Rockets for • Isaiah Canaan • 2015 second round pick (less favorable of Nuggets, Timberwolves) (#37-Richaun Holmes)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 8,
+      "teamAtDraft": "Pistons",
+      "draftedPlayerName": "Darrun Hilliard",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 9,
+      "teamAtDraft": "Hornets",
+      "draftedPlayerName": "Juan Pablo Vaulet",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 10,
+      "teamAtDraft": "Heat",
+      "draftedPlayerName": "Josh Richardson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 11,
+      "teamAtDraft": "Nets",
+      "draftedPlayerName": "Pat Connaughton",
+      "tradeSummary": "Jazz &nbsp; Traded • Mehmet Okur to Nets for • 2015 second round pick (#41-Pat Connaughton) • trade exception on 2011-12-22 | Hawks &nbsp; Traded • rights to Raul Neto to Jazz for • 2015 second round pick (#41-Pat Connaughton) on 2013-06-27 | Bucks &nbsp; Traded • rights to Lamar Patterson to Hawks for • 2015 second round pick (#41-Pat Connaughton) on 2014-06-26 | Nets &nbsp; Received • 2015 second round pick (#41-Pat Connaughton) • 2019 second round pick (more favorable of Bucks, Kings picks) (#42-Admiral Schofield) from Bucks on 2014-06-30 as compensation for head coach Jason Kidd",
+      "tradeChain": [
+        {
+          "date": "2011-12-22",
+          "summary": "Jazz &nbsp; Traded • Mehmet Okur to Nets for • 2015 second round pick (#41-Pat Connaughton) • trade exception"
+        },
+        {
+          "date": "2013-06-27",
+          "summary": "Hawks &nbsp; Traded • rights to Raul Neto to Jazz for • 2015 second round pick (#41-Pat Connaughton)"
+        },
+        {
+          "date": "2014-06-26",
+          "summary": "Bucks &nbsp; Traded • rights to Lamar Patterson to Hawks for • 2015 second round pick (#41-Pat Connaughton)"
+        },
+        {
+          "date": null,
+          "summary": "Nets &nbsp; Received • 2015 second round pick (#41-Pat Connaughton) • 2019 second round pick (more favorable of Bucks, Kings picks) (#42-Admiral Schofield) from Bucks on 2014-06-30 as compensation for head coach Jason Kidd"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 12,
+      "teamAtDraft": "Jazz",
+      "draftedPlayerName": "Olivier Hanlan",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 13,
+      "teamAtDraft": "Pacers",
+      "draftedPlayerName": "Joe Young",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 14,
+      "teamAtDraft": "Suns",
+      "draftedPlayerName": "Andrew Harrison",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 15,
+      "teamAtDraft": "Celtics",
+      "draftedPlayerName": "Marcus Thornton",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 16,
+      "teamAtDraft": "Bucks",
+      "draftedPlayerName": "Norman Powell",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 17,
+      "teamAtDraft": "Pelicans",
+      "draftedPlayerName": "Arturas Gudaitis",
+      "tradeSummary": "Clippers &nbsp; Traded • Eric Gordon • Chris Kaman • Al-Farouq Aminu • 2012 first round pick (more favorable of Clippers, Timberwolves picks) (#10-Austin Rivers) to Hornets (who became Pelicans) for • Chris Paul • 2015 second round pick (#47-Arturas Gudaitis) • 2015 second round pick or $350K cash (Grizzlies option from earlier trade) ($350K cash) on 2011-12-14 | Wizards &nbsp; Traded • Nick Young • JaVale McGee • Ronny Turiaf in a 3-team trade with Clippers, Nuggets for • Nene • Brian Cook • 2015 second round pick (from Clippers) (#47-Arturas Gudaitis) on 2012-03-15 | 76ers &nbsp; Traded • 2014 second round pick (protected top 45 and #51-60 in 2014, else extinguished) (not exercised) in a 3-team trade with Nuggets, Wizards for • Eric Maynor • 2015 second round pick (from Wizards) (#47-Arturas Gudaitis) • 2016 second round pick (from Nuggets) (#39-David Michineau) on 2014-02-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-12-14",
+          "summary": "Clippers &nbsp; Traded • Eric Gordon • Chris Kaman • Al-Farouq Aminu • 2012 first round pick (more favorable of Clippers, Timberwolves picks) (#10-Austin Rivers) to Hornets (who became Pelicans) for • Chris Paul • 2015 second round pick (#47-Arturas Gudaitis) • 2015 second round pick or $350K cash (Grizzlies option from earlier trade) ($350K cash)"
+        },
+        {
+          "date": "2012-03-15",
+          "summary": "Wizards &nbsp; Traded • Nick Young • JaVale McGee • Ronny Turiaf in a 3-team trade with Clippers, Nuggets for • Nene • Brian Cook • 2015 second round pick (from Clippers) (#47-Arturas Gudaitis)"
+        },
+        {
+          "date": "2014-02-20",
+          "summary": "76ers &nbsp; Traded • 2014 second round pick (protected top 45 and #51-60 in 2014, else extinguished) (not exercised) in a 3-team trade with Nuggets, Wizards for • Eric Maynor • 2015 second round pick (from Wizards) (#47-Arturas Gudaitis) • 2016 second round pick (from Nuggets) (#39-David Michineau)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 18,
+      "teamAtDraft": "Thunder",
+      "draftedPlayerName": "Dakari Johnson",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 19,
+      "teamAtDraft": "Wizards",
+      "draftedPlayerName": "Aaron White",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 20,
+      "teamAtDraft": "Raptors",
+      "draftedPlayerName": "Marcus Eriksson",
+      "tradeSummary": "Hawks &nbsp; Traded • Lou Williams • rights to Lucas Nogueira to Raptors for • John Salmons • 2015 second round pick (#50-Marcus Eriksson) on 2014-06-30 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-06-30",
+          "summary": "Hawks &nbsp; Traded • Lou Williams • rights to Lucas Nogueira to Raptors for • John Salmons • 2015 second round pick (#50-Marcus Eriksson)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 21,
+      "teamAtDraft": "Bulls",
+      "draftedPlayerName": "Tyler Harvey",
+      "tradeSummary": "Magic &nbsp; Traded • rights to Milovan Rakovic to Bulls for • Anthony Randolph • 2015 second round pick (more favorable of Bulls, Nuggets picks) (#51-Tyler Harvey) • 2016 second round pick (more favorable of Blazers, Bulls picks) (#47-Jake Layman) • cash on 2014-07-14 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-07-14",
+          "summary": "Magic &nbsp; Traded • rights to Milovan Rakovic to Bulls for • Anthony Randolph • 2015 second round pick (more favorable of Bulls, Nuggets picks) (#51-Tyler Harvey) • 2016 second round pick (more favorable of Blazers, Bulls picks) (#47-Jake Layman) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 22,
+      "teamAtDraft": "Mavericks",
+      "draftedPlayerName": "Satnam Singh",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 23,
+      "teamAtDraft": "Blazers",
+      "draftedPlayerName": "Sir'Dominic Pointer",
+      "tradeSummary": "Cavaliers &nbsp; Traded • rights to Allen Crabbe to Blazers for • 2015 second round pick (#53-Sir'Dominic Pointer) • 2016 second round pick (#48-Paul Zipser) on 2013-06-27 | Bulls &nbsp; Traded • Luol Deng • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) to Cavaliers for • Andrew Bynum • first round pick (protected top 14 in 2012, top 13 in 2013, top 12 in 2014, top 10 in 2015-17, else 2017 second round pick (protected #56-60)) (2017 #38-Jordan Bell) • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) • 2015 second round pick (#53-Sir'Dominic Pointer) • 2016 second round pick (#48-Paul Zipser) on 2014-01-06 | Nuggets &nbsp; Traded • Anthony Randolph • rights to Doug McDermott to Bulls for • rights to Jusuf Nurkic • rights to Gary Harris • 2015 second round pick (less favorable of Blazers, Bulls picks) (#53-Sir'Dominic Pointer) on 2014-06-26 | Cavaliers &nbsp; Traded • first round pick (protected top 18 in 2015, top 15 in 2016-17, else 2018 second round pick and 2019 second round pick) (2016 #26-Furkan Korkmaz) • first round pick in first draft 2 years after Grizzlies send first round pick to Timberwolves via Rockets (protected #1-5, #15-30 in 2015-16, top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III) to Nuggets for • Timofey Mozgov • 2015 second round pick (less favorable of Blazers, Bulls picks) (#53-Sir'Dominic Pointer) on 2015-01-07",
+      "tradeChain": [
+        {
+          "date": "2013-06-27",
+          "summary": "Cavaliers &nbsp; Traded • rights to Allen Crabbe to Blazers for • 2015 second round pick (#53-Sir'Dominic Pointer) • 2016 second round pick (#48-Paul Zipser)"
+        },
+        {
+          "date": "2014-01-06",
+          "summary": "Bulls &nbsp; Traded • Luol Deng • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) to Cavaliers for • Andrew Bynum • first round pick (protected top 14 in 2012, top 13 in 2013, top 12 in 2014, top 10 in 2015-17, else 2017 second round pick (protected #56-60)) (2017 #38-Jordan Bell) • Bulls conditional option to swap 2015 first round picks with Cavaliers (if Cavaliers pick is not a lottery pick) (not exercised) • 2015 second round pick (#53-Sir'Dominic Pointer) • 2016 second round pick (#48-Paul Zipser)"
+        },
+        {
+          "date": "2014-06-26",
+          "summary": "Nuggets &nbsp; Traded • Anthony Randolph • rights to Doug McDermott to Bulls for • rights to Jusuf Nurkic • rights to Gary Harris • 2015 second round pick (less favorable of Blazers, Bulls picks) (#53-Sir'Dominic Pointer)"
+        },
+        {
+          "date": "2015-01-07",
+          "summary": "Cavaliers &nbsp; Traded • first round pick (protected top 18 in 2015, top 15 in 2016-17, else 2018 second round pick and 2019 second round pick) (2016 #26-Furkan Korkmaz) • first round pick in first draft 2 years after Grizzlies send first round pick to Timberwolves via Rockets (protected #1-5, #15-30 in 2015-16, top 5 in 2017-18, unprotected in 2019) (2017 #20-Harry Giles III) to Nuggets for • Timofey Mozgov • 2015 second round pick (less favorable of Blazers, Bulls picks) (#53-Sir'Dominic Pointer)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 24,
+      "teamAtDraft": "Cavaliers",
+      "draftedPlayerName": "Daniel Diez",
+      "tradeSummary": "Jazz &nbsp; Traded • John Lucas III • Malcolm Thomas • Erik Murphy to Cavaliers for • Carrick Felix • 2015 second round pick (#54-Daniel Diez) • cash on 2014-07-22 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-07-22",
+          "summary": "Jazz &nbsp; Traded • John Lucas III • Malcolm Thomas • Erik Murphy to Cavaliers for • Carrick Felix • 2015 second round pick (#54-Daniel Diez) • cash"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 25,
+      "teamAtDraft": "Spurs",
+      "draftedPlayerName": "Cady Lalanne",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 26,
+      "teamAtDraft": "Grizzlies",
+      "draftedPlayerName": "Branden Dawson",
+      "tradeSummary": "Pelicans &nbsp; Traded • Austin Rivers • Russ Smith in a 3-team trade with Celtics, Grizzlies for • Quincy Pondexter • 2015 second round pick (from Grizzlies) (#56-Branden Dawson) on 2015-01-12 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2015-01-12",
+          "summary": "Pelicans &nbsp; Traded • Austin Rivers • Russ Smith in a 3-team trade with Celtics, Grizzlies for • Quincy Pondexter • 2015 second round pick (from Grizzlies) (#56-Branden Dawson)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 27,
+      "teamAtDraft": "Clippers",
+      "draftedPlayerName": "Nikola Radicevic",
+      "tradeSummary": "Nuggets &nbsp; Traded • Cheikh Samb • cash (remainder of Samb's 2008-09 salary) to Clippers for • 2015 second round pick (protected top 55)(#57-Nikola Radicevic) on 2009-01-05 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2009-01-05",
+          "summary": "Nuggets &nbsp; Traded • Cheikh Samb • cash (remainder of Samb's 2008-09 salary) to Clippers for • 2015 second round pick (protected top 55)(#57-Nikola Radicevic)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 28,
+      "teamAtDraft": "Rockets",
+      "draftedPlayerName": "J.P. Tokoto",
+      "tradeSummary": "76ers &nbsp; Traded • Alexey Shved in a 3-team trade with Rockets, Timberwolves for • Ronny Turiaf • rights to Sergei Lishchuk • 2015 second round pick (from Rockets) (#58-J.P. Tokoto) on 2014-12-19 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2014-12-19",
+          "summary": "76ers &nbsp; Traded • Alexey Shved in a 3-team trade with Rockets, Timberwolves for • Ronny Turiaf • rights to Sergei Lishchuk • 2015 second round pick (from Rockets) (#58-J.P. Tokoto)"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 29,
+      "teamAtDraft": "Hawks",
+      "draftedPlayerName": "Dimitrios Agravanis",
+      "tradeSummary": "&nbsp;"
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "pickNumber": 30,
+      "teamAtDraft": "Warriors",
+      "draftedPlayerName": "Luka Mitrovic",
+      "tradeSummary": "Pacers &nbsp; Traded • Brandon Rush to Warriors for • Lou Amundson • 2015 second round pick (#60-Luka Mitrovic) on 2011-12-18 | 76ers &nbsp; Traded • Evan Turner • Lavoy Allen to Pacers for • Danny Granger • 2015 second round pick (#60-Luka Mitrovic) on 2014-02-20 | &nbsp;",
+      "tradeChain": [
+        {
+          "date": "2011-12-18",
+          "summary": "Pacers &nbsp; Traded • Brandon Rush to Warriors for • Lou Amundson • 2015 second round pick (#60-Luka Mitrovic)"
+        },
+        {
+          "date": "2014-02-20",
+          "summary": "76ers &nbsp; Traded • Evan Turner • Lavoy Allen to Pacers for • Danny Granger • 2015 second round pick (#60-Luka Mitrovic)"
+        }
+      ]
+    }
+  ]
+}

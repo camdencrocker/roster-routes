@@ -1,0 +1,11 @@
+# Reduce Cursor indexing load — exclude large raw data
+# (AI can still read these files when needed)
+
+# Saved HTML pages (BBRef, PST) — very large
+app/data/*.html
+
+# Parsed BBRef transactions — 14k+ lines each
+app/data/*-transactions-bbref.json
+
+# Draft pick raw JSON
+app/data/draft-picks-*-raw.json
