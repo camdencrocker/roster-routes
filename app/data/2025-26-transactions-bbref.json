@@ -1,5 +1,16 @@
 [
   {
+    "date": "March 11, 2026",
+    "dateNorm": "2026-03-11",
+    "type": "signed",
+    "team": "UTA",
+    "players": [
+      "Andersson Garcia"
+    ],
+    "text": "The Utah Jazz signed Andersson Garcia to a 10-day contract.",
+    "teamTo": "UTA"
+  },
+  {
     "date": "March 9, 2026",
     "dateNorm": "2026-03-09",
     "type": "waived",
@@ -11205,7 +11216,7 @@
     "type": "other",
     "team": null,
     "players": [],
-    "text": "Site Last Updated: Thursday, March 12, 5:26AM"
+    "text": "Site Last Updated: Friday, March 13, 5:23AM"
   },
   {
     "date": "February 25, 2025",
